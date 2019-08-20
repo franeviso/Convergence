@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: convergence_august_2016.aux
+The style file: evolution.bst
+Database file #1: franeviso.bib
+You're missing a field name---line 1397 of file franeviso.bib
+ :   
+ :   %url = {http://dx.doi.org/10.1073/pnas.0408424102}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1635 of file franeviso.bib
+ :   
+ :   %url = {http://dx.doi.org/10.1006/jtbi.2001.2383}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2163 of file franeviso.bib
+ :   
+ :   %url = {http://dx.doi.org/10.1098/rspb.2010.1371}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3098 of file franeviso.bib
+ :   
+ :   %url = {http://dx.doi.org/10.1038/nature07950}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 3147 of file franeviso.bib
+ :   
+ :   %url = {http://dx.doi.org/10.1371/journal.pcbi.1000892}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 52 entries,
+            2892 wiz_defined-function locations,
+            943 strings with 12559 characters,
+and the built_in function-call counts, 31186 in all, are:
+= -- 2565
+> -- 1495
+< -- 24
++ -- 504
+- -- 438
+* -- 2189
+:= -- 5040
+add.period$ -- 157
+call.type$ -- 52
+change.case$ -- 401
+chr.to.int$ -- 52
+cite$ -- 52
+duplicate$ -- 2212
+empty$ -- 2325
+format.name$ -- 590
+if$ -- 6309
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 454
+newline$ -- 267
+num.names$ -- 208
+pop$ -- 845
+preamble$ -- 1
+purify$ -- 353
+quote$ -- 0
+skip$ -- 666
+stack$ -- 0
+substring$ -- 1656
+swap$ -- 984
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 459
+warning$ -- 0
+while$ -- 206
+width$ -- 0
+write$ -- 680
+(There were 5 error messages)

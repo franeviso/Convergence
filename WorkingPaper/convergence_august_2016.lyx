@@ -1,0 +1,4742 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{lineno}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding iso8859-15
+\fontencoding T1
+\font_roman lmodern
+\font_sans default
+\font_typewriter lmodern
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\rightmargin 1.5cm
+\bottommargin 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes true
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\author -979746051 "melianpilatus" 
+\author -303280620 "Encinas-Viso" 
+\author 696368358 "p223208" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\size large
+Eco-evolutionary diversification of trait convergence and complementarity
+ in mutualistic networks 
+\end_layout
+
+\begin_layout Author
+
+\size normal
+Francisco Encinas-Viso
+\begin_inset Formula $^{1,*}$
+\end_inset
+
+, Rampal S.
+ Etienne
+\begin_inset Formula $^{2,**}$
+\end_inset
+
+ and Carlos J.
+ Melián
+\begin_inset Formula $^{3,**}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+
+\series bold
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+ 
+\series bold
+1
+\series default
+) NRCA & Centre for Australian National Biodiversity Research, CSIRO, GPO
+ Box 1600 Canberra
+\change_deleted 696368358 1465907331
+ 
+\change_unchanged
+, Australia 
+\begin_inset Newline newline
+\end_inset
+
+ 
+\series bold
+2
+\series default
+) Groningen Institute for Evolutionary Life Sciences, University of Groningen,
+ The Netherlands 
+\begin_inset Newline newline
+\end_inset
+
+ 
+\series bold
+3
+\series default
+) Department of Fish Ecology and Evolution, Center for Ecology, Evolution
+ and Biogeochemistry, EAWAG, Swiss Federal Institute of Aquatic Science
+ and Technology, Switzerland
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Keywords: Diffuse coevolution, specialization, sexual reproduction, assortative
+ mating, dispersal limitation, phylogenetic relatedness, obligate mutualism,
+ morphological constraints, individual based model.
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Type of Article: Letters
+\begin_inset Newline newline
+\end_inset
+
+ Number of figures: 6 in color; Number of tables: 1
+\begin_inset Newline newline
+\end_inset
+
+ * Corresponding author: franencinas@gmail.com
+\begin_inset Newline newline
+\end_inset
+
+ ** Joint last authorship
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{linenumbers}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+ 
+\change_deleted -979746051 1465295151
+
+\end_layout
+
+\begin_layout Abstract
+
+\size small
+Mutualistic networks show high levels of convergence, complementarity and
+ nestedness.
+ Convergence and complementarity have been attributed to coevolutionary
+ interaction selection under a phenotype matching scenario.
+ It is not clear, however, whether phenotype matching fits empirical patterns
+ better than a phenotype difference scenario.
+ Here, we present a spatially and genetically explicit plant-animal trait
+ diversification model 
+\change_deleted -303280620 1473147116
+under the phenotype difference scenario
+\change_inserted -303280620 1473404139
+
+\size default
+ which uses a new model that lies between the phenotype matching and phenotype
+ difference model
+\change_unchanged
+
+\size small
+.
+ Our model predicts high levels of convergence, complementarity, and nestedness.
+ Comparing the model predictions with observed levels of complementarity
+ and convergence
+\change_deleted -303280620 1473147116
+ 
+\change_unchanged
+ in an empirical plant-hummingbird mutualistic network, we find that, unlike
+ previous models, they match well, except for convergence patterns in plants.
+ Our results indicate that combining the spatial structure of plant-animal
+ trait diversification with population dynamics in a phenotypic difference
+ model alter predictions in a direction that is more in line with observations,
+ and hence are important to be included in future studies of evolutionary
+ patterns in mutualistic networks.
+\end_layout
+
+\begin_layout Abstract
+
+\change_deleted -979746051 1465295599
+
+\size small
+ 
+\change_unchanged
+
+\size default
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Introduction
+\end_layout
+
+\begin_layout Standard
+Since Darwin's book 
+\begin_inset Quotes eld
+\end_inset
+
+On The Origin of Species
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "darwin"
+
+\end_inset
+
+, the idea of coevolution, defined as reciprocal evolutionary trait change
+ between species, has sparked interest from biologists trying to understand
+ how species interactions generate trait changes.
+ The first clear indication of coevolution was Darwin's moth example 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Darwin_orchids_book"
+
+\end_inset
+
+ showing that the long corolla from the orchid 
+\emph on
+Angraecum sesquispedale
+\emph default
+ could only be reached by a pollinator species with a similar or larger
+ proboscis length.
+ Following the moth and orchid mutualism model system, several studies have
+ modeled coevolutionary dynamics of a few species 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ferriere-2007,Law2001,Ferdy_2002,Gomulkiewicz-2003,Jones_Ferriere_amnat_2009"
+
+\end_inset
+
+, particularly highly specialized (i.e.
+ obligatory mutualists) systems of plant-animal interactions, such as the
+ fig-fig wasp mutualism 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bronstein-2006"
+
+\end_inset
+
+.
+ These studies have determined the ecological conditions for coevolutionary
+ stable systems in highly specialized plant-animal interactions 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Law2001,Jones_Ferriere_amnat_2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Janzen_coevolution_1980"
+
+\end_inset
+
+ argued that high specialization between plants and animals was not the
+ only example of coevolution, but coevolution can also be the product of
+ multiple-species interactions, a term that he coined 
+\begin_inset Quotes eld
+\end_inset
+
+diffuse coevolution
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Diffuse coevolution means that selection on traits is determined by the
+ interaction of more than two species and not only based on pairwise interaction
+s.
+ This concept is based on the idea of 
+\begin_inset Quotes eld
+\end_inset
+
+syndromes
+\begin_inset Quotes erd
+\end_inset
+
+, where, for example, plants have a set of traits that attract a specific
+ group of pollinator species with traits complementary to those of the plants
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jousselin_2003,guimaraes_coevol_2011"
+
+\end_inset
+
+.
+ Evolutionary convergence, i.e.
+ independent evolution of similar features among different lineages of the
+ same plant or animal community may partly explain the formation of 
+\begin_inset Quotes eld
+\end_inset
+
+syndromes
+\begin_inset Quotes erd
+\end_inset
+
+ produced by the presence of specific mutualist partner species (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Howe_1982"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Waser_1996"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Bascompte-Jordano-2007"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stayton_2008"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Losos_2011"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+Theoretical studies suggest that evolutionary convergence and complementarity
+ are generated by coevolutionary interaction selection driven by a 
+\begin_inset Quotes eld
+\end_inset
+
+phenotype matching model
+\begin_inset Quotes erd
+\end_inset
+
+ (Nuismer et al.
+ 2005; Kopp and Gavrilets 2006).
+ For example, in highly specialized two-species interactions such as the
+ fig-fig wasp mutualism 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bronstein-2006"
+
+\end_inset
+
+, plants coevolve with their most efficient pollinator to strengthen the
+ complementarity of their matching traits.
+ The phenotype matching model assumes that the probability of a successful
+ interaction decreases with increasing distance between the phenotypes of
+ the interacting individuals (Nuismer et al, 2012).
+ Examples are plant and animal phenology (Jordano et al.
+ 2003; Olesen et al.
+ 2010; Encinas-Viso et al, 2012) or proboscis and corolla lengths (Agosta
+ and Janzen 2005; Santamaría and Rodríguez-Gironés 2007; Stang et al.
+ 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+Only two theoretical studies have explored the importance of coevolutionary
+ selection and phenotype matching in the emergence of convergence, complementari
+ty and network structure in species-rich mutualistic networks 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nuismeretal2012,guimaraes_coevol_2011"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+ studied a coevolutonary model with a fixed network structure and showed
+ that convergence in a one-dimensional trait may emerge as a consequence
+ of coevolutionary selection for a complementarity trait between trophic
+ levels.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nuismeretal2012"
+
+\end_inset
+
+ explored the importance of coevolutionary selection in a multispecifies
+ context to study the emergence of convergence, complementarity and network
+ structure in mutualistic networks.
+ They found that weak coevolutionary selection produces little to no convergence
+ but generates high complementary.
+ As coevolutionary selection intensifies, variation in the trait values
+ of animal and plant species is reduced and high convergence emerges but
+ complementarity decreases.
+ Furthermore they found antinested networks regardless of the strength of
+ coevolutionary selection.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nuismeretal2012"
+
+\end_inset
+
+ also used an alternative model called 
+\begin_inset Quotes eld
+\end_inset
+
+phenotypic difference
+\begin_inset Quotes erd
+\end_inset
+
+ in which the success probability of an interaction increases with the degree
+ to which the animal trait exceeds the plant trait as might be the case
+ for fruit and beak size in a dispersal mutualism (Lambert 1989; da Silva
+ and Tabarelli 2000) or proboscis and corolla length in some pollination
+ mutualisms (Inouye 1980; Borrell 2007; Anderson and Johnson 2009; Anderson
+ et al.
+ 2010).
+ They showed that under the pheotype difference model networks were more
+ nested when coevolutionary selection was weak
+\change_deleted -303280620 1476332330
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+But what about the predictions on complementarity and convergence? Fran:
+ that's explained in the previous paragraphs (above) RAMPAL: No it is not,
+ only for the phenotype matching model.
+ What are the results for complementarity and convergence under the phenotype
+ difference model?
+\end_layout
+
+\end_inset
+
+
+\change_inserted -303280620 1476332316
+.
+ Furthermore, similar to the phenotypic matching model, convergence increases
+ with the strength of coevolution in the phenotypic difference model (but
+ only when interactions depend strongly of phenotypes); however complementarity
+ is weaker for interactions mediated by phenotype difference than those
+ mediated by phenotype matchings
+\change_unchanged
+.
+ Taken together, these results suggest that it is not trivial to simultaneously
+ explain high degrees of convergence, complementarity and nestedness in
+ species-rich mutualistic networks as observed in empirical data (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Bascompte-Jordano-2007"
+
+\end_inset
+
+.
+ The failure of succesfully explaining three patterns simultaneously may
+ also be a consequence of factors currently lacking in coevolutionary models
+ of mutualistic networks, such as 
+\size small
+the role of genetics, gene flow, and assortative mating in plant-animal
+ trait diversification 
+\size default
+(
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Gavriletsetal2000"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "deaguiar_2009"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Schluter:2009"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Doebeli_book"
+
+\end_inset
+
+;
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Seehausenetal_2014"
+
+\end_inset
+
+),
+\size small
+ and spatial structure and population dynamics.
+
+\change_inserted -303280620 1476334173
+ For example, although gene flow can be seen as an homogenizing factor,
+ there is increasing evidence showing the importance of gene flow in the
+ speciation process (Nosil, 2008) as well as the importance of spatial structure
+ 
+\size default
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "deaguiar_2009"
+
+\end_inset
+
+
+\size small
+.
+ However, more importantly, there is no doubt that considering genetic processes
+ (e.g.
+ drift, selection) are essential to understand biodiversification patterns.
+ 
+\change_deleted -303280620 1476334019
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465899069
+
+\size small
+You need to make a case why these factors are likely to be important.
+ I can think of many other factors; why these?
+\change_inserted -303280620 1465956977
+ Fran: I will strengthen these arguments.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+ 
+\size default
+In this study we present an integrative model to study the patterns of convergen
+ce, complementarity and nestedness in a model that includes genetic processes,
+ sexual reproduction, spatial structure, population and trait diversification
+ dynamics.
+
+\change_inserted 696368358 1465992645
+ Our model lies between a phenotype matching and phenotype difference model,
+ as an interaction can only occur when the animal trait exceeds the plant
+ trait, but the probability of success does not increase with this difference.
+ Furthermore, we use a definition of convergence that accounts for phylogenetic
+ relatedness.
+ 
+\change_deleted -303280620 1476334209
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465899052
+I am not sure whether this question is actually answered...
+
+\change_inserted -303280620 1465957036
+ Fran: we disagree here, all models are wrong, but this one I think is useful.
+
+\change_inserted 696368358 1465992710
+ RAMPAL: That is not my point.
+ My point is that we do not study how these three properties of the network
+ depend on all these processes.
+ I have rephrased the sentence to make this clearer.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+In contrast to previous studies, our model show
+\change_inserted 696368358 1465899076
+s
+\change_unchanged
+ high levels of convergence, complementarity and nestedness.
+ Comparing these predictions to convergence and complementarity patterns
+ observed in a plant-hummingbird mutualistic network, we find that the model
+ is in agreement with observed level of plant-animal complementarity and
+ convergence for the hummingbird community, but conflicts with convergence
+ in the plant community.
+ Our results indicate that combining the spatial structure of plant-animal
+ trait diversification with population dynamics in
+\change_inserted 696368358 1465899092
+ 
+\change_unchanged
+a phenotype difference model alter predictions in a direction that is more
+ in line with observations, and hence are important to be included in future
+ studies of evolutionary patterns in mutualistic networks.
+ 
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Eco-evolutionary trait diversification in mutualistic networks
+\end_layout
+
+\begin_layout Standard
+To study the effect of spatial structure and plant-animal trait diversification
+ on convergence, complementarity and nestedness in mutualistic networks,
+ we develop a spatial quantitative genetics model for plant-animal interactions
+ with overlapping generations.
+ Individuals have fixed genome size and we start with one plant and animal
+ species with all individuals having the same genetic composition at the
+ outset (see Figure 1 for the steps of the model).
+ Following population demography males and females individuals in both communiti
+es must be close enough in spatial, genetic, and morphological space for
+ an obligate mutualistic interactions to occur (Figure 1 step B) and to
+ produce offpsring with a new genotype-phenotype after mutation, recombination
+ and phenotypic plasticity (Figure 1 step C, D and E).
+ We follow the species definition of 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nei1983"
+
+\end_inset
+
+, where a species is a group of interbreeding and successfully reproducing
+ individuals that are reproductively isolated from other groups.
+ In our model two individuals can mate successfully if their genetic similarity
+ value is larger than or equal to the minimum genetic similarity value.
+ Thus, speciation is defined as a group of genetically related individuals,
+ where two individuals in a sexual population can be
+\change_deleted -303280620 1472708583
+ 
+\change_unchanged
+ incompatible, but still conspecific as long as they can exchange genes
+ indirectly through other conspecifics 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "deaguiar_2009,melian2010_plos"
+
+\end_inset
+
+.
+ This is the definition of 'ring species' 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "MoritzSchneider1992"
+
+\end_inset
+
+.
+ Please refer to Figure 1, Table 1 and SI for a detailed explanation of
+ the terms included in the model and how we model population dynamics, diversifi
+cation dynamics, quantitative trait dynamics and neutral locus evolution,
+ respectively.
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Convergence, complementarity, nestedness and connectance
+\end_layout
+
+\begin_layout Subsection*
+
+\series medium
+Evolutionary convergence and complementarity
+\end_layout
+
+\begin_layout Standard
+A focal species is considered to have convergent traits with another species
+ if it is phenotypically more similar to this other species than to the
+ genetically most similar species (the sister species) (see figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Evolutionary-convergence"
+
+\end_inset
+
+ and SI).
+ The number of convergences potentially increases with the number of species
+ present.
+ For example, if we have ten species and we exclude one of them as the sister
+ species of the focal species, we have nine species to calculate convergence.
+ If we find that two out of nine species are phenotypically similar enough
+ to the focal species, we count two (out of nine,
+\begin_inset Formula $\sim22\%$
+\end_inset
+
+) convergences.
+ We repeat this by changing the focal species and calculate the mean number
+ of convergence events over all species.
+ In contrast to previous approaches that used the mean pair-wise difference
+ between traits of species 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+ or the variance of species traits in a guild as a proxy to predict convergence
+ (i.e., large values weak convergence whereas small values of the variance
+ may indicate strong convergence, 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nuismeretal2012"
+
+\end_inset
+
+), our method considering phylogenetic relatedness is that it excludes cases
+ of development of very similar trait values in sister species due to shared
+ evolutionary history
+\change_deleted -303280620 1476335559
+ 
+\change_unchanged
+ and therefore it does not overestimate convergence events.
+ 
+\end_layout
+
+\begin_layout Standard
+The condition for complementarity between two mutualistic partners is simply
+ that the phenotypic similarity between them, is larger than some predefined
+ phenotypic threshold value
+\end_layout
+
+\begin_layout Standard
+We refer to the SI for a detailed explanation of phenotypic similarity and
+ mean genetic and phenotypic species similarity, and a precise definition
+ of complementarity and convergence in terms of these similarities.
+ 
+\end_layout
+
+\begin_layout Subsection*
+
+\series medium
+Nestedness and connectance
+\end_layout
+
+\begin_layout Standard
+To study the connection between convergence and complementarity with network
+ properties, we measured two topological properties of plant-animal mutualistic
+ networks: nestedness and connectance.
+ We estimated nestedness using the NODF algorithm developed by 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Almeida-neto_nodf"
+
+\end_inset
+
+ because of its statistical robustness
+\change_inserted 696368358 1465902334
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465902335
+ref
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+.
+ NODF is based on standardized differences in row and column fills and paired
+ matching of occurrences.
+ Connectance measures the proportion of realized interactions among all
+ possible interactions in a network.
+ It is defined as 
+\begin_inset Formula $C=\frac{k}{P*A}$
+\end_inset
+
+, where 
+\begin_inset Formula $k$
+\end_inset
+
+ represents the number of realized interactions between plant and animal
+ species and 
+\begin_inset Formula $P$
+\end_inset
+
+ and 
+\begin_inset Formula $A$
+\end_inset
+
+ represent the number of plant and animal species in the network, respectively
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jordano-2003"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Simulations
+\end_layout
+
+\begin_layout Standard
+We simulated equal population sizes for plants and animals with 
+\begin_inset Formula $J^{P}=J^{A}=1,000$
+\end_inset
+
+ individuals
+\change_inserted 696368358 1465902396
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465902408
+That is VERY small, even for a single species!
+\change_inserted -303280620 1465974499
+ Fran: we talked about this already.
+ Yes, we can do better, but I think we have a case.
+
+\change_inserted 696368358 1465993086
+ I have seen papers rejected just because of this.
+ I think a statement is needed somewhere that we believe our results are
+ robust.
+ Can we support this by even just a single simulation of, say, 100,000 individua
+ls?
+\change_inserted -303280620 1476420873
+ Fran: no, it will take a lot of time.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+.
+ Genome size, 
+\begin_inset Formula $L$
+\end_inset
+
+, of each individual was 150 loci.
+ Initial trait distributions for the plants, 
+\begin_inset Formula $Z^{P}=[z_{i}^{P}]$
+\end_inset
+
+ and animals, 
+\begin_inset Formula $Z^{A}=[z_{i}^{A}]$
+\end_inset
+
+, were generated following equation 2 plus a normally distributed environmental
+ effect, 
+\begin_inset Formula $\epsilon$
+\end_inset
+
+, 
+\begin_inset Formula $\mathcal{N}(\mu_{\epsilon}=0,\sigma_{\epsilon}^{2}=1$
+\end_inset
+
+).
+ To ensure plant mating conditions are met at the beginning of the simulation
+ all animal individuals have a higher phenotypic trait value that the plant
+ individuals.
+\end_layout
+
+\begin_layout Standard
+Geographic distances between each pair of individuals 
+\begin_inset Formula $i$
+\end_inset
+
+ and 
+\begin_inset Formula $j$
+\end_inset
+
+ for the plants, 
+\begin_inset Formula $d_{ij}^{P}$
+\end_inset
+
+, and animals, 
+\begin_inset Formula $d_{ij}^{A}$
+\end_inset
+
+, were calculated as follows: 1) Euclidean coordinates of a two-dimensional
+ space (
+\begin_inset Formula $x_{i},y_{i}$
+\end_inset
+
+) were sampled from a uniform distribution (
+\begin_inset Formula $x_{i}=[0,1],y_{i}=[0,1]$
+\end_inset
+
+) for each individual for the plants and animals; 2) Using these coordinates
+ we calculated a matrix of relative Euclidean distances between the individuals
+ for the plants, 
+\begin_inset Formula $d_{ij}^{P}$
+\end_inset
+
+, and animals, 
+\begin_inset Formula $d_{ij}^{A}$
+\end_inset
+
+.
+ This procedure was repeated for each of the geographic distance matrices
+ (
+\begin_inset Formula $D^{PA},D^{P},D^{A}$
+\end_inset
+
+) (See Table 1 and SI).
+\end_layout
+
+\begin_layout Standard
+We ran 2,000 generations for each replicate for a total of 500 replicates,
+ where a generation is the update of the effective population size (
+\begin_inset Formula $J^{P}=J^{A}=1,000$
+\end_inset
+
+), i.e.
+ the number of steps equal to the effective population size.
+ Steady-state was verified by checking the constancy of speciation events
+ during the last 
+\begin_inset Formula $1000$
+\end_inset
+
+ generations.
+ We calculated convergence, complementarity, nestedness and connectance
+ at steady-state.
+ Convergence and complementarity events were calculated for a whole range
+ (
+\begin_inset Formula $[0.0,1.0]$
+\end_inset
+
+) of their respective thresholds, 
+\begin_inset Formula $t_{conv}$
+\end_inset
+
+ and 
+\begin_inset Formula $t_{comp}$
+\end_inset
+
+.
+ We explored parameter combinations with mutation rate, 
+\begin_inset Formula $\mu\in\{10^{-4},10^{-2}\}$
+\end_inset
+
+, minimum genetic similarity, 
+\begin_inset Formula $q_{min}=0.97$
+\end_inset
+
+, maximum distance for finding a mate and disperse, 
+\begin_inset Formula $d_{max}\in\{0.1,0.3\}$
+\end_inset
+
+, and a maximum geographic distance to find a mutualistic partner, 
+\begin_inset Formula $d_{max}^{PA}=0.3$
+\end_inset
+
+.
+ We implemented the model in Python (and tested in IPython 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "ipython"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Confrontation to empirical data
+\end_layout
+
+\begin_layout Standard
+We tested our model's predictions of convergence and complementarity on
+ a plant-hummingbird network with 38 hummingbird species and 133 plant species
+ (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Maglianesi_2014"
+
+\end_inset
+
+).
+ .
+ To compute phenotypic similarity we used empirical values of corolla length
+ and bill length from plants and hummingbirds, respectively (REF).
+ .
+ To compute phylogenetic similarity for the hummingbirds we used a well
+ resolved recently published comprehensive phylogeny (McGuire et al, 2014)
+ to obtain phylogenetic relationships for 24 out of 38 hummingbird species;
+ the remaining 14 species were not present in the phylogenetic tree
+\change_inserted 696368358 1465905569
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465905649
+Really, we should get data for these 14 other species then.
+
+\change_inserted -303280620 1465956621
+ Fran: That seems as a major task.
+
+\change_deleted 696368358 1465993507
+ 
+\change_inserted 696368358 1465993531
+ There may be more data on GenBank, for example from this paper Bleiweiss,
+ R., Kirsch, J.A.W., and Matheus, J.C.
+ (1997).
+ DNA hybridization evidence for the principal lineages of hummingbirds (Aves:Tro
+chilidae).
+ Mol.
+ Biol.
+ Evol.
+ 14, 325–343 which is mentioned in McGuire et al.
+ 2014.
+\change_inserted -303280620 1476421500
+Fran: I would like to invest time in getting more data, but I don't have
+ it.
+ May be a project for one student in RUG?
+\change_inserted 696368358 1465993531
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+.
+ For the plant species we constructed a phylogenetic tree using sequence
+ data of 69 species from GenBank (data on rbcL, matK and ndhF genes collected
+ by PhyloGenerator using the option THOROUGH to allow also data from close
+ relatives if these relatives were not present in the community), aligned
+ them using MUSCLE (REF) and coonstructed the maximum likelihood (ML) tree
+ using RAXML
+\change_inserted -303280620 1476421544
+ 
+\change_unchanged
+(REF).
+
+\change_inserted -303280620 1476421925
+ 
+\change_unchanged
+We excluded 64 plant species from the analysis (see Suppl.
+ Information) because there was no sequence data available or the phylogenetic
+ relationships were not well resolved.
+ 
+\end_layout
+
+\begin_layout Standard
+We used the phylogenetic trees with their respective branch lengths to calculate
+ a genetic distance matrix among species.
+ Using both phylogenetic trees (hummingbirds and plants) we simulated nucleotide
+ sequences of 100 bp with the program SeqGen 
+\emph on
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "SeqGen_R_package"
+
+\end_inset
+
+
+\emph default
+ following the Jukes-Cantor model of molecular evolution.
+ These simulated sequences were then used to calculate the genetic distance
+ matrix using the R package 
+\emph on
+seqinr 
+\emph default
+in R 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "R_CRAN"
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Why would you do all this? That seems rather silly.
+ Why construct the phylogenies from GenBank sequences and then simulate
+ new sequences on this phylogeny? It would be best to simply use the GenBank
+ sequences to construct the similarity matrices, but we don't have overlapping
+ sequences for all pairs of species, so we need to work via the tree, but
+ then it is best to use the tree itself to determine genetic distance.
+\end_layout
+
+\begin_layout Plain Layout
+Fran: I only got the phylogenetic tree of the hummingbirds with their branch
+ lengths, but nothing else (No GenBank or any other genetic data).
+ Thus, the easiest way I found (after talking to two experts in phylogenetics)
+ was to simulate the sequences.
+ I couldn't find a way of calculating the genetic distance only based on
+ the tree.
+\end_layout
+
+\begin_layout Plain Layout
+RAMPAL: That is really simple.
+ You take the distance between any pair of species from the tree as the
+ time to their common ancestor (and multiply by 2).
+ If the tree is not time-calibrated, you can do this too, but then sum the
+ distances to the common ancestor.
+
+\change_inserted -303280620 1476421906
+ Fran: does that apply to trees based on morphology as well? it doesn't
+ seem to be equivalent to genetic differences really.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+.
+ To compare the convergence values obtained from the empirical data with
+ our model predictions, we generated 1000 replicates from the simulations
+ (bootstrapping
+\change_inserted 696368358 1465907078
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465907085
+What exactly do you mean? How did you do this?
+\change_inserted -303280620 1465956011
+ Fran: Carlos can explain this better than me because he did it.
+
+\change_inserted 696368358 1465993962
+ RAMPAL: OK, Carlos let me hear it :-)
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+) with each replicate containing the same number of plant and animal species
+ as the empirical data.
+ Mean values as well 0.05 and 0.95 CI were generated from these 1000 replicates.
+ Complementarity and convergence were calculated for each of the replicates
+ across the whole range of convergence, 
+\begin_inset Formula $t_{conv}$
+\end_inset
+
+, and complementarity, 
+\begin_inset Formula $t_{comp}$
+\end_inset
+
+, thresholds.
+ .
+ We used a conservative definition for convergence in which not only the
+ sister species, but the 30% most genetically similar species
+\change_deleted -303280620 1476422073
+ 
+\change_unchanged
+ were excluded.
+\change_inserted 696368358 1465907229
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1465907232
+I don't understand.
+
+\change_inserted -303280620 1465975315
+ Fran: This is very simple, ranking species by genetic similarity we consider
+ the top 30 (> 70 % similarity) as 
+\begin_inset Quotes eld
+\end_inset
+
+close
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+sister
+\begin_inset Quotes erd
+\end_inset
+
+ species, the rest (<70% similarity) are used to calculate convergence.
+ This approach is more conservative than only excluding the most genetically
+ similar species to the focal species.
+
+\change_inserted 696368358 1465994338
+ RAMPAL: I still don't understand why you would do this.
+ Did you do this for the real data as well?
+\change_inserted -303280620 1476422126
+ Fran: Carlos can you help me with this?
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Results
+\end_layout
+
+\begin_layout Subsection*
+Trait evolution
+\end_layout
+
+\begin_layout Standard
+Population dynamics and diversification dynamics changed plant and animal
+ community trait distributions (i.e.
+ corolla and proboscis lengths) with bimodal distributions being the most
+ commonly produced patterns across replicates (figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Changes-in-trait"
+
+\end_inset
+
+).
+ At the species level, a gradient of species phenotypes with common species
+ presenting lower mean and higher variance than rare species emerged.
+ Mean and variance of the trait values were correlated for most replicates
+ (Spearman-
+\begin_inset Formula $\rho$
+\end_inset
+
+ > 0.41, 
+\begin_inset Formula $p$
+\end_inset
+
+ < 0.05) and the distributions of abundance for plant or animal species were
+ highly skewed and significantly different from a normal distribution (Lilliefor
+s's test, all 
+\begin_inset Formula $p$
+\end_inset
+
+ < 0.001).
+ Abundance predicted plant or animal mean species traits in approximately
+ 70
+\begin_inset Formula $\%$
+\end_inset
+
+ of the replicates (Spearman-
+\begin_inset Formula $\rho$
+\end_inset
+
+ > 0.32, 
+\begin_inset Formula $p$
+\end_inset
+
+ < 0.05) and trait variance for all replicates (0.39 < Spearman-
+\begin_inset Formula $\rho$
+\end_inset
+
+ < 0.79, all 
+\begin_inset Formula $p$
+\end_inset
+
+ < 0.05
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+One may wonder whether it is useful to do statistics on simulations as we
+ can arbitrarily increase our sample size.
+\end_layout
+
+\end_inset
+
+).
+ Mean and variance of species trait values significantly differed between
+ common and rare plant or animal species (inset in figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Changes-in-trait"
+
+\end_inset
+
+) suggesting a strong impact of diversification by producing a gradient
+ of species phenotypes in mutualistic networks.
+\end_layout
+
+\begin_layout Subsection*
+Convergence and complementarity
+\end_layout
+
+\begin_layout Standard
+Evolutionary convergence events occurred in all replicate simulations (see
+ equations SI-4 and SI-5 with an example of evolutionary convergence events
+ in animals and plants represented in figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:convergence-complementarity"
+
+\end_inset
+
+).
+ Convergence events were heterogeneously distributed across species with
+ most events occurring between common species (0.42 < Spearman-
+\begin_inset Formula $\rho$
+\end_inset
+
+ < 0.89, all 
+\begin_inset Formula $p$
+\end_inset
+
+ < 0.05).
+ Evolutionary convergence occurred on average in 
+\begin_inset Formula $17.3\pm6\%$
+\end_inset
+
+ of all possible convergence events with more than 95% of these events involving
+ some of the three most common species.
+ These results show that evolutionary convergence is not randomly distributed
+ across pairs of species but highly aggregated during the diversification
+ process.
+ Evolutionary convergence can also be visualized using a scatter plot of
+ the genotype-phenotype map for all pairs of individuals within the plant
+ and animal communities (see Figure SI-1 Supplementary Information).
+ As expected from equation 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "eq:genetic_comp"
+
+\end_inset
+
+, there is a positive genotype-phenotype relationship.
+ The scatter plot contains three main clouds of points that consistently
+ occur in our simulations for the plants, 
+\emph on
+P
+\emph default
+, and animals, 
+\emph on
+A
+\emph default
+: 1) pairs of individuals of the same species with high genetic (
+\begin_inset Formula $q_{ij}>q_{min}$
+\end_inset
+
+) and phenotypic (
+\begin_inset Formula $p_{ij}>0.9$
+\end_inset
+
+) similarity, 2) pairs of individuals of the same species with genetic similarit
+y below 
+\begin_inset Formula $q_{min}$
+\end_inset
+
+ (
+\begin_inset Formula $q_{ij}<q_{min}=0.97$
+\end_inset
+
+) and high phenotypic similarity (
+\begin_inset Formula $p_{ij}>0.9$
+\end_inset
+
+).
+ These are incompatible individuals of the same species for mating, yet
+ with high phenotypic similarity, 
+\begin_inset Formula $p_{ij}>0.9$
+\end_inset
+
+, and 3) highly genetically dissimilar individuals from different species,
+ 
+\begin_inset Formula $q_{ij}\ll q_{min}$
+\end_inset
+
+, but with the presence of highly phenotypically similar individuals (
+\begin_inset Formula $p_{ij}>0.9$
+\end_inset
+
+).
+ This last category shows evidence of evolutionary convergence between species
+ in plants and animals.
+ An increase in mutation rate increases the genetic divergence between species,
+ as expected, but it does not change the genotype-phenotype relationship
+ qualitatively (see Figure SI-1 Supplementary Information).
+\end_layout
+
+\begin_layout Standard
+Evolutionary complementarity occurred with a similar frequency as evolutionary
+ convergence in each replicate (see equation SI-5 and compare the initial
+ with the final trait distributions in figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Changes-in-trait"
+
+\end_inset
+
+), but with a larger variation (
+\begin_inset Formula $20\pm18\%$
+\end_inset
+
+).
+ Connectance values were consistently medium or high (
+\begin_inset Formula $\overline{C}=0.5\pm0.07$
+\end_inset
+
+, figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nestedness"
+
+\end_inset
+
+), mostly larger than reported in empirical data where it ranges between
+ 0.05 and
+\change_deleted 696368358 1466604583
+-
+\change_unchanged
+0.25.
+ Nestedness values were always high (
+\begin_inset Formula $\overline{N}=69.97\pm13.4$
+\end_inset
+
+ (figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nestedness"
+
+\end_inset
+
+)), as observed in the empirical plant-pollinator networks.
+ Convergence, complementarity and nestedness did not show signs of trade-offs
+ and were uncorrelated across all replicates (0.08 < Spearman-
+\begin_inset Formula $\rho$
+\end_inset
+
+ < 0.27, all 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $p$
+\end_inset
+
+ > 0.1) with the exception of a positive correlation between trait complementarit
+y and evolutionary convergence in the plant community (Spearman-
+\begin_inset Formula $\rho$
+\end_inset
+
+ = 0.61, all 
+\begin_inset Formula $p$
+\end_inset
+
+ < 0.05).
+ Our results, using phylogenetic relatedness and phenotypic similarity for
+ the estimation of evolutionary convergence and complementarity under weak
+ coevolutionary selection, show evolutionary trait convergence and complementari
+ty in all our replicate simulations but with little and large variation,
+ respectively.
+ These results suggest that in our model, trait convergence in plant and
+ animal communities is largely independent or positively correlated with
+ trait complementarity for the animal and plant community, respectively.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Comparison of model predictions with empirical data
+\end_layout
+
+\begin_layout Standard
+Our model predicts well plant-animal complementarity and convergence for
+ animals but not for plants in a empirical plant-hummingbird mutualistic
+ network (Figure 6).
+ The observed proportion of complementarity events for the empirical plant-hummi
+ngbird data is within the CI for a broad range of values of the complementarity
+ threshold, 
+\begin_inset Formula $t_{comp}$
+\end_inset
+
+ (Figure 6a).
+ Our model consistently predicts higher proportion of convergence events
+ than the observed proportion in the plant community (Figure 6b).
+ Predictions in the proportion of convergence events quickly increase for
+ a high convergence threshold value both in the empirical data and in our
+ model predictions (red lines Figure 6b) and saturates around the same observed
+ values for medium and low convergent threshold values.
+ Predictions of the proportion of convergence events for the hummingbird
+ community are within the estimated CI for all the range of convergence
+ threshold values (Figure 6c).
+ These results show that predictions for plant-animal complementarity and
+ convergence in the hummingbird community are robust against a broad range
+ of threshold values.
+ 
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Discussion
+\end_layout
+
+\begin_layout Standard
+Multispecific coevolution has been poorly studied so far due to its complexity,
+ which involves numerous processes and mechanisms in the ecology and evolution
+ of species interaction networks.
+ Nevertheless, there is accumulating empirical data (REFS) for and increasing
+ interest in understanding the drivers of multispecific coevolution in ecologica
+l communities (REFS).
+ .
+ Our model comes closer to observed patterns of complementarity and convergence
+ in the plant-hummingbird community than previous models.
+\end_layout
+
+\begin_layout Subsection*
+The evolution of convergence and complementarity
+\change_inserted 696368358 1466607941
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1466607950
+A lot of this is already in the introduction
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Previous studies have argued that evolutionary convergence is the product
+ of multispecific coevolutionary processes ('diffuse coevolution')
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Janzen_coevolution_1980,Thompson-2002,Jordano-2003,Bascompte-Jordano-2007"
+
+\end_inset
+
+ and therefore convergence events are molded by similar ecological (or niche)
+ selective pressures.
+ The model of 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nuismeretal2012"
+
+\end_inset
+
+, which studied a model of 'phenotype differences'
+\change_inserted 696368358 1466607687
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1466607820
+but this is a different model where the fitness increases with increasing
+ difference.
+ I really think that our model is performing better because it does not
+ have that property, but simply the property that one needs to be larger
+ than the other.
+ This is a model between the phenotype matching and phenotype difference
+ model.
+ I would actually spin it like this.
+ So in the abstract we could say: "we introduce a new model, which lies
+ between the phenotype matching and phenotype difference model, and show
+ that ..."
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+ has shown that for weak coevolutionary selection trait values in animal
+ and plant species can be highly variable and non-convergent, but trait
+ values of animal and plants species show high complementarity (i.e.
+ they are positively correlated)
+\change_deleted 696368358 1466607828
+ 
+\change_unchanged
+.
+ However, strong coevolutionary selection decreases variation in the trait
+ values of animal and plant species increasing convergence and simultaneously
+ complementarity decreases (i.e.
+ correlations between traits of interacting species are weakened).
+ Interestingly, the results of 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+ show that trait convergence may in part emerge as a consequence of selection
+ for a complementarity trait between the plants and animals.
+ This model, contrary to Nuismer et al (2012), did consider background evolution
+ (i.e.
+ evolution driven by other forces not related to mutualistic interactions
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+, which provides support to our results.
+ 
+\change_inserted 696368358 1466607853
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 696368358 1466607876
+I am not so sure about this.
+ I think a lot of the complexity of the model can probably be removed.
+
+\change_inserted -303280620 1476423371
+ Fran: may be ...
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Interestingly, the model of 'phenotype differences' considered here has
+ shown to make unlikely the evolution of convergence and complementarity
+ by coevolutionary selection 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nuismeretal2012"
+
+\end_inset
+
+.
+ However, our model shows that by considering a more realistic model of
+ phenotype differences in a more realistic setting gives results that are
+ more like the observations than the results of previous models.
+ In other words, it is possible to observe the evolution of both convergence
+ and complementarity.
+ It remains to be seen whether the action of both (selective an non-selective
+ forces) and other models of plant-animal interaction (e.g.
+ 'phenotypic matching') will be able to generate the observed patterns of
+ high convergence, complementarity and nestedness in species-rich mutualistic
+ networks.
+\end_layout
+
+\begin_layout Standard
+Non-selective forces underlying trait dynamics can produce convergence.
+ For example, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stayton_2008"
+
+\end_inset
+
+ simulated evolution along phylogenies according to a Brownian motion model
+ of trait change and demonstrated that rates of convergence can be quite
+ high when clades are diversifying under only the influence of genetic drift.
+ Furthermore, other type
+\change_inserted 696368358 1466679103
+s
+\change_unchanged
+ of constraints in the production of variation can also lead to convergence.
+ If the variation produced is limited, then unrelated species are likely
+ to produce the same variation, which may then become fixed in the population
+ by genetic drift 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stayton_2008,Losos_2011"
+
+\end_inset
+
+.
+ Developmental constraints or the evolution of genetic networks by non-adaptive
+ processes may also be explanations for the convergence of traits 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sole_convergence_selection_networks,Lynch:2007,Losos_2011"
+
+\end_inset
+
+, but the role of developmental constraints or genetic networks in determining
+ convergence in species-rich mutualistic networks has yet not been explored.
+ For example, the tinkering of traits by evolutionary forces largely affects
+ developmental pathways (e.g.
+ gene regulatory networks) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sole_convergence_selection_networks"
+
+\end_inset
+
+.
+ Developmental pathways are not static but can diverge through time randomly
+ without substantially affecting the phenotype 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wagner:2008"
+
+\end_inset
+
+.
+ This concept, also called developmental system drift (DSD) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "True_2001"
+
+\end_inset
+
+, might play an important role in the evolution of convergence in morphological
+ traits and it should be considered as another process where drift can act
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ohta_2002"
+
+\end_inset
+
+, for example, by random wiring in gene regulatory networks.
+ Our results based on a method that excludes cases of the development of
+ a similar trait in related but distinct species descending from the same
+ ancestor show that additional constraints such as dispersal limitation
+ and assortative mating limit the production of variation and lead consistently
+ to convergence in distinct lineages in species-rich mutualistic networks.
+\end_layout
+
+\begin_layout Standard
+Evolutionary complementarity is also consistently observed in our results
+ but with a larger variation than convergence.
+ Complementarity is argued to be the main result of tight coevolution between
+ mutualistic species by mechanisms, such as trait-matching (e.g.
+ corolla length-proboscis length) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jordano-2003"
+
+\end_inset
+
+.
+ There is empirical 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "anderson_johnson_2008"
+
+\end_inset
+
+ and theoretical evidence 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gomulkiewicz-2000"
+
+\end_inset
+
+ for coevolutionary hot spots 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Thompson-1999"
+
+\end_inset
+
+, which suggests that local selective regimes can promote the coevolution
+ of traits 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gomulkiewicz-2000,Ferdy_2002,Gomulkiewicz-2003,Jordano-2003,Bronstein-2006,Thompson-2002,Thompson_2009,Jones_Ferriere_amnat_2009"
+
+\end_inset
+
+.
+ In contrast, our results show that medium levels of complementarity can
+ emerge from relatively non-selective forces and constraints occurring at
+ several levels, from geographic limits to encounter partners and disperse
+ to the genetic and morphological constraints on producing viable offspring.
+ In addition, our model fitting show our predictions fit well to the observed
+ plant-hummingbird complementarity across a broad range of complementarity
+ threshold values (Figure 6).
+ 
+\end_layout
+
+\begin_layout Standard
+Our predictions are able to reproduce some observed patterns of convergence
+ and complementarity in a plant-hummingbird community.
+ Observed convergence values were close to those predicted by the model
+ for the hummingbird community, but we predicted more convergence values
+ than those observed in the plant community.
+ According to previous models, fewer convergence events could be indicative
+ of weak coevolutionary selection processes acting on the plant species.
+ Although this is a possible explanation for our overestimation of convergence,
+ we think that our convergence estimates may have been biased by the fact
+ that we could not consider all the plant species of the community (
+\begin_inset Formula $\approx$
+\end_inset
+
+ 50%) only around 60% of the hummingbird species.
+ Our study is the first to quantify and compare convergence and complementarity
+ values from an empirical dataset with model predictions and we believe
+ this a major leap towards the understanding of multispecific coevolution
+ and community assembly.
+\end_layout
+
+\begin_layout Subsection*
+The problem of calculating convergence
+\end_layout
+
+\begin_layout Standard
+One prominent problem in the literature is how to quantify convergence.
+ This problem is probably related to the lack of a rigorous or precise definitio
+n of convergence (REFS).
+ Previous studies (Nuismer et al, Guimaraes et al) proposed different ways
+ of doing this, but their
+\change_deleted -303280620 1476424405
+ 
+\change_unchanged
+ measurements of convergence do not consider phylogenetic relatedness.
+ For example, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+ measured convergence as 
+\begin_inset Quotes eld
+\end_inset
+
+the mean pair-wise difference between traits of species at same trophic
+ level
+\begin_inset Quotes erd
+\end_inset
+
+ considering all the species of the guild.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nuismeretal2012"
+
+\end_inset
+
+ calculated the variance as a proxy to predict convergence (i.e., large values
+ weak convergence whereas small values of the variance may indicate strong
+ convergence).
+ The main problem with these measurements that ignore phylogenetic relatedness
+ is that they will tend to overestimate convergence events
+\change_deleted -303280620 1476424414
+ 
+\change_unchanged
+ .
+ Most definitions of convergence agree that it is an evolutionary pattern
+ in which 
+\begin_inset Quotes eld
+\end_inset
+
+similar phenotypes evolve 
+\emph on
+independently
+\emph default
+ in multiple lineages
+\begin_inset Quotes erd
+\end_inset
+
+ (Stayton, 2015).
+ Therefore, it is important to consider phylogenetic distance to correct
+ for shared and therefore dependent evolutionary history.
+ Our model with our new measure of convergence, which considers phylogenetic
+ relatedness and phenotypic similarity, shows that in the absence of abiotic
+ selection trait convergence and complementarity always evolve but with
+ little and large variation, respectively.
+ Therefore, even with a more conservative estimate of the number of convergence
+ events, the results show that the modelled
+\change_deleted -303280620 1476424446
+ 
+\change_unchanged
+ processes (or background evolution sensu 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+) are crucial for the emergence of these evolutionary patterns.
+ 
+\end_layout
+
+\begin_layout Subsection*
+The emergence of mutualistic network structure
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nuismeretal2012"
+
+\end_inset
+
+ explored the connection between convergence and complementarity to nestedness
+ patterns in mutualistic networks.
+ They show that coevolutionary selection tend to decrease nestedness and
+ it generates even more strongly antinested networks when coevolutionary
+ selection increases by favoring the emergence of reciprocal specialization.
+ In contrast, nestedness values were very high in our model, as in real
+ mutualistic networks.
+ Previous neutral models taking into account ecological drift 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Krishna_2008,Canard_2012"
+
+\end_inset
+
+, produced high values of nestedness which suggests that random interactions
+ and species abundance distribution ('neutral forbidden links' 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Canard_2012"
+
+\end_inset
+
+), are determinants of the structure of mutualistic networks.
+ Connectance values obtained from our simulations are close to the predictions
+ of other neutral network models 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Canard_2012"
+
+\end_inset
+
+.
+ However, compared to real mutualistic networks with similar diversity as
+ ours (24 plant and animal species on average), our connectance values (
+\begin_inset Formula $\overline{C}=0.5$
+\end_inset
+
+) are higher than the reported webs (
+\begin_inset Formula $C=0.28$
+\end_inset
+
+) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Olesen_Jordano_2002"
+
+\end_inset
+
+.
+ Interestingly, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nuismeretal2012"
+
+\end_inset
+
+ found that only assuming coevolutionary selection forces also leads to
+ an increase in connectance.
+ This means that both basic genetic and ecological processes and coevolutionary
+ selection can increase connectance in mutualistic networks.
+ The question is why observed mutualistic webs have a lower connectance
+ than those predicted by our model and previous models.
+ We conjecture that this difference in connectance values might be due to
+ different types of forbidden links (i.e.
+ biological constraints impeding plant-animal interactions), such as phenology
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "encinas_phenology_2012,Olesen-2008"
+
+\end_inset
+
+ or environmental fluctuations that were not explicitly included in our
+ approach.
+\end_layout
+
+\begin_layout Standard
+In summary, our results show the emergence of convergence, complementarity
+ and nestedness following basic genetic and ecological processes.
+ Our predictions fit well to the observed plant-hummingbird complementarity
+ and hummingbird convergence.
+ In contrast to previous studies showing antinested networks, we found highly
+ nested values in agreement with empirical mutualistic networks 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bascompte-2003"
+
+\end_inset
+
+.
+ Our results suggest that diversification dynamics combining ecological
+ (demography and dispersal limitation), population genetics (mutation, recombina
+tion, assortative mating and drift) and morphological constraints may form
+ the basic processes producing the key patterns of mutualistic networks,
+ from trait convergence and complementarity to connectance and nestedness.
+\end_layout
+
+\begin_layout Section*
+
+\size large
+Acknowledgments
+\end_layout
+
+\begin_layout Standard
+We thank Martina Stang and Ole Seehausen for useful discussions.
+ FEV and RSE were supported by VIDI and VICI grants from the Netherlands
+ Organization for Scientific Research (NWO), awarded to RSE.
+ CJM was supported by the Swiss National Science Foundation (SNSF-project
+ 31003A-144162).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+  
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "franeviso"
+options "ecol_let"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Supplementary Information
+\change_inserted -979746051 1465302874
+
+\end_layout
+
+\begin_layout Section*
+The model: evo-evolutionary trait diversification in mutualistic networks
+\end_layout
+
+\begin_layout Standard
+To study the role of spatial structure and plant-animal trait diversification
+ on convergence, complementarity and nestedness, we start by considering
+ a landscape consisting of several individual plants (
+\emph on
+P
+\emph default
+) and animal pollinators (
+\emph on
+A
+\emph default
+).
+ We model obligate mutualism for both partners and the number of individuals
+ at each trophic level is fixed and equal to the environmental carrying
+ capacity for the given community.
+ Genetic, phenotypic and species composition change in time and space due
+ to population dynamics.
+ At each time step replacement of dead individuals are followed by the offspring
+ of the same or another species (the key terms and model steps are summarized
+ in figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Recombination"
+
+\end_inset
+
+ and table 1, respectively).
+ In this section we explain how we model populations, traits, and diversificatio
+n.
+\end_layout
+
+\begin_layout Subsection*
+
+\series medium
+Population dynamics 
+\end_layout
+
+\begin_layout Standard
+Our model is a stochastic individual-based model with overlapping generations.
+ The population consists of 
+\begin_inset Formula $J_{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $J_{A}$
+\end_inset
+
+ haploid gonochoric (i.e.
+ separated sexes) individuals with an explicit genome of size 
+\begin_inset Formula $L$
+\end_inset
+
+ each and equal sex ratios at the outset.
+ The genome of each individual is composed of 
+\begin_inset Formula $L-1$
+\end_inset
+
+ loci determining assortative mating and one neutral locus.
+ Both plant and animal population reproduce sexually and are spatially structure
+d.
+ First an individual plant 
+\begin_inset Formula $k$
+\end_inset
+
+ and an animal 
+\begin_inset Formula $k'$
+\end_inset
+
+ are randomly removed (death).
+ They are replaced by reproduction.
+ There are four conditions for producing viable offspring for the plants
+ and animals.
+ These four conditions are 1) geography, 2) genetics, 3) obligate mutualism
+ and 4) morphology: 
+\end_layout
+
+\begin_layout Enumerate
+Geography: a female and a male individual within the plant and animal population
+s are randomly chosen among all females and males within a maximum distance,
+ 
+\begin_inset Formula $d_{max}$
+\end_inset
+
+ , of the dead plant 
+\begin_inset Formula $k$
+\end_inset
+
+ and dead animal 
+\begin_inset Formula $k'$
+\end_inset
+
+.
+ This requires two geographic distance matrices, one for plants, 
+\begin_inset Formula $D^{P}$
+\end_inset
+
+ = [
+\begin_inset Formula $d_{ij}^{P}$
+\end_inset
+
+], and one for animals, 
+\begin_inset Formula $D^{A}$
+\end_inset
+
+ = [
+\begin_inset Formula $d_{ij}^{A}$
+\end_inset
+
+], containing all the pairwise distances.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Genetics: to produce viable offspring the female and the male in the plant
+ and animal populations must have a genetic similarity value of the assortative
+ mating loci, 
+\begin_inset Formula $q_{\venus\mars}$
+\end_inset
+
+, higher than the minimum genetic similarity to have viable offspring, 
+\begin_inset Formula $q_{min}$
+\end_inset
+
+, (
+\begin_inset Formula $q_{\venus\mars}>q_{min}$
+\end_inset
+
+).
+ This process reflects assortative mating and it requires two genetic similarity
+ matrices, one for plants, 
+\begin_inset Formula $Q^{P}$
+\end_inset
+
+ = [
+\begin_inset Formula $q_{ij}^{P}$
+\end_inset
+
+], and one for animals, 
+\begin_inset Formula $Q^{A}$
+\end_inset
+
+ = [
+\begin_inset Formula $q_{ij}^{A}$
+\end_inset
+
+], containing all the pairwise similarity values.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Obligate mutualism: in order to have a mutualistic interaction the geographic
+ distance between the female, 
+\begin_inset Formula $\venus$
+\end_inset
+
+ (animal or plant), and one of the two male animal or plant individuals,
+ represented here as 
+\begin_inset Formula $j$
+\end_inset
+
+, must be lower than the maximum distance, 
+\begin_inset Formula $d_{max}^{PA}$
+\end_inset
+
+, (
+\begin_inset Formula $d_{j\venus}^{PA}<d_{max}^{PA}$
+\end_inset
+
+).
+ This requires one geographic plant-animal distance matrix, 
+\begin_inset Formula $D^{PA}$
+\end_inset
+
+ = [
+\begin_inset Formula $d_{ij}^{PA}$
+\end_inset
+
+], containing all the pairwise distances.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Morphology: the female plant need the presence of an animal pollinator with
+ a larger or equally-sized proboscis than the corolla of the plant, thus
+ the phenotype of the selected pollinator, represented here as 
+\begin_inset Formula $j$
+\end_inset
+
+, must satisfy 
+\begin_inset Formula $z_{\venus}^{P}\leq z_{j}^{A}$
+\end_inset
+
+.
+ This requires two phenotype distributions, one for the plants, 
+\begin_inset Formula $Z^{P}=[z_{i}^{P}]$
+\end_inset
+
+ and one for the animals, 
+\begin_inset Formula $Z^{A}=[z_{i}^{A}]$
+\end_inset
+
+.
+ This trait-mediated interaction relationship is a variation on the 
+\begin_inset Quotes eld
+\end_inset
+
+phenotype differences
+\begin_inset Quotes erd
+\end_inset
+
+ model 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nuismeretal2012"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+The offspring arising from this mating event will occupy the geographic
+ position of the just deceased individuals.
+\end_layout
+
+\begin_layout Subsection*
+
+\series medium
+Diversification dynamics
+\end_layout
+
+\begin_layout Standard
+To quantify speciation events we calculate the genetic distance between
+ each pair of individuals based on the assortative mating loci.
+ We represent the genome of each individual by a sequence of 
+\begin_inset Formula $L-1$
+\end_inset
+
+ loci, where each locus can be in two allelic states, 
+\begin_inset Formula $+1$
+\end_inset
+
+ or 
+\begin_inset Formula $-1$
+\end_inset
+
+.
+ The assortative mating loci of each plant individual 
+\begin_inset Formula $i$
+\end_inset
+
+ in a population of size 
+\begin_inset Formula $J_{P}$
+\end_inset
+
+ is represented as a vector: 
+\begin_inset Formula $S^{i}=(S_{1}^{i},S_{2}^{i},...,S_{L}^{i})$
+\end_inset
+
+, where 
+\begin_inset Formula $S_{u}^{i}$
+\end_inset
+
+ is the 
+\begin_inset Formula $u^{th}$
+\end_inset
+
+ locus of individual 
+\begin_inset Formula $i$
+\end_inset
+
+.
+ The genetic similarity based on assortatove mating loci between individuals
+ 
+\begin_inset Formula $i$
+\end_inset
+
+ and 
+\begin_inset Formula $j$
+\end_inset
+
+ is calculated as the sum of identical loci across the genome
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+q_{ij}^{P}=\frac{1}{L}\sum_{u=1}^{L}S_{u}^{i}S_{u}^{j}\label{eq:genetic_similarity-1}
+\end{equation}
+
+\end_inset
+
+where 
+\begin_inset Formula $q_{ij}^{P}\in\{-1,1\}$
+\end_inset
+
+ with the genetic similarity matrix, 
+\begin_inset Formula $Q^{P}$
+\end_inset
+
+ = [
+\begin_inset Formula $q_{ij}^{P}$
+\end_inset
+
+], containing all pairwise genetic similarity values for plants (the same
+ for animals, 
+\begin_inset Formula $Q^{A}$
+\end_inset
+
+ = [
+\begin_inset Formula $q_{ij}^{A}$
+\end_inset
+
+]).
+ The genome of the offspring is obtained by a block cross-over recombination
+ of a female genome, 
+\begin_inset Formula $S^{\venus}$
+\end_inset
+
+, and a male genome, 
+\begin_inset Formula $S^{\mars}$
+\end_inset
+
+, where a locus 
+\begin_inset Formula $l$
+\end_inset
+
+ in the genome of the parents is randomly chosen partitioning the genome
+ of each individual in two blocks.
+ All genes beyond that locus 
+\begin_inset Formula $l$
+\end_inset
+
+ in either genome are swapped between the two parents and eventually form
+ two new genomes.
+ One of the two new genomes is randomly chosen for the offspring.
+ The offspring's genome undergoes mutations at mutation rate 
+\begin_inset Formula $\mu$
+\end_inset
+
+.
+ Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Recombination"
+
+\end_inset
+
+ describes the recombination-mutation process.
+\end_layout
+
+\begin_layout Standard
+At the beginning of the simulations all individuals are genetically identical
+ (all 
+\begin_inset Formula $q_{ij}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{ij}^{A}$
+\end_inset
+
+ = 1); hence they are all able to mate and produce viable offspring regardless
+ of their spatial location.
+ The genetic similarity between individuals of a guild can be visualized
+ as an evolutionary spatial graph 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "melian2010_plos"
+
+\end_inset
+
+, where nodes correspond to individuals and the edges correspond to the
+ geographic distances between a pair of individuals satisfying the genetic
+ similarity condition for mating, 
+\begin_inset Formula $q_{ij}^{P}(q_{ij}^{A})>q_{min}$
+\end_inset
+
+.
+ The connectance of the graph will decrease when generations move forward
+ because of the processes described in the previous section: 1) spatial
+ constraints for mating driving assortative mating and dispersal limitation;
+ 2) genetic divergence driven by the threshold for mating (incompatibilities),
+ mutation and recombination forming the genome of the offspring; 3) obligate
+ mutualistic interactions driven by spatial proximity of individuals of
+ the other guild, and 4) morphological constraints following the phenotype
+ differences scenario.
+\end_layout
+
+\begin_layout Standard
+These four set of processes drive genetic divergence and speciation.
+ We followed the species definition of 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nei1983"
+
+\end_inset
+
+, which states that species are groups of individuals that are reproductively
+ isolated and can interbreed to produce fertile offspring.
+ In our model this is realized through allowing two individuals to mate
+ successfully if their genetic similarity value is larger or equal to the
+ minimum value, 
+\begin_inset Formula $q_{min}$
+\end_inset
+
+.
+ Thus, speciation is defined as a group of genetically related individuals,
+ where two individuals in a sexual population can be conspecific while also
+ being incompatible, as long as they can exchange genes indirectly through
+ other conspecifics 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "deaguiar_2009,melian2010_plos"
+
+\end_inset
+
+.
+ This is the definition of 'ring species' 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "MoritzSchneider1992"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Genetic divergence will eventually produce the formation of two genetically
+ incompatible clusters of individuals, i.e.
+ two species.
+ This speciation process, also called 'fission-induced' speciation, continues
+ to form more clusters and genetic divergence between individuals of different
+ species increases.
+ However, the diversification dynamics will fluctuate due to random extinctions
+ (death of last individual of a species).
+ A stochastic balance between speciation and extinction is eventually reached
+ giving the final steady-state of the metacommunity.
+\end_layout
+
+\begin_layout Subsection*
+
+\series medium
+Quantitative trait dynamics
+\end_layout
+
+\begin_layout Standard
+We model each individual plant and animal with a quantitative trait, 
+\begin_inset Formula $z^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $z^{A}$
+\end_inset
+
+, respectively.
+ The processes described in figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Recombination"
+
+\end_inset
+
+ govern two quantitative traits, one for each guild: proboscis or bill length
+ (
+\begin_inset Formula $z_{i}^{A}$
+\end_inset
+
+) in pollinators and corolla length (
+\begin_inset Formula $z_{i}^{P})$
+\end_inset
+
+ in plants.
+ The quantitative trait of offspring is determined by the additive genetic
+ effects of the genome (i.e.
+ no epistasis) after the process of randomly choosing one of the two new
+ genomes and mutation (figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Recombination"
+
+\end_inset
+
+) plus a normally distributed environmental effect, 
+\begin_inset Formula $\epsilon$
+\end_inset
+
+, 
+\begin_inset Formula $\mathcal{N}(\mu_{\epsilon}=0,\sigma_{\epsilon}^{2}=1$
+\end_inset
+
+) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "guimaraes_coevol_2011"
+
+\end_inset
+
+.
+ The phenotype of the plant offspring 
+\begin_inset Formula $i$
+\end_inset
+
+ is 
+\begin_inset Formula $z_{i}^{P}=g_{i}^{P}+\epsilon$
+\end_inset
+
+ and the genetic component (
+\begin_inset Formula $g_{i}^{P}$
+\end_inset
+
+) of the phenotype of offspring 
+\begin_inset Formula $i$
+\end_inset
+
+ is
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+g_{i}^{P}=L+S_{o}^{i}\label{eq:genetic_comp-1}
+\end{equation}
+
+\end_inset
+
+with 
+\begin_inset Formula $S_{o}^{i}=\sum_{u=1}^{L}S_{u}^{i}$
+\end_inset
+
+.
+ Hence 
+\begin_inset Formula $g_{i}^{P}$
+\end_inset
+
+ is calculated as the sum of alleles across the genome 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "kondrashov_shpak_1998"
+
+\end_inset
+
+ plus the number of loci to avoid negative trait values (
+\begin_inset Formula $g_{i}^{A}$
+\end_inset
+
+ is calculated similarly for animals).
+ We assumed that the magnitude of the influence (i.e., effect sizes) of any
+ given locus on this quantitative trait is equal across all the loci 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Seehausenetal_2014"
+
+\end_inset
+
+.
+ This means that two individuals with a different combination of alleles
+ in the genome can express the same quantitative trait 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Losos_2011"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+
+\series medium
+Neutral locus evolution
+\end_layout
+
+\begin_layout Standard
+We considered a neutral locus to estimate genetic divergence among species
+ for the calculation of convergent events (see section 
+\begin_inset Quotes eld
+\end_inset
+
+Evolutionary convergence
+\begin_inset Quotes erd
+\end_inset
+
+).
+ The neutral locus is located at the end of the genome at the position 
+\begin_inset Formula $L$
+\end_inset
+
+ and it has 
+\begin_inset Formula $k$
+\end_inset
+
+ possible allelic states.
+ The locus is completely unlinked from the rest of the genome that contains
+ the assortative mating loci.
+ We used low mutation rates for this neutral locus, 
+\begin_inset Formula $\mu_{neutral}=10^{-7}$
+\end_inset
+
+ , and the 
+\begin_inset Formula $k$
+\end_inset
+
+ allele mutation model (i.e.
+ model in which each allele can mutate to any of the other 
+\begin_inset Formula $k–1$
+\end_inset
+
+ possible alleles with equal probability (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hobanetal2013"
+
+\end_inset
+
+).
+ We used the Cavalli-Sforza distance to calculate the matrix of genetic
+ distances among species (
+\begin_inset CommandInset citation
+LatexCommand citet
+key "CavalliEdwards1967"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Section*
+Convergence, complementarity and nestedness
+\end_layout
+
+\begin_layout Standard
+Evolutionary convergence
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series medium
+Phenotypic similarity
+\end_layout
+
+\begin_layout Standard
+The phenotypic similarity for plants (
+\begin_inset Formula $p_{ij}^{P}$
+\end_inset
+
+) between individual 
+\begin_inset Formula $i$
+\end_inset
+
+ and 
+\begin_inset Formula $j$
+\end_inset
+
+ is defined as 
+\begin_inset Formula 
+\begin{equation}
+p_{ij}^{P}=1-\frac{|z_{i}^{P}-z_{j}^{P}|}{z_{max}^{P}}\label{eq:phenotypic_sim-1}
+\end{equation}
+
+\end_inset
+
+where 
+\begin_inset Formula $z_{i}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $z_{j}^{P}$
+\end_inset
+
+ are the phenotypic similarity values of 
+\begin_inset Formula $i$
+\end_inset
+
+ and 
+\begin_inset Formula $j$
+\end_inset
+
+, respectively, and 
+\begin_inset Formula $z_{max}^{P}$
+\end_inset
+
+ is the maximum value of the phenotype distribution, 
+\begin_inset Formula $Z^{P}$
+\end_inset
+
+ .
+ Thus, the elements 
+\begin_inset Formula $p_{ij}^{P}\in\{0,1\}$
+\end_inset
+
+ of the phenotypic similarity matrix, 
+\begin_inset Formula $\mathcal{P}^{P}$
+\end_inset
+
+ = [
+\begin_inset Formula $p_{ij}^{P}$
+\end_inset
+
+] represent all pairwise values for plants (the same for animals, 
+\begin_inset Formula $\mathcal{P}^{A}$
+\end_inset
+
+ = [
+\begin_inset Formula $p_{ij}^{A}$
+\end_inset
+
+]).
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series medium
+Mean genetic and phenotypic species similarity
+\end_layout
+
+\begin_layout Standard
+We define evolutionary convergence as the similarity between average species
+ phenotypes from distantly related species.
+ We assume that two species are distantly related, in phylogenetic terms,
+ if they do not come from a direct common ancestor, i.e.
+ they are not sister species.
+ To exclude sister species from the analysis we need to calculate the mean
+ genetic similarity among species of the same guild.
+ The mean genetic similarity between a plant species 
+\begin_inset Formula $k$
+\end_inset
+
+ and a plant species 
+\begin_inset Formula $l$
+\end_inset
+
+ is
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+\hat{q}_{kl}^{P}=\frac{1}{n_{k}n_{l}}\sum_{i=1}^{n_{k}}\sum_{j=i}^{n_{l}}q_{ij}^{P}\label{eq:genetic_sim_species-1}
+\end{equation}
+
+\end_inset
+
+where 
+\begin_inset Formula $q_{ij}^{P}$
+\end_inset
+
+ is the genetic similarity between an individual 
+\begin_inset Formula $i$
+\end_inset
+
+ of plant species 
+\begin_inset Formula $k$
+\end_inset
+
+ and an individual 
+\begin_inset Formula $j$
+\end_inset
+
+ of plant species 
+\begin_inset Formula $l$
+\end_inset
+
+, and 
+\begin_inset Formula $n_{k}$
+\end_inset
+
+ and 
+\begin_inset Formula $n_{l}$
+\end_inset
+
+ are the absolute abundances of plant species 
+\begin_inset Formula $k$
+\end_inset
+
+ and 
+\begin_inset Formula $l$
+\end_inset
+
+, respectively.
+ The elements 
+\begin_inset Formula $\hat{q}_{kl}^{P}$
+\end_inset
+
+ form the matrix 
+\begin_inset Formula $Q_{s}^{P}=[\hat{q}_{kl}^{P}]$
+\end_inset
+
+ from which the sister species of each species in the guild can be identified
+ (The elements for animals, 
+\begin_inset Formula $Q_{s}^{A}=[\hat{q}_{kl}^{A}]$
+\end_inset
+
+, are calculated in the same way as we did for the plants).
+ To calculate evolutionary convergence we need to know the average phenotypic
+ similarity between two species.
+ We define phenotypic similarity between species 
+\begin_inset Formula $k$
+\end_inset
+
+ and 
+\begin_inset Formula $l$
+\end_inset
+
+ as
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+\hat{p}_{kl}^{P}=\frac{1}{n_{k}n_{l}}\sum_{i=1}^{n_{k}}\sum_{j=i}^{n_{l}}p_{ij}^{P}\label{eq:phenotypic_sim_species-1}
+\end{equation}
+
+\end_inset
+
+which is analogous to the definition of eq.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "eq:genetic_sim_species-1"
+
+\end_inset
+
+, but now considering phenotypes instead of genotypes.
+ This will build a species phenotypic similarity matrix 
+\begin_inset Formula $P_{s}^{P}=[\hat{p}_{kl}^{P}]$
+\end_inset
+
+ (the species phenotypic similarity matrix, 
+\begin_inset Formula $P_{s}^{A}=[\hat{p}_{kl}^{A}]$
+\end_inset
+
+, is calculated analogously for the animals).
+ We then focus on each species in turn and exclude its sister species to
+ avoid cases of parallel evolution to calculate the number of convergences
+ related to the focal species.
+ We define a focal plant species 
+\begin_inset Formula $k$
+\end_inset
+
+ and a non-sister plant species 
+\begin_inset Formula $l$
+\end_inset
+
+ to be convergent if phenotypic similarity between them is higher than between
+ focal and sister species (
+\begin_inset Formula $\hat{p}_{k,sister}^{P}<\hat{p}_{kl}^{P}$
+\end_inset
+
+) and higher than a certain phenotypic threshold value 
+\begin_inset Formula $t_{conv}$
+\end_inset
+
+ (
+\begin_inset Formula $\hat{p}_{kl}^{P}>t_{conv})$
+\end_inset
+
+; convergent species is calculated analogously for the animals).
+\end_layout
+
+\begin_layout Standard
+Evolutionary complementarity
+\end_layout
+
+\begin_layout Subsubsection*
+
+\series medium
+Plant-animal interactions
+\end_layout
+
+\begin_layout Standard
+In addition to the genetic and geographic constraints for mating, we consider
+ two other conditions for plants and animals: obligate mutualism and morphologic
+al constraints.
+ Obligate mutualism applies to the plants and animals to reproduce but the
+ morphological constraints only apply to plants.
+ We therefore need a geographic distance matrix, 
+\begin_inset Formula $D^{PA}$
+\end_inset
+
+, to describe the geographic distance between plant and animal individuals.
+ Plant-animal mutualistic interactions are here described as follows: plants
+ benefit from the presence of specific pollinators that are able to pollinate
+ them and animals benefit from the presence of plants that provide resources
+ for them.
+ Thus, we have two extra conditions for mating: 
+\end_layout
+
+\begin_layout Enumerate
+Female plants need the presence of an animal pollinator (i.e., male and female
+ represented as 
+\begin_inset Formula $j$
+\end_inset
+
+) within a close distance, 
+\begin_inset Formula $d_{j\venus}^{PA}<d_{max}^{PA}$
+\end_inset
+
+.
+ The pollinator must have a larger or equally-sized proboscis than the corolla
+ of a plant, 
+\begin_inset Formula $z_{\venus}^{P}\leq z_{j}^{A}$
+\end_inset
+
+.
+ This corresponds to a morphological constraint for individual interactions
+ observed between plant and pollinator species 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "stang_2009_annbot,Stang_2006"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Animals need the presence of a plant (male or female represented as 
+\begin_inset Formula $j$
+\end_inset
+
+) within a close geographic distance, 
+\begin_inset Formula $d_{jk}^{PA}<d_{max}^{PA}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Section*
+Tables
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Glossary of mathematical notation and parameter values
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="27" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Notation 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Definition
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Values 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $J^{P},J^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Effective population size of plants (P) and animals (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1,000 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $d_{ij}^{P},d_{ij}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Geographical pairwise distance plants (P) and animals (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $d_{max}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Maximum geographical distance to mate and disperse
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.3 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $D^{P},D^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Geographic distance matrix with all 
+\begin_inset Formula $d_{ij}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $d_{ij}^{A}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $d_{ik}^{PA}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Geographical distance between plant 
+\begin_inset Formula $i$
+\end_inset
+
+ and animal 
+\begin_inset Formula $k$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $d_{max}^{PA}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Maximum geographical distance to find a mutualistic partner
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.3 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $D^{PA}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Geographic distance matrix with all the 
+\begin_inset Formula $d_{ik}^{PA}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $q_{ij}^{P},q_{ij}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Genetic similarity between ind.
+ 
+\begin_inset Formula $i$
+\end_inset
+
+ and 
+\begin_inset Formula $j$
+\end_inset
+
+ in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $Q^{P},Q^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Genetic similarity matrix with all the 
+\begin_inset Formula $q_{ij}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{ij}^{P}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $q_{min}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Minimum genetic similarity to have viable offspring
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.97 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $z_{i}^{P},z_{i}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Quantitative trait of ind.
+ 
+\begin_inset Formula $i$
+\end_inset
+
+ in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $Z^{P},Z^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Quantitative trait distribution in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $p_{ij}^{P},p_{ij}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phenotypic similarity between ind.
+ 
+\begin_inset Formula $i$
+\end_inset
+
+ and 
+\begin_inset Formula $j$
+\end_inset
+
+ in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{P}^{P},\mathcal{P}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phenotypic similarity matrix with all the 
+\begin_inset Formula $p_{ij}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $p_{ij}^{A}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $L$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Size of the genome
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+150 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $g_{i}^{P},g_{i}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Genetic component of phenotype of offspring in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\epsilon$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Environmental component of phenotype of offspring
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{N}$
+\end_inset
+
+(0,1) 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mu$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mutation rate per locus
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $10^{-4}-10^{-2}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\hat{q}_{kh}^{P},\hat{q}_{kh}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mean genetic simil.
+ between species 
+\begin_inset Formula $k$
+\end_inset
+
+ and 
+\begin_inset Formula $h$
+\end_inset
+
+ in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $Q_{s}^{P},Q_{s}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Species genetic simil.
+ matrix with all 
+\begin_inset Formula $\hat{q}_{kl}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $\hat{q}_{kl}^{A}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\hat{p}_{kh}^{P},\hat{p}_{kh}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mean phen.
+ simil.
+ between species 
+\begin_inset Formula $k$
+\end_inset
+
+ and 
+\begin_inset Formula $h$
+\end_inset
+
+ in (P) and (A)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $P_{s}^{P},P_{s}^{A}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Species phen.
+ simil.
+ matrix with all 
+\begin_inset Formula $\hat{p}_{kl}^{P}$
+\end_inset
+
+ and 
+\begin_inset Formula $\hat{p}_{kl}^{A}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\hat{p}_{kh}^{PA}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mean trait similarity plant species 
+\begin_inset Formula $k$
+\end_inset
+
+ and animal species 
+\begin_inset Formula $h$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $P_{s}^{PA}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phenotypic simil.
+ matrix with all 
+\begin_inset Formula $\hat{p}_{kh}$
+\end_inset
+
+ values
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+
+\size normal
+h
+\end_layout
+
+\end_inset
+
+conv
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phenotypic threshold to calculate convergence events
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size footnotesize
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+
+\size normal
+h
+\end_layout
+
+\end_inset
+
+comp
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phenotypic threshold to calculate complementarity events
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+variable
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{linenumbers}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Figures
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/p223208/AppData/Local/Temp/Figures/IBModel6.eps
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+The death-birth cycle per time step.
+ Individuals are represented as filled circles and blue tones represent
+ variation of phenotypes.
+ (A) an individual 
+\begin_inset Formula $k$
+\end_inset
+
+ is randomly selected to die and leaves an empty location in the landscape.
+ (B) a female individual, 
+\begin_inset Formula $\venus$
+\end_inset
+
+, is randomly selected among all females satisfying the condition 
+\begin_inset Formula $d_{k\venus}<d_{max}$
+\end_inset
+
+.
+ We then choose randomly a male, 
+\begin_inset Formula $\mars$
+\end_inset
+
+, among all males satisfying 
+\begin_inset Formula $d_{k\mars}<d_{max}$
+\end_inset
+
+ and 
+\begin_inset Formula $q_{\venus\male}>q_{min}$
+\end_inset
+
+ with 
+\begin_inset Formula $q_{min}$
+\end_inset
+
+, the minimum genetic similarity required for mating.
+ In addition to these two constraints, two more are required to complete
+ mating.
+ For the condition of obligate mutualism, the geographic distance between
+ the female (animal or plant), and an animal (or plant) individual 
+\begin_inset Formula $j$
+\end_inset
+
+, must satisfy 
+\begin_inset Formula $d_{j\venus}^{PA}<d_{max}^{PA}$
+\end_inset
+
+.
+ Finally, female plants need the presence of an animal pollinator with a
+ larger or equally-sized proboscis than the corolla of the female plant,
+ thus individual pollinators represented as 
+\begin_inset Formula $j$
+\end_inset
+
+, must satisfy 
+\begin_inset Formula $z_{\venus_{P}}\leq z_{j_{A}}$
+\end_inset
+
+.
+ In (C) and (D) we calculate the genome of the new offspring once these
+ constraints are satisfied.
+ (C) Genomes are composed of 
+\begin_inset Formula $L$
+\end_inset
+
+ loci where each locus can be in two allelic states (
+\begin_inset Formula $-1,\,1$
+\end_inset
+
+) and undergo block crossover recombination between female (dark gray) and
+ male (black).
+ A position 
+\begin_inset Formula $l$
+\end_inset
+
+ in the genome of the parents is randomly chosen partitioning the genome
+ in two blocks.
+ All genes beyond the 
+\begin_inset Formula $l$
+\end_inset
+
+ locus in either organism's genome is swapped between two parents and two
+ new genomes are formed.
+ (D) One of the two new genomes is randomly chosen for the offspring 
+\begin_inset Formula $i$
+\end_inset
+
+, 
+\begin_inset Formula $S_{o}^{i}$
+\end_inset
+
+, and it might undergo mutation (light gray).
+ (E) The phenotype expression of offspring 
+\begin_inset Formula $i$
+\end_inset
+
+ is 
+\begin_inset Formula $z_{i}=g_{i}+\epsilon$
+\end_inset
+
+ with 
+\begin_inset Formula $g_{i}=L+S_{o}^{i}$
+\end_inset
+
+ and 
+\begin_inset Formula $\epsilon$
+\end_inset
+
+ are the genetic and environmental component of the phenotype, respectively.
+ (F) The offspring 
+\begin_inset Formula $i$
+\end_inset
+
+ occupies the site of the dead individual 
+\begin_inset Formula $k$
+\end_inset
+
+.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Recombination"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/p223208/AppData/Local/Temp/Figures/convergence.eps
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+A simple example of evolutionary convergence using species 
+\begin_inset Formula $a$
+\end_inset
+
+, 
+\begin_inset Formula $b$
+\end_inset
+
+ and 
+\begin_inset Formula $c$
+\end_inset
+
+.
+ The upper matrix (
+\begin_inset Formula $Q_{S}=[\hat{q}_{kl}]$
+\end_inset
+
+) shows species 
+\begin_inset Formula $a$
+\end_inset
+
+ and 
+\begin_inset Formula $c$
+\end_inset
+
+ are genetically closely related, 
+\begin_inset Formula $\hat{q}_{ac}=0.97$
+\end_inset
+
+, while genetically distant from species 
+\begin_inset Formula $b$
+\end_inset
+
+ (
+\begin_inset Formula $\hat{q}_{ab}=0.85$
+\end_inset
+
+, 
+\begin_inset Formula $\hat{q}_{cb}=0.89$
+\end_inset
+
+).
+ A clear description of these genetic relationships can be represented with
+ a cluster tree or dendrogram, as shown in the lower part of the figure.
+ Thus, we establish that species 
+\begin_inset Formula $a$
+\end_inset
+
+ and 
+\begin_inset Formula $c$
+\end_inset
+
+ are sister species.
+ The species phenotypic similarity matrix, 
+\begin_inset Formula $P_{S}=[\hat{p}_{kh}]$
+\end_inset
+
+ shows that species 
+\begin_inset Formula $a$
+\end_inset
+
+ and 
+\begin_inset Formula $b$
+\end_inset
+
+ are phenotypically highly similar (
+\begin_inset Formula $\hat{p}_{ab}=0.98$
+\end_inset
+
+) and highly genetically dissimilar (
+\begin_inset Formula $\hat{q}_{ab}=0.85$
+\end_inset
+
+) (i.e.
+ more than the average intraspecific genetic similarity or sister species
+ 
+\begin_inset Formula $~0.97$
+\end_inset
+
+), indicating an event of evolutionary convergence.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Evolutionary-convergence"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/p223208/AppData/Local/Temp/Figures/trait_dist_2.eps
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Changes in trait distribution of plants (top, blue) and animals (bottom,
+ red).
+ Left and right panels show the initial and final trait distribution, respective
+ly.
+ The insets in the right panels show the mean trait and standard error for
+ each species sorted from the most common to the most rare.
+ Initial trait distributions changed towards higher variance, and in most
+ replicates, towards bimodal distribution in both guilds.
+ Shown is the outputs from one replicate with parameters values
+\series bold
+ 
+\begin_inset Formula $q_{min}=0.97$
+\end_inset
+
+, 
+\begin_inset Formula $d_{max}=d_{max}^{PA}=0.3$
+\end_inset
+
+, 
+\begin_inset Formula $\mu=5\times10^{-3}$
+\end_inset
+
+ and 
+\begin_inset Formula $J_{P}=J_{A}=1,000$
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Changes-in-trait"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/p223208/AppData/Local/Temp/Figures/ConvComp3.eps
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Evolutionary convergence and complementarity in plant-pollinator networks.
+ Trees at the left and right side show genetic similarities between animal
+ (red) and plant (blue) species, respectively.
+ Mean species trait, proboscis and corolla length, is sketched with cartoons
+ next to their respective position in the trees.
+ Animals, composed by six species, have two evolutionary convergence events
+ (A-B and F-D).
+ Plants, composed by three species, have one convergent event (b-c).
+ The central part of the figure shows the network of plant-animal interactions,
+ where each node (colored filled circles) represents an individual.
+ The network is composed of two types of links: genetic relatedness links
+ (black solid) forming clusters that represent species and plant-animal
+ individual-based interaction links (gray).
+ The network shows variability in terms of genetic relatedness and plant-animal
+ interactions within a species (i.e.
+ high intraspecific variability).
+ This figure is an example from one simulation.
+ Parameters used are as in figure 3,
+\series bold
+ 
+\begin_inset Formula $q_{min}=0.97$
+\end_inset
+
+, 
+\begin_inset Formula $d_{max}=d_{max}^{PA}=0.3$
+\end_inset
+
+, 
+\begin_inset Formula $\mu=5\times10^{-3}$
+\end_inset
+
+ and 
+\begin_inset Formula $J^{P}=J^{A}=1,000$
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:convergence-complementarity"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/p223208/AppData/Local/Temp/Figures/matrix_plantpersp_b005_2.eps
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Plant-animal species interaction network.
+ Plant species are represented in rows and animal species in columns.
+ The color gradient indicates the number of mutualistic partners (i.e.
+ individuals interacting) shared between plant and animal species.
+ This matrix comes from one replicate with nine plant and thirteen animal
+ species.
+ The network shows high level of nestedness (
+\begin_inset Formula $N=0.72$
+\end_inset
+
+) and intermediate level of connectance (
+\begin_inset Formula $C=0.5$
+\end_inset
+
+).
+ Parameters used are 
+\begin_inset Formula $q_{min}=0.97$
+\end_inset
+
+, 
+\begin_inset Formula $d_{max}=d_{max}^{PA}=0.3$
+\end_inset
+
+, 
+\begin_inset Formula $\mu=5\times10^{-3}$
+\end_inset
+
+ and 
+\begin_inset Formula $J_{P}=J_{A}=1,000$
+\end_inset
+
+.
+\series bold
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:nestedness"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/p223208/AppData/Local/Temp/Figures/compandconv-2.pdf
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Comparison of model's predictions with estimations of convergence and complement
+arity from an empirical data of a plant-pollinator community.
+ a) The proportion of complementarity events (y-axis) as a function of the
+ complementarity threshold (x-axis) for the empirical data (dotted black
+ line) and for the model (continuous and dotted red lines represent mean,
+ 0.05 and 0.95 CI values, respectively).
+ Predictions are within the CI for most complementarity threshold values.
+ Empirical data deviates from model predictions for complementarity threshold
+ values around 0.4 and lower.
+ b) The proportion of convergence events in the plant community (y-axis,
+ 69 species) as a function of the convergence threshold (x-axis) for the
+ empirical data (dotted black line) and for the model (continuous and dotted
+ red lines represent mean, 0.05 and 0.95 CI values, respectively).
+ Convergence events in the empirical data strongly deviates from model predictio
+ns for convergence threshold values ranging between 1 and approx.
+ 0.82.
+ In that range, model predicts much higher proportion of convergence events
+ than the empirical observations.
+ c) The proportion of convergence events in the animal community (y-axis,
+ 24 species) as a function of the convergence threshold (x-axis) for the
+ empirical data (dotted black line) and for the model (continuous and dotted
+ red lines represent mean, 0.05 and 0.95 CI values, respectively).
+ Convergence events in the empirical data are within the CI of model predictions
+ for most convergence threshold values.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+ 
+\end_layout
+
+\end_body
+\end_document
