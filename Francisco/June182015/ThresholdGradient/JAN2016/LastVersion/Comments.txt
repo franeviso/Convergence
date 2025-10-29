@@ -1,0 +1,9 @@
+Hola Francisco,
+
+Aqui te envio el ultimo draft con la parte del fitting model data incluida, todo el trabajo revisado y tambien con las nuevas referencias incluidas. Lo he editado en Lyx.
+Habria que añadir el SI que comentas en la seccion Model-data fitting. Quizas habria que poner una figura en SI ya que creo que ecol letters el max es 5 o 6. Quizas la figura 5? 
+Tanto la introduccion como l discussion tienen 9 parrafos y quizas el numero total de palabras sea maor que el limite permitido. En cualquier caso estamos ya en la recta final antes de enviarlo. 
+
+
+Tambien he eliminado la tabla 2 para enfatizar mas los resultados que presentamos al comparar el modelo con datos empiricos. Puedes añadirla de nuevo si no te parece bien. 
+

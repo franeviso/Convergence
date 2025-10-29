@@ -5,7 +5,7 @@ The model is a spatially and genetically explicit individual-based model conside
 
 
 ## Contributors
-Carlos Melian (EAWAG) and Rampal S. Etienne (RuG).
+Carlos Melian (EAWAG), Rampal S. Etienne (RuG),  and Hanno Hildenbrandt (RuG)
 
 
 ## Status

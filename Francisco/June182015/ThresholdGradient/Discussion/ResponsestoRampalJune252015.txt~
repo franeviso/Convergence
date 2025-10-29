@@ -1,0 +1,59 @@
+Dear Rampal and Francisco,
+
+I have now double checked the codes to calculate complementarity and convergence and have added a second data set to the analysis (modeldata.eps). 
+
+The figure shows:
+
+The proportion of convergence and complementarity decay similarly in the two data sets. Note that the model prediction for the decay of complementarity is slightly different to the previous figure, but overall deviations are still strong in most of the range.
+
+Model predictions are within the CI only from threshold values 0.9 to 1 for complementarity and from approx. 0.95 to 1 for convergence.
+
+Model predictions are always higher or equal than the empirical observations for the whole threshold range
+
+
+
+These are the two references containing the data
+
+Maglianesi, M. A., Blüthgen, N., Katrin Böhning-Gaese, K., and Schleuning, M. 2014. Morphological traits determine specialization and resource use in plant–hummingbird networks in the neotropics. Ecology 95:3325–3334. (black continuous line)
+Marcela Moré, M., Benitez-Vieyra, S., Sérsic, A. N., and Cocucci, A. A. 2014. Patrones de deposito de polen sobre el cuerpo de los polinizadores en comunidades esfingofilas de Argentina subtropical. Darwiniana 2:174-196.(black dash-dot line).
+
+
+I see two options
+
+Option A: Include the new figure as it is now and finish the ms
+
+Things to highlight 
+1. The good match between model and empirical data in complementarity and convergence for threshold values from 0.9 for complementarity and 0.95 for convergence to 1. 
+
+Note for convergence we have removed sister species in the model and controlled by genera in the data. 
+Here the mean and distribution (see ephenosim.eps) morphological similarity for species of different genera from the two data analyzed
+Mean pairwise animal similarity for the continuous line empirical data 0.783 (38sp.)
+Mean pairwise plant similarity for the continuous line empirical data 0.687 (133sp.)
+Mean pairwise animal similarity for dash-dot line empirical data 0.79578 (40sp.)
+Mean pairwise plant similarity for dash-dot line empirical data 0.65 (39sp)
+
+Which is the threshold value to calculate convergence and similarity? Is there empirical evidence to say that 0.9 or higher is a good threshold?
+
+
+2. Model predicts more (or equal) complementarity and convergence than the observed values for all the range of thresholds
+
+
+Things to do
+1. Add the new figure to the ms together with the two refs and the ref suggested by Rampal
+2. Discuss the figure in the results
+3. Make more clear complementarity and convergence values predicted are larger than the empirical observations and fit within the CI for large convergence and complementarity threhsolds.
+
+
+Option B: Run new simulations increasing the number of loci, or changing q_min. 
+
+
+This should be the option given that we have explored a quite narrow parameter space and also because until now our predictions show lower number of species (around 10 for plant and 10 for animals) and much lower variance (most similarity values are around 0.8) than the empirical data. This low variance could be the main explanation for the fast decay in the proportion of comp and conv events in the model.
+
+I have tried to run simulations with genome size of L = 150 and different q_min values (0.95). Unfortunately the numpy version of the server is not updated and I receive an error message that stops the simulations. I have tried to update numpy in my server folder but still having problems. I have asked to the IT to solve this, but they keep telling me that this is my own problem. To run these simulations we would require at least 3 or 4 weeks, so until the end of July. By then, I will be close to 1 month holidays (after I have submitted my tenure) and I wont return until the first week of September. This means that we could submit in the best case scenario by the end of September. 
+
+
+
+
+
+
+

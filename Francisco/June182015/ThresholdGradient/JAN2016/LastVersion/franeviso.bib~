@@ -1,0 +1,3223 @@
+% Encoding: UTF-8
+
+@ARTICLE{Allesina_Tang_2012,
+  author = {S. Allesina and S. Tang},
+  title = {Stability criteria for complex ecosystems},
+  journal = {Nature},
+  year = {2012},
+  volume = {483},
+  pages = {205-208},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+
+
+@ARTICLE{CavalliEdwards1967,
+  author = {L. L. Cavalli-Sforza and A. W. Edwards},
+  title = {Phylogenetic analysis. Models and estimation procedures.},
+  journal = {Am J Hum Genet.},
+  year = {1967},
+  volume = {19},
+  pages = {233-257},
+  owner = {francisco},
+  timestamp = {2010.05.31}
+}
+
+@ARTICLE{Hobanetal2013,
+  author = {S. Hoban and O. Gaggiotti and ConGRESS Consortium and G. Bertorelle},
+  title = {Sample Planning Optimization Tool for conservation and population Genetics (SPOTG): a software for choosing the appropriate number of markers and samples},
+  journal = {Methods in Ecology and Evolution},
+  year = {2013},
+  volume = {4},
+  pages = {209-303},
+  owner = {francisco},
+  timestamp = {2010.05.31}
+}
+
+@ARTICLE{Almeida-neto_nodf,
+  author = {M. Almeida-Neto and P. Guimar\~aes and P.R. Guimar\~aes and R.D. Loyola
+	and W. Ulrich},
+  title = {A consistent metric for nestedness analysis in ecological systems:
+	reconciling concept and measurement},
+  journal = {Oikos},
+  year = {2008},
+  volume = {117},
+  pages = {1227-1239},
+  owner = {francisco},
+  timestamp = {2010.05.31}
+}
+
+@ARTICLE{Schoener2011,
+  author = {T. W. Schoener},
+  title = {The newest synthesis: understanding the interplay of evolutionary and ecological dynamics},
+  journal = {Science},
+  year = {2011},
+  volume = {331},
+  pages = {426-429},
+  owner = {francisco},
+  timestamp = {2010.05.31}
+}
+
+@ARTICLE{Amarasekare_2004,
+  author = {P. Amarasekare},
+  title = {Spatial dynamics of mutualistic interactions},
+  journal = {Journal of Animal Ecology},
+  year = {2004},
+  volume = {73},
+  pages = {128--142},
+  owner = {francisco},
+  timestamp = {2009.05.08}
+}
+
+@ARTICLE{Amarasekare1998,
+  author = {P. Amarasekare},
+  title = {Allee effects in metapopulation dynamics.},
+  journal = {The American Naturalist},
+  year = {1998},
+  volume = {152},
+  pages = {298--302},
+  number = {2},
+  month = {Aug},
+  doi = {10.1086/286169},
+  institution = {Department of Ecology and Evolutionary Biology, University of California,
+	Irvine, California 92697-2525, USA.},
+  owner = {francisco},
+  pmid = {18811393},
+  timestamp = {2009.05.04},
+  url = {http://dx.doi.org/10.1086/286169}
+}
+
+@ARTICLE{Amarasekare2004a,
+  author = {P. Amarasekare and M.F. Hoopes and N. Mouquet and M. Holyoak},
+  title = {Mechanisms of coexistence in competitive metacommunities},
+  journal = {The American Naturalist},
+  year = {2004},
+  volume = {164},
+  pages = {310--326},
+  number = {3},
+  month = {Sep},
+  abstract = {Although there is a large body of theory on spatial competitive coexistence,
+	very little of it involves comparative analyses of alternative mechanisms.
+	We thus have limited knowledge of the conditions under which multiple
+	spatial mechanisms can operate or of emergent properties arising
+	from interactions between mechanisms. Here we present a mathematical
+	framework that allows for comparative analysis of spatial coexistence
+	mechanisms. The basis for comparison is mechanisms operating in spatially
+	homogeneous competitive environments (e.g., life-history trade-offs)
+	versus mechanisms operating in spatially heterogeneous competitive
+	environments (e.g., source-sink dynamics). Our comparative approach
+	leads to several new insights about spatial coexistence. First, we
+	show that spatial variation in the expression of a life-history trade-off
+	leads to a unique regional pattern that cannot be predicted by considering
+	trade-offs or source-sink dynamics alone. This result represents
+	an instance where spatial heterogeneity constrains rather than promotes
+	coexistence, and it illustrates the kind of counterintuitive emergent
+	properties that arise due to interactions between different classes
+	of mechanisms. Second, we clarify the role of dispersal mortality
+	in spatial coexistence. Previous studies have shown that coexistence
+	can be constrained or facilitated by dispersal mortality. Our broader
+	analysis distinguishes situations where dispersal mortality is not
+	necessary for coexistence from those where such mortality is essential
+	for coexistence because it preserves spatial variation in the strength
+	of competition. These results form the basis for two important future
+	directions: evolution of life-history traits in spatially heterogeneous
+	environments and elucidation of the cause and effect relationship(s)
+	between biodiversity and ecosystem functioning.},
+  doi = {10.1086/422858},
+  institution = {Department of Ecology and Evolution, University of Chicago, Chicago,
+	Illinois 60637, USA. amarasek@uchicago.edu},
+  keywords = {Animals; Ecosystem; Host-Parasite Interactions; Insects; Models, Biological;
+	Population Dynamics; Spatial Behavior},
+  owner = {francisco},
+  pii = {AN40140},
+  pmid = {15478087},
+  timestamp = {2009.05.04},
+  url = {http://dx.doi.org/10.1086/422858}
+}
+
+@ARTICLE{Amarasekare2004b,
+  author = {P. Amarasekare},
+  title = {Spatial variation and density-dependent dispersal in competitive
+	coexistence.},
+  journal = {Proceedings of the Royal Society B-Biological Sciences},
+  year = {2004},
+  volume = {271},
+  pages = {1497--1506},
+  number = {1547},
+  month = {Jul},
+  abstract = {It is well known that dispersal from localities favourable to a species'
+	growth and reproduction (sources) can prevent competitive exclusion
+	in unfavourable localities (sinks). What is perhaps less well known
+	is that too much emigration can undermine the viability of sources
+	and cause regional competitive exclusion. Here, I investigate two
+	biological mechanisms that reduce the cost of dispersal to source
+	communities. The first involves increasing the spatial variation
+	in the strength of competition such that sources can withstand high
+	rates of emigration; the second involves reducing emigration from
+	sources via density-dependent dispersal. I compare how different
+	forms of spatial variation and modes of dispersal influence source
+	viability, and hence source-sink coexistence, under dominance and
+	pre-emptive competition. A key finding is that, while spatial variation
+	substantially reduces dispersal costs under both types of competition,
+	density-dependent dispersal does so only under dominance competition.
+	For instance, when spatial variation in the strength of competition
+	is high, coexistence is possible (regardless of the type of competition)
+	even when sources experience high emigration rates; when spatial
+	variation is low, coexistence is restricted even under low emigration
+	rates. Under dominance competition, density-dependent dispersal has
+	a strong effect on coexistence. For instance, when the emigration
+	rate increases with density at an accelerating rate (Type III density-dependent
+	dispersal), coexistence is possible even when spatial variation is
+	quite low; when the emigration rate increases with density at a decelerating
+	rate (Type II density-dependent dispersal), coexistence is restricted
+	even when spatial variation is quite high. Under pre-emptive competition,
+	density-dependent dispersal has only a marginal effect on coexistence.
+	Thus, the diversity-reducing effects of high dispersal rates persist
+	under pre-emptive competition even when dispersal is density dependent,
+	but can be significantly mitigated under dominance competition if
+	density-dependent dispersal is Type III rather than Type II. These
+	results lead to testable predictions about source-sink coexistence
+	under different regimes of competition, spatial variation and dispersal.
+	They identify situations in which density-independent dispersal provides
+	a reasonable approximation to species' dispersal patterns, and those
+	under which consideration of density-dependent dispersal is crucial
+	to predicting long-term coexistence.},
+  doi = {10.1098/rspb.2004.2696},
+  institution = {Department of Ecology and Evolution, The University of Chicago, 1101
+	East 57th Street, Chicago, IL 60637, USA. amarasek@uchicago.edu},
+  keywords = {Animals; Competitive Behavior; Demography; Models, Biological; Population
+	Density; Population Dynamics; Spatial Behavior},
+  owner = {francisco},
+  pii = {Y2BT42VDQ85KN3JJ},
+  pmid = {15306322},
+  timestamp = {2009.05.04},
+  url = {http://dx.doi.org/10.1098/rspb.2004.2696}
+}
+
+@ARTICLE{Amarasekare2004c,
+  author = {P. Amarasekare},
+  title = {The role of density-dependent dispersal in source-sink dynamics.},
+  journal = {Journal of Theoretical Biology},
+  year = {2004},
+  volume = {226},
+  pages = {159--168},
+  number = {2},
+  month = {Jan},
+  abstract = {I investigate two aspects of source-sink theory that have hitherto
+	received little attention: density-dependent dispersal and the cost
+	of dispersal to sources. The cost arises because emigration reduces
+	the per capita growth rate of sources, thus predisposing them to
+	extinction. I show that source-sink persistence depends critically
+	on the interplay between these two factors. When the emigration rate
+	increases with abundance at an accelerating rate, dispersal costs
+	to sources is the lowest and risk of source-sink extinction the least.
+	When the emigration rate increases with abundance at a decelerating
+	rate, dispersal costs to sources is the highest and the risk of source-sink
+	extinction the greatest. Density-independent emigration has an intermediate
+	effect. Thus, density-dependent dispersal per se does not increase
+	or decrease source-sink persistence relative to density-independent
+	dispersal. The exact mode of dispersal is crucial. A key point to
+	appreciate is that these effects of dispersal on source-sink extinction
+	arise from the temporal density-dependence that dispersal induces
+	in the per capita growth rates of source and sink populations. Temporal
+	density-dependence due to dispersal is beneficial at low abundances
+	because it rescues sinks from extinction, and detrimental at high
+	abundances because it drives otherwise viable sources to extinction.
+	These results are robust to the nature of population dynamics in
+	the sink, whether exponential or logistic. They provide a means of
+	assessing the relative costs and benefits of preserving sink habitats
+	given three biological parameters.},
+  institution = {Department of Ecology and Evolution, The University of Chicago, 1101
+	East 57th Street, Chicago IL 60637, USA. amarasek@midway.uchicago.edu},
+  keywords = {Animals; Ecosystem; Emigration and Immigration; Models, Biological;
+	Models, Statistical; Population Density},
+  owner = {francisco},
+  pii = {S0022519303003266},
+  pmid = {14643185},
+  timestamp = {2009.05.04}
+}
+
+@ARTICLE{Amarasekare2008b,
+  author = {P. Amarasekare},
+  title = {Spatial dynamics of keystone predation.},
+  journal = {Journal of Animal Ecology},
+  year = {2008},
+  volume = {77},
+  pages = {1306--1315},
+  number = {6},
+  month = {Nov},
+  abstract = {1. I investigated the effects of dispersal on communities of keystone
+	predators and prey. I obtained two key results. 2. First, a strong
+	trade-off between competitive ability and predator susceptibility
+	allows consumer coexistence over a large resource productivity range,
+	but it also lowers the predator-susceptible superior competitor's
+	abundance and increases its risk of extinction. Thus, unexpectedly,
+	dispersal plays a more important role in coexistence when predator-mediated
+	coexistence is strong rather than weak. The interplay between the
+	trade-off, small population sizes resulting from transient oscillations,
+	and dispersal leads to qualitatively different species distributions
+	depending on the relative mobilities of the consumers and predator.
+	These differences yield comparative predictions that can be tested
+	with data on trade-off strength, dispersal rates, and species distributions
+	across productivity gradients. 3. Second, there is an asymmetry between
+	species in their dispersal effects: the predator-resistant inferior
+	competitor's dispersal has a large effect, but the predator-susceptible
+	superior competitor's dispersal has no effect, on coexistence and
+	species' distributions. The inferior competitor's dispersal also
+	mediates the predator's dispersal effects: the predator's dispersal
+	has no effect when the inferior competitor is immobile, and a large
+	effect when it is mobile. The net outcome of the direct and indirect
+	effects of the inferior competitor's dispersal is a qualitative change
+	in the species' distributions from interspecific segregation to interspecific
+	aggregation. 4. The important point is that differences between species
+	in how they balance resource acquisition and predator avoidance can
+	lead to unexpected differences in their dispersal effects. While
+	consumer coexistence in the absence of dispersal is driven largely
+	by the top predator, consumer coexistence in the presence of dispersal
+	is driven largely by the predator-resistant inferior competitor.},
+  doi = {10.1111/j.1365-2656.2008.01439.x},
+  institution = {Department of Ecology and Evolutionary Biology, University of California
+	Los Angeles, Los Angeles, CA 90095-1606, USA. amarasek@eeb.ucla.edu},
+  keywords = {Animals; Demography; Ecosystem; Models, Biological; Predatory Behavior},
+  owner = {francisco},
+  pii = {JAE1439},
+  pmid = {18631259},
+  timestamp = {2009.05.04},
+  url = {http://dx.doi.org/10.1111/j.1365-2656.2008.01439.x}
+}
+
+@ARTICLE{anderson_johnson_2008,
+  author = {B. Anderson and S.D. Johnson},
+  title = {The Geographical mosaic of coevolution in a plant-pollinator mutualism},
+  journal = {Evolution},
+  year = {2008},
+  volume = {62},
+  pages = {220-225},
+  owner = {francisco},
+  timestamp = {2012.11.13}
+}
+
+
+@ARTICLE{Andersonetal2010,
+  author = {B. Anderson and J. S. Terblanche and A. G. Ellis},
+  title = {Predictable patterns of trait mismatches between interacting plants and insects},
+  journal = {BMC Evolutionary Biology},
+  year = {2010},
+  volume = {10},
+  pages = {204},
+  owner = {francisco},
+  timestamp = {2012.02.20}
+}
+
+@Article{APE_rpackage,
+  author =  {E. Paradis and J. Claude and K. Strimmer},
+  title =   {APE: analyses of phylogenetics and evolution in R language},
+  journal = {Bioinformatics},
+  year =    {2004},
+  volume =  {20},
+  pages =   {289-290}
+}
+
+@ARTICLE{Bascompte-2003,
+  author = {J. Bascompte and P. Jordano and C. J. Melian and J. M. Olesen},
+  title = {The nested assembly of plant-animal mutualistic networks},
+  journal = {Proc. Natl. Acad. Sci. USA},
+  year = {2003},
+  volume = {100},
+  pages = {9383-9387},
+  number = {16},
+  month = {Aug},
+  abstract = {Most studies of plant-animal mutualisms involve a small number of
+	species. There is almost no information on the structural organization
+	of species-rich mutualistic networks despite its potential importance
+	for the maintenance of diversity. Here we analyze 52 mutualistic
+	networks and show that they are highly nested; that is, the more
+	specialist species interact only with proper subsets of those species
+	interacting with the more generalists. This assembly pattern generates
+	highly asymmetrical interactions and organizes the community cohesively
+	around a central core of interactions. Thus, mutualistic networks
+	are neither randomly assembled nor organized in compartments arising
+	from tight, parallel specialization. Furthermore, nestedness increases
+	with the complexity (number of interactions) of the network: for
+	a given number of species, communities with more interactions are
+	significantly more nested. Our results indicate a nonrandom pattern
+	of community organization that may be relevant for our understanding
+	of the organization and persistence of biodiversity.},
+  file = {:Colloquium/Networks/Bascompte_etal_2003.pdf:PDF},
+  issn = {0027-8424},
+  uri = {<Go to ISI>://000184620000052}
+}
+
+
+@ARTICLE{Bascompte2005,
+  author = {J. Bascompte and C.J. Melian and E. Sala},
+  title = {Interaction strength combinations and the overfishing of a marine
+	food web.},
+  journal = {Proceedings of the National Academy of Sciences of the United States
+	of America},
+  year = {2005},
+  volume = {102},
+  pages = {5443--5447},
+  number = {15},
+  month = {Apr},
+  abstract = {The stability of ecological communities largely depends on the strength
+	of interactions between predators and their prey. Here we show that
+	these interaction strengths are structured nonrandomly in a large
+	Caribbean marine food web. Specifically, the cooccurrence of strong
+	interactions on two consecutive levels of food chains occurs less
+	frequently than expected by chance. Even when they occur, these strongly
+	interacting chains are accompanied by strong omnivory more often
+	than expected by chance. By using a food web model, we show that
+	these interaction strength combinations reduce the likelihood of
+	trophic cascades after the overfishing of top predators. However,
+	fishing selectively removes predators that are overrepresented in
+	strongly interacting chains. Hence, the potential for strong community-wide
+	effects remains a threat.},
+  doi = {10.1073/pnas.0501562102},
+  institution = {aci�n Biol�gica de Do�ana, Consejo Superior de Investigaciones Cient�ficas,
+	Apartado Postal 1056, E-41080 Seville, Spain. bascompte@ebd.csic.es},
+  keywords = {Animals; Diet; Fisheries; Fishes; Food Chain; Models, Biological;
+	Predatory Behavior},
+  owner = {francisco},
+  pii = {0501562102},
+  pmid = {15802468},
+  timestamp = {2009.05.07},
+  url = {http://dx.doi.org/10.1073/pnas.0501562102}
+}
+
+@ARTICLE{Bascompte-2006-Science,
+  author = {J. Bascompte and P. Jordano and J. M. Olesen},
+  title = {Response to comment on "Asymmetric coevolutionary networks facilitate
+	biodiversity maintenance"},
+  journal = {Science},
+  year = {2006},
+  volume = {313},
+  number = {5795},
+  month = {Sep},
+  issn = {0036-8075},
+  uri = {<Go to ISI>://000240832200025}
+}
+
+@ARTICLE{Bascompte-2006-Science-b,
+  author = {J. Bascompte and P. Jordano and J. M. Olesen},
+  title = {Asymmetric coevolutionary networks facilitate biodiversity maintenance},
+  journal = {Science},
+  year = {2006},
+  volume = {312},
+  pages = {431-433},
+  number = {5772},
+  month = {Apr},
+  abstract = {The mutualistic interactions between plants and their pollinators
+	or seed dispersers have played a major role in the maintenance of
+	Earth's biodiversity. To investigate how coevolutionary interactions
+	are shaped within species-rich communities, we characterized the
+	architecture of an array of quantitative, mutualistic networks spanning
+	a broad geographic range. These coevolutionary networks are highly
+	asymmetric, so that if a plant species depends strongly on an animal
+	species, the animal depends weakly on the plant. By using a simple
+	dynamical model, we showed that asymmetries inherent in coevolutionary
+	networks may enhance long-term coexistence and facilitate biodiversity
+	maintenance.},
+  file = {:Colloquium/Networks/Bascompte_etal_2006_Science_Asymmetry.pdf:PDF},
+  issn = {0036-8075},
+  uri = {<Go to ISI>://000236941800048}
+}
+
+@ARTICLE{Bascompte-2007,
+  author = {J. Bascompte},
+  title = {Networks in ecology},
+  journal = {Basic and Applied Ecology},
+  year = {2007},
+  volume = {8},
+  pages = {485-490},
+  number = {6},
+  abstract = {Recently, ecology has shown a strong interest in network theory. The
+	question, as with any other emerging field, is to what extent we
+	are making real progress in understanding ecological and evolutionary
+	processes or just telling the same stories with fancy new words.
+	I first present a biased overview of the development of network theory,
+	focusing on its search for common patterns across seemingly different
+	systems. I then proceed by discussing some applications of network
+	theory in ecology, namely, species interactions, spatial ecology,
+	epidemiology, and evolution in social groups. Finally, I suggest
+	important contributions of the network approach such as identifying
+	the consequences of heterogeneity for population and community dynamics,
+	potential pitfalls, and future directions. (C) 2007 Geselischaft
+	fur Okologie. Published by Elsevier GmbH. All rights reserved.},
+  issn = {1439-1791},
+  uri = {<Go to ISI>://000251443300001}
+}
+
+@ARTICLE{Bascompte-Jordano-2007,
+  author = {J. Bascompte and P. Jordano},
+  title = {Plant-animal mutualistic networks: The architecture of biodiversity},
+  journal = {Annu. Rev. Ecol. Evol. Syst.},
+  year = {2007},
+  volume = {38},
+  pages = {567-593},
+  abstract = {The mutually beneficial interactions between plants and their animal
+	pollinators and seed dispersers have been paramount in the generation
+	of Earth's biodiversity These mutualistic interactions often involve
+	dozens or even hundreds of species that form complex networks of
+	interdependences. Understanding how coevolution proceeds in these
+	highly diversified mutualisms among free-living species presents
+	a conceptual challenge. Recent work has led to the unambiguous conclusion
+	that mutualistic networks are very heterogeneous (the bulk of the
+	species have a few interactions, but a few species are much more
+	connected than expected by chance), nested (specialists interact
+	with subsets of the species with which generalists interact), and
+	built on weak and asymmetric links among species. Both ecological
+	variables (e.g., phenology, local abundance, and geographic range)
+	and past evolutionary history may explain such network patterns.
+	Network structure has important implications for the coexistence
+	and stability of species as well as for the coevolutionary process.
+	Mutualistic networks can thus be regarded as the architecture of
+	biodiversity.},
+  issn = {1543-592X},
+  uri = {<Go to ISI>://000252359800023}
+}
+
+@ARTICLE{Blakey2008,
+  author = {P. Blakey},
+  title = {The Credit Crunch: Part I [Wireless Investor]},
+  journal = IEEE_M_MW,
+  year = {2008},
+  volume = {9},
+  pages = {22--30},
+  number = {2},
+  doi = {10.1109/MMM.2008.915355},
+  issn = {1527-3342},
+  keywords = {economic forecasting, financial management, credit crunch, economic
+	crises, financial disasters, financial innovations},
+  owner = {francisco},
+  timestamp = {2009.03.17}
+}
+
+@ARTICLE{borgatti_2005,
+  author = {S.P. Borgatti},
+  title = {Centrality and network flow},
+  journal = {Social Networks},
+  year = {2005},
+  volume = {27},
+  pages = {55-71},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@INBOOK{borgatti_network_book,
+  chapter = {Analyzing Affiliation Networks},
+  title = {The Sage Handbook of Social Network Analysis},
+  publisher = {Sage Publications},
+  year = {In press},
+  editor = {P. Carrington and J. Scott},
+  author = {Borgatti, S.P. and Halgin, D.},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@ARTICLE{Boulding_2007,
+  author = {E.G. Boulding and T. Hay and M. Holst and S. Kamel and D. Pakes and
+	A.D. Tie},
+  title = {Modelling the genetics and demography of step cline formation: gastropod
+	populations preyed on by experimentally introduced crabs},
+  journal = {Journal of Evolutionary Biology},
+  year = {2007},
+  volume = {20},
+  pages = {1976-1987},
+  owner = {francisco},
+  timestamp = {2012.09.12}
+}
+
+@ARTICLE{Bronstein_2003,
+  author = {J.L. Bronstein and W.G. Wilson and W.F. Morris},
+  title = {Ecological dynamics of mutualist/antagonist communities},
+  journal = {The American Naturalist},
+  year = {2003},
+  volume = {162},
+  pages = {24-29},
+  owner = {francisco},
+  timestamp = {2009.04.01}
+}
+
+
+@ARTICLE{Bronstein-2003,
+  author = {J. L. Bronstein and W. G. Wilson and W. E. Morris},
+  title = {Ecological dynamics of mutualist/antagonist communities},
+  journal = {The American Naturalist},
+  year = {2003},
+  volume = {162},
+  pages = {S24-S39},
+  number = {4},
+  month = {Oct},
+  abstract = {One approach to understanding how mutualisms function in community
+	settings is to model well-studied pairwise interactions in the presence
+	of the few species with which they interact most strongly. In nature,
+	such species are often specialized antagonists of one or both mutualists.
+	Hence, these models can also shed light on the problem of when and
+	how mutualisms are able to persist in the face of exploitation. We
+	used spatial stochastic simulations to model the ecological dynamics
+	of obligate, species-specific mutualisms between plants and pollinating
+	seed parasite insects (e.g., yuccas and yucca moths) in the presence
+	of one of two obligate antagonist species: flower-feeding insects
+	(florivores) or insects that parasitize seeds but fail to pollinate
+	(exploiters). Our results suggest that mutualisms can persist surprisingly
+	well in the presence of highly specialized antagonists but that they
+	exhibit distinctly different temporal and spatial dynamics when antagonists
+	are present. In our models, antagonists tend to induce oscillations
+	in the mutualist populations. As the number of per capita visits
+	by antagonists increase, the system's oscillatory dynamics become
+	more extreme, finally leading to the extinction of one or more of
+	the three species. When the antagonists exhibit high per capita visitation
+	frequencies and long dispersal distances, significant spatial patchiness
+	emerges within these tripartite interactions. We found surprisingly
+	little difference between the ecological effects of florivores and
+	exploiters, although in general florivores tended to drive themselves
+	(and sometimes the mutualists) to extinction at parameter values
+	at which the exploiters were able to persist. These theoretical results
+	suggest several testable hypotheses regarding the ecological and
+	evolutionary persistence of mutualisms. More broadly, they point
+	to the critical importance of studying the dynamics of pairwise interactions
+	in community contexts.},
+  annote = {Suppl. S},
+  issn = {0003-0147},
+  uri = {<Go to ISI>://000186657900003}
+}
+
+@ARTICLE{Bronstein-2006,
+  author = {J. L. Bronstein and R. Alarcon and M. Geber},
+  title = {The evolution of plant-insect mutualisms},
+  journal = {New Phytol.},
+  year = {2006},
+  volume = {172},
+  pages = {412-428},
+  number = {3},
+  abstract = {Mutualisms (cooperative interactions between species) have had a central
+	role in the generation and maintenance of life on earth. Insects
+	and plants are involved in diverse forms of mutualism. Here we review
+	evolutionary features of three prominent insect-plant mutualisms:
+	pollination, protection and seed dispersal. We focus on addressing
+	five central phenomena: evolutionary origins and maintenance of mutualism;
+	the evolution of mutualistic traits; the evolution of specialization
+	and generalization; coevolutionary processes; and the existence of
+	cheating. Several features uniting very diverse insect-plant mutualisms
+	are identified and their evolutionary implications are discussed:
+	the involvement of one mobile and one sedentary partner; natural
+	selection on plant rewards; the existence of a continuum from specialization
+	to generalization; and the ubiquity of cheating, particularly on
+	the part of insects. Plant-insect mutualisms have apparently both
+	arisen and been lost repeatedly. Many adaptive hypotheses have been
+	proposed to explain these transitions, and it is unlikely that any
+	one of them dominates across interactions differing so widely in
+	natural history. Evolutionary theory has a potentially important,
+	but as yet largely unfilled, role to play in explaining the origins,
+	maintenance, breakdown and evolution of insect-plant mutualisms.},
+  issn = {0028-646X},
+  uri = {<Go to ISI>://000241238800006}
+}
+
+@ARTICLE{Brown_Vincent_coevolution,
+  author = {J.S. Brown and T.L. Vincent},
+  title = {Coevolution as an evolutionary game},
+  journal = {Evolution},
+  year = {1987},
+  volume = {41},
+  pages = {66-79},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@Book{Butlin_Bridle_Schluter_2009,
+  title =     {Speciation and Patterns of Diversity},
+  publisher = {Cambridge: Cambridge University Press. 346 p.},
+  year =      {2009},
+  author =    {R. Butlin and J. Bridle and D. Schluter}
+}
+
+@ARTICLE{         Butlinetal:2011,
+  author	= {{T}he {M}arie {C}urie {SPECIATION} {N}etwork},
+  year		= 2011,
+  title		= {What do we need to know about speciation?},
+  journal	= {Trends Ecol Evol},
+  volume	= 27,
+  pages		= {27-39},
+  pozn		= {neni},
+  kod		= {}
+}
+
+@ARTICLE{Caldarelli_1998,
+  author = {G. Caldarelli and P.G. Higgs and A.J. McKane},
+  title = {Modelling coevolution in multispecies communities},
+  journal = {Journal Theoretical Biology},
+  year = {1998},
+  volume = {193},
+  pages = {345-358},
+  owner = {fran},
+  timestamp = {2011.10.10}
+}
+
+@ARTICLE{Canard_2012,
+  author = {E. Canard and N. Mouquet and L. Marescot and K.J. Gaston and D. Gravel
+	and D. Mouillot},
+  title = {Emergence of structural patterns in neutral trophic networks},
+  journal = {Plos One},
+  year = {2012},
+  volume = {7},
+  pages = {e38295},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Claessen_2008,
+  author = {David Claessen and Jens Andersson and Lennart Persson, and Roos,
+	Andr\'{e} M. de},
+  title = {The Effect of Population Size and Recombination on Delayed Evolution
+	of Polymorphism and Speciation in Sexual Populations.},
+  journal = {Am Nat},
+  year = {2008},
+  volume = {172},
+  pages = {E18-E34},
+  abstract = {Recent theory suggests that absolute population size may qualitatively
+	influence the outcome of evolution under disruptive selection in
+	asexual populations. Large populations are predicted to undergo rapid
+	evolutionary branching; however, in small populations, the waiting
+	time to branching increases steeply with decreasing abundance, and
+	below a critical size, the population remains monomorphic indefinitely.
+	Here, we (1) extend the theory to sexual populations and (2) confront
+	its predictions with empirical data, testing statistically whether
+	lake size affects the level of resource polymorphism in arctic char
+	(Salvelinus alpinus) in 22 lakes of different sizes. For a given
+	level of recombination, our model predicts qualitatively similar
+	relations between population size and time to evolutionary branching
+	(either speciation or evolution of genetic polymorphism) as the asexual
+	model, while recombination further increases the delay to branching.
+	The loss of polymorphism at certain loci, an inherent aspect of multilocus‐trait
+	evolution, may increase the delay to speciation, resulting in stable
+	genetic polymorphism without speciation. The empirical analysis demonstrates
+	that the occurrence of resource polymorphism depends on both lake
+	size and the number of coexisting fish species. For a given number
+	of coexisting species, the level of polymorphism increases significantly
+	with lake size, thus confirming our model prediction.},
+  owner = {francisco},
+  timestamp = {2012.09.12}
+}
+
+@BOOK{crow_kimura_book,
+  title = {An introduction to population genetics theory},
+  publisher = {Harper \& Row Publishers},
+  year = {1970},
+  author = {J.F. Crow and M. Kimura},
+  pages = {148-149},
+  address = {New York},
+  owner = {francisco},
+  timestamp = {2012.11.13}
+}
+
+@Book{Darwin_contriv,
+  title =     {On the Various Contrivances by Which British and Foreign Orchids are Fertilised by Insects, and on the Good Effects of Intercrossing},
+  publisher = {Murray},
+  year =      {1862},
+  author =    {C. Darwin},
+  booktitle = {On the Various Contrivances by Which British and Foreign Orchids are Fertilised by Insects, and on the Good Effects of Intercrossing}
+}
+
+@BOOK{Darwin_orchids_book,
+  title = {Fertilisation of Orchids},
+  publisher = {Murray},
+  year = {1862},
+  author = {C. Darwin},
+  owner = {fran},
+  timestamp = {2011.10.10}
+}
+
+@Book{darwin_origin,
+  title =     {On the origin of the species},
+  publisher = {Murray},
+  year =      {1859},
+  author =    {C. Darwin},
+  owner =     {fran},
+  timestamp = {2011.10.10}
+}
+
+@ARTICLE{deaguiar_2009,
+  author = {M.A.M. de Aguiar and M. Baranger and E.M. Baptestini and L. Kaufman
+	and Y. Bar-Yam},
+  title = {Global patterns of speciation and diversity},
+  journal = {Nature},
+  year = {2009},
+  volume = {460},
+  pages = {384-387},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Deaviux_Lande_2008,
+  author = {C. Devaux and R. Lande},
+  title = {Incipient allochronic speciation due to non-selective assortative
+	mating by flowering time, mutation and genetic drift},
+  journal = {Proc R Soc B},
+  year = {2008},
+  volume = {275},
+  pages = {2723-2732},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+@BOOK{Doebeli_book,
+  title = {Adaptive diversification},
+  publisher = {Princeton University Press},
+  year = {2011},
+  author = {M. Doebeli},
+  address = {Princeton, NJ},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{encinas_el_2012,
+  author = {F. Encinas-Viso and T. Revilla and R.S. Etienne},
+  title = {Phenology drives mutualistic network diversity and structure},
+  journal = {Ecology Letters},
+  year = {2012},
+  doi = {10.1111/j.1461-0248.2011.01726.x},
+  owner = {francisco},
+  timestamp = {2012.01.10}
+}
+
+@ARTICLE{encinas_phenology_2012,
+  author = {F. Encinas-Viso and T. Revilla and R.S. Etienne},
+  title = {Phenology drives mutualisic network structure and diversity},
+  journal = {Ecol Lett},
+  year = {2012},
+  volume = {15},
+  pages = {198-208},
+  owner = {francisco},
+  timestamp = {2012.02.20}
+}
+
+@ARTICLE{ete_python,
+  author = {Jaime Huerta-Cepas and Joaqu\'{i}n Dopazo and Toni Gabald\'{o}n},
+  title = {ETE: a python environment for tree exploration},
+  journal = {BMC Bioinformatics},
+  year = {2010},
+  volume = {11},
+  pages = {24},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Etienne_Rosindell_2012,
+  author = {R.S. Etienne and J. Rosindell},
+  title = {Prolonging the past counteracts the pull of the present: protracted
+	speciation can explain observed slowdowns in diversification},
+  journal = {Systematic Biology},
+  year = {2012},
+  volume = {61},
+  pages = {204-213},
+  owner = {francisco},
+  timestamp = {2012.11.22}
+}
+
+@ARTICLE{Etienne2007,
+  author = {R.S. Etienne and D. Alonso and A.J. McKane},
+  title = {The zero-sum assumption in neutral biodiversity theory},
+  journal = {Journal of Theoretical Biology},
+  year = {2007},
+  volume = {248},
+  pages = {522--536},
+  number = {3},
+  month = {Oct},
+  abstract = {The neutral theory of biodiversity as put forward by Hubbell in his
+	2001 monograph has received much criticism for its unrealistic simplifying
+	assumptions. These are the assumptions of functional equivalence
+	among different species (neutrality), the assumption of point mutation
+	speciation, and the assumption that resources are continuously saturated,
+	such that constant resource availability implies constant community
+	size (zero-sum assumption). Here we focus on the zero-sum assumption.
+	We present a general theory for calculating the probability of observing
+	a particular species-abundance distribution (sampling formula) and
+	show that zero-sum and non-zero-sum formulations of neutral theory
+	have exactly the same sampling formula when the community is in equilibrium.
+	Moreover, for the non-zero-sum community the sampling formula has
+	this same form, even out of equilibrium. Therefore, the term "zero-sum
+	multinomial (ZSM)" to describe species abundance patterns, as coined
+	by Hubbell [2001. The Unified Neutral Theory of Biodiversity and
+	Biogeography, Princeton University Press, Princeton, NJ], is not
+	really appropriate, as it also applies to non-zero-sum communities.
+	Instead we propose the term "dispersal-limited multinomial (DLM)",
+	thus making explicit one of the most important contributions of neutral
+	community theory, the emphasis on dispersal limitation as a dominant
+	factor in determining species abundances.},
+  doi = {10.1016/j.jtbi.2007.06.010},
+  institution = {Community and Conservation Ecology Group, Centre for Ecological and
+	Evolutionary Studies, University of Groningen, P.O. Box 14, 9750
+	AA Haren, The Netherlands. r.s.etienne@rug.nl},
+  keywords = {Adaptation, Physiological; Animals; Biodiversity; Ecosystem; Evolution;
+	Gene Frequency; Mathematics; Models, Biological; Multivariate Analysis;
+	Population Dynamics; Probability},
+  owner = {francisco},
+  pii = {S0022-5193(07)00288-3},
+  pmid = {17640675},
+  timestamp = {2009.05.07},
+  url = {http://dx.doi.org/10.1016/j.jtbi.2007.06.010}
+}
+
+@ARTICLE{Ferdy_2002,
+  author = {J.B. Ferdy and L. Despres and B. Godelle},
+  title = {Evolution of mutualism between globeflowers and their pollinating
+	flies},
+  journal = {Journal of Theoretical Biology},
+  year = {2002},
+  volume = {217},
+  pages = {219--234},
+  owner = {francisco},
+  timestamp = {2009.05.08}
+}
+
+@ARTICLE{Ferriere-2007,
+  author = {R. Ferriere and M. Gauduchon and J. L. Bronstein},
+  title = {Evolution and persistence of obligate mutualists and exploiters:
+	competition for partners and evolutionary immunization},
+  journal = {Ecology Letters},
+  year = {2007},
+  volume = {10},
+  pages = {115-126},
+  number = {2},
+  month = {Feb},
+  abstract = {Mutualisms are ubiquitous in nature, as is their exploitation by both
+	conspecific and heterospecific cheaters. Yet, evolutionary theory
+	predicts that cheating should be favoured by natural selection. Here,
+	we show theoretically that asymmetrical competition for partners
+	generally determines the evolutionary fate of obligate mutualisms
+	facing exploitation by third-species invaders. When asymmetry in
+	partner competition is relatively weak, mutualists may either exclude
+	exploiters or coexist with them, in which case their co-evolutionary
+	response to exploitation is usually benign. When asymmetry is strong,
+	the mutualists evolve towards evolutionary attractors where they
+	become extremely vulnerable to exploiter invasion. However, exploiter
+	invasion at an early stage of the mutualism's history can deflect
+	mutualists' co-evolutionary trajectories towards slightly different
+	attractors that confer long-term stability against further exploitation.
+	Thus, coexistence of mutualists and exploiters may often involve
+	an historical effect whereby exploiters are co-opted early in mutualism
+	history and provide lasting 'evolutionary immunization' against further
+	invasion.},
+  issn = {1461-023X},
+  uri = {<Go to ISI>://000243754000003}
+}
+
+
+@ARTICLE{Ferriere2007a,
+  author = {R. Ferrière and M. Gauduchon and J.L. Bronstein},
+  title = {Evolution and persistence of obligate mutualists and exploiters:
+	competition for partners and evolutionary immunization.},
+  journal = {Ecology Letters},
+  year = {2007},
+  volume = {10},
+  pages = {115--126},
+  number = {2},
+  month = {Feb},
+  abstract = {Mutualisms are ubiquitous in nature, as is their exploitation by both
+	conspecific and heterospecific cheaters. Yet, evolutionary theory
+	predicts that cheating should be favoured by natural selection. Here,
+	we show theoretically that asymmetrical competition for partners
+	generally determines the evolutionary fate of obligate mutualisms
+	facing exploitation by third-species invaders. When asymmetry in
+	partner competition is relatively weak, mutualists may either exclude
+	exploiters or coexist with them, in which case their co-evolutionary
+	response to exploitation is usually benign. When asymmetry is strong,
+	the mutualists evolve towards evolutionary attractors where they
+	become extremely vulnerable to exploiter invasion. However, exploiter
+	invasion at an early stage of the mutualism's history can deflect
+	mutualists' co-evolutionary trajectories towards slightly different
+	attractors that confer long-term stability against further exploitation.
+	Thus, coexistence of mutualists and exploiters may often involve
+	an historical effect whereby exploiters are co-opted early in mutualism
+	history and provide lasting 'evolutionary immunization' against further
+	invasion.},
+  doi = {10.1111/j.1461-0248.2006.01008.x},
+  institution = {Laboratoire d'Ecologie, Unit of Mathematical Eco-Evolutionary Biology,
+	Ecole Normale Supérieure, 46 rue d'Ulm, 75230 Paris Cedex 05, France.
+	regis.ferriere@ens.fr},
+  keywords = {Competitive Behavior; Evolution; Symbiosis},
+  owner = {francisco},
+  pii = {ELE1008},
+  pmid = {17257099},
+  timestamp = {2009.01.22},
+  url = {http://dx.doi.org/10.1111/j.1461-0248.2006.01008.x}
+}
+
+@Article{FerriereGauduchonBronstein2007,
+  author =      {R. Ferriere and M. Gauduchon and J.L. Bronstein},
+  title =       {Evolution and persistence of obligate mutualists and exploiters: competition for partners and evolutionary immunization},
+  journal =     {Ecology Letters},
+  year =        {2007},
+  volume =      {10},
+  number =      {2},
+  pages =       {115--126},
+  month =       {Feb},
+  abstract =    {Mutualisms are ubiquitous in nature, as is their exploitation by both
+	conspecific and heterospecific cheaters. Yet, evolutionary theory
+	predicts that cheating should be favoured by natural selection. Here,
+	we show theoretically that asymmetrical competition for partners
+	generally determines the evolutionary fate of obligate mutualisms
+	facing exploitation by third-species invaders. When asymmetry in
+	partner competition is relatively weak, mutualists may either exclude
+	exploiters or coexist with them, in which case their co-evolutionary
+	response to exploitation is usually benign. When asymmetry is strong,
+	the mutualists evolve towards evolutionary attractors where they
+	become extremely vulnerable to exploiter invasion. However, exploiter
+	invasion at an early stage of the mutualism's history can deflect
+	mutualists' co-evolutionary trajectories towards slightly different
+	attractors that confer long-term stability against further exploitation.
+	Thus, coexistence of mutualists and exploiters may often involve
+	an historical effect whereby exploiters are co-opted early in mutualism
+	history and provide lasting 'evolutionary immunization' against further
+	invasion.},
+  doi =         {10.1111/j.1461-0248.2006.01008.x},
+  institution = {Laboratoire d'Ecologie, Unit of Mathematical Eco-Evolutionary Biology, Ecole Normale Sup�rieure, 46 rue d'Ulm, 75230 Paris Cedex 05, France. regis.ferriere@ens.fr},
+  keywords =    {Competitive Behavior; Evolution; Symbiosis},
+  owner =       {francisco},
+  pii =         {ELE1008},
+  pmid =        {17257099},
+  timestamp =   {2009.01.22},
+  url =         {http://dx.doi.org/10.1111/j.1461-0248.2006.01008.x}
+}
+
+@ARTICLE{Freeman_1977,
+  author = {L. Freeman},
+  title = {A set of measures of centrality based on betweenness},
+  journal = {Sociometry},
+  year = {1977},
+  volume = {40},
+  pages = {35-41},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@ARTICLE{Galliard2003a,
+  author = {J.F. Le Galliard and R. Ferrière and U. Dieckmann},
+  title = {The adaptive dynamics of altruism in spatially heterogeneous populations},
+  journal = {Evolution},
+  year = {2003},
+  volume = {57},
+  pages = {1--17},
+  number = {1},
+  month = {Jan},
+  abstract = {We study the spatial adaptive dynamics of a continuous trait that
+	measures individual investment in altruism. Our study is based on
+	an ecological model of a spatially heterogeneous population from
+	which we derive an appropriate measure of fitness. The analysis of
+	this fitness measure uncovers three different selective processes
+	controlling the evolution of altruism: the direct physiological cost,
+	the indirect genetic benefits of cooperative interactions, and the
+	indirect genetic costs of competition for space. In our model, habitat
+	structure and a continuous life cycle makes the cost of competing
+	for space with relatives negligible. Our study yields a classification
+	of adaptive patterns of altruism according to the shape of the costs
+	of altruism (with decelerating, linear, or accelerating dependence
+	on the investment in altruism). The invasion of altruism occurs readily
+	in species with accelerating costs, but large mutations are critical
+	for altruism to evolve in selfish species with decelerating costs.
+	Strict selfishness is maintained by natural selection only under
+	very restricted conditions. In species with rapidly accelerating
+	costs, adaptation leads to an evolutionarily stable rate of investment
+	in altruism that decreases smoothly with the level of mobility. A
+	rather different adaptive pattern emerges in species with slowly
+	accelerating costs: high altruism evolves at low mobility, whereas
+	a quasi-selfish state is promoted in more mobile species. The high
+	adaptive level of altruism can be predicted solely from habitat connectedness
+	and physiological parameters that characterize the pattern of cost.
+	We also show that environmental changes that cause increased mobility
+	in those highly altruistic species can beget selection-driven self-extinction,
+	which may contribute to the rarity of social species.},
+  institution = {Fonctionnement et évolution des systèmes écologiques, CNRS UMR 7625
+	Ecole Normale Supérieure, 46 rue d'Ulm, 75005 Paris, France. galliard@biologie.ens.fr},
+  keywords = {Adaptation, Physiological; Evolution; Genetics, Population; Mutation},
+  owner = {francisco},
+  pmid = {12643563},
+  timestamp = {2009.01.22}
+}
+
+@Article{Gavrilets_Losos_2009,
+  author =  {S. Gavrilets and J.B. Losos},
+  title =   {Adaptive radiation: Contrasting theory with data},
+  journal = {Science},
+  year =    {2009},
+  volume =  {323},
+  pages =   {732-737},
+  pozn =    {neni}
+}
+
+@Article{Gavrilets1_2000,
+  author =  {Gavrilets, S.},
+  title =   {Waiting time to parapatric speciation},
+  journal = {Proceedings of the Royal Society of London Serie B},
+  year =    {2000},
+  volume =  {267},
+  pages =   {2483-2492},
+  pozn =    {neni}
+}
+
+@ARTICLE{Gavriletsetal2000,
+  author = {S. Gavrilets and R. Acton and J. Gravner},
+  title = {Dynamics of speciation and diversification in a metapopulation},
+  journal = {Evolution},
+  year = {2000},
+  volume = {54},
+  pages = {1493-1501},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Girvan_Newman_2002,
+  author = {M. Girvan and M.E.J. Newman},
+  title = {Community structure in social and biological networks},
+  journal = {Proc Natl Acad Sci USA},
+  year = {2002},
+  volume = {99},
+  pages = {7821-7826},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@ARTICLE{goh_betweenness_2003,
+  author = {Goh, K.-I. and Oh, E. and Kahng, B. and Kim, D.},
+  title = {Betweenness centrality correlation in social networks},
+  journal = {Phys. Rev. E},
+  year = {2003},
+  volume = {67},
+  pages = {017101},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+
+@ARTICLE{gomez_2011,
+  author = {J.M. G\'{o}mez and F. Perfectti and P. Jordano},
+  title = {The Functional consequences of mutualistic network architecture},
+  journal = {PloS ONE},
+  year = {2011},
+  volume = {6},
+  pages = {e16143},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{gomez_perfectti_2012,
+  author = {J. M. G\'{o}mez and F. Perfectti},
+  title = {Fitness consequences of centrality in mutualistic individual-based
+	networks},
+  journal = {Proc R Soc B},
+  year = {2012},
+  volume = {279},
+  pages = {1754-1760},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Gomulkiewicz_2003,
+  author = {R. Gomulkiewicz and S.L. Nuismer and J.N. Thompson},
+  title = {Coevolution in variable mutualisms},
+  journal = {Am Nat},
+  year = {2003},
+  volume = {162},
+  pages = {S80-S93},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Gomulkiewicz-2000,
+  author = {R. Gomulkiewicz and J. N. Thompson and R. D. Holt and S. L. Nuismer
+	and M. E. Hochberg},
+  title = {Hot spots, cold spots, and the geographic mosaic theory of coevolution},
+  journal = {The American Naturalist},
+  year = {2000},
+  volume = {156},
+  pages = {156-174},
+  number = {2},
+  month = {Aug},
+  abstract = {Species interactions commonly coevolve as complex geographic mosaics
+	of populations shaped by differences in local selection and gene
+	flow. We use a haploid matching-alleles model for coevolution to
+	evaluate how a pair of species coevolves when fitness interactions
+	are reciprocal in some locations (#hot##spots#) but not in others
+	(#cold##spots#). Our analyses consider mutualistic and antagonistic
+	interspecific interactions and a variety of gene Dow patterns between
+	hot and cold spots. We found that hot and cold spots together with
+	gene flow influence coevolutionary dynamics in four important ways.
+	First, hot spots need not be ubiquitous to have a global influence
+	on evolution, although rare hat spots wilt not have a disproportionate
+	impact unless selection is relatively strong there. Second, asymmetries
+	in gene flow can influence local adaptation, sometimes creating stable
+	equilibria at which species experience minimal fitness in hot spots
+	and maximal fitness in cold spots, or vice versa. Third, asymmetries
+	in gene flow are no more important than asymmetries in population
+	regulation for determining the maintenance of local polymorphisms
+	through coevolution. Fourth, intraspecific allele frequency differences
+	among hot and cold spot populations evolve under some, but not all,
+	conditions. That is, selection mosaics are indeed capable of producing
+	spatially variable coevolutionary outcomes across the landscapes
+	over which species interact. Altogether, our analyses indicate that
+	coevolutionary trajectories can be strongly shaped by the geographic
+	distribution of coevolutionary hot and cold spots, and by the pattern
+	of gene flow among populations.},
+  issn = {0003-0147},
+  uri = {<Go to ISI>://000088212200005}
+}
+
+@ARTICLE{Gomulkiewicz-2003,
+  author = {R. Gomulkiewicz and S. L. Nuismer and J. N. Thompson},
+  title = {Coevolution in variable mutualisms},
+  journal = {The American Naturalist},
+  year = {2003},
+  volume = {162},
+  pages = {S80-S93},
+  number = {4},
+  month = {Oct},
+  abstract = {Many mutualistic interactions are probably not mutualistic across
+	all populations and years. This article explores consequences of
+	this observation with a series of genetic models that consider how
+	variable mutualisms coevolve. The first models, previously introduced
+	in a general coevolutionary context, consider two coevolving species
+	whose fitness interactions change between beneficial and antagonistic
+	in response to independent spatial or temporal variation in the abiotic
+	or biotic environment. The results demonstrate that both temporal
+	and spatial variability in fitness interactions can cause partner
+	species with tightly matched traits favored by unconditional mutualisms
+	to be vulnerable to evolutionary invasion by alternative types. A
+	new model presented here shows that an additional mutualistic species
+	can have a similar effect and can even cause fitness interactions
+	between the other two species to evolve. Under some conditions, the
+	pairwise interactions can change unidirectionally from mutualistic
+	to antagonistic, with virtually no evolutionary change in either
+	partner species. In other cases, fitness interactions between the
+	species pair can oscillate between mutualism and antagonism as a
+	result of coevolution in the third species. Taken as a whole, these
+	theoretical results suggest that many features of mutualistic coevolution
+	can best be understood by considering spatial, temporal, and community-dependent
+	patterns of fitness interactions.},
+  annote = {Suppl. S},
+  issn = {0003-0147},
+  uri = {<Go to ISI>://000186657900007}
+}
+
+@ARTICLE{gonzalez_2010,
+  author = {A.M. Mart\'{i}n Gonz\'{a}lez and B. Dalsgaard and J.M. Olesen},
+  title = {Centrality measures and the importance of generalist species in pollination
+	networks},
+  journal = {Ecological Complexity},
+  year = {2010},
+  volume = {7},
+  pages = {36-43},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@ARTICLE{Gould_Lewontin_sanmarco,
+  author = {S.J. Gould and R.C. Lewontin},
+  title = {The Spandrels of San Marco and the Panglossian Paradigm: A Critique
+	of the adaptationist programme},
+  journal = {Proc R Soc B},
+  year = {1979},
+  volume = {205},
+  pages = {581-598},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{guimaraes_coevol_2011,
+  author = {P.R. Guimar{\~a}es and P. Jordano and J.N. Thompson},
+  title = {Evolution and coevolution in mutualistic networks},
+  journal = {Ecol Lett},
+  year = {2011},
+  volume = {14},
+  pages = {877-885},
+  owner = {fran},
+  timestamp = {2011.10.10}
+}
+
+
+@ARTICLE{Guimaraes2007,
+  author = {P.R. Guimaraes and V. Rico-Gray and P.S. Oliveira and T.J. Izzo and
+	S.F. dos Reis and J.N. Thompson},
+  title = {Interaction intimacy affects structure and coevolutionary dynamics
+	in mutualistic networks.},
+  journal = {Curr Biol},
+  year = {2007},
+  volume = {17},
+  pages = {1797--1803},
+  number = {20},
+  month = {Oct},
+  abstract = {The structure of mutualistic networks provides clues to processes
+	shaping biodiversity [1-10]. Among them, interaction intimacy, the
+	degree of biological association between partners, leads to differences
+	in specialization patterns [4, 11] and might affect network organization
+	[12]. Here, we investigated potential consequences of interaction
+	intimacy for the structure and coevolution of mutualistic networks.
+	From observed processes of selection on mutualistic interactions,
+	it is expected that symbiotic interactions (high-interaction intimacy)
+	will form species-poor networks characterized by compartmentalization
+	[12, 13], whereas nonsymbiotic interactions (low intimacy) will lead
+	to species-rich, nested networks in which there is a core of generalists
+	and specialists often interact with generalists [3, 5, 7, 12, 14].
+	We demonstrated an association between interaction intimacy and structure
+	in 19 ant-plant mutualistic networks. Through numerical simulations,
+	we found that network structure of different forms of mutualism affects
+	evolutionary change in distinct ways. Change in one species affects
+	primarily one mutualistic partner in symbiotic interactions but might
+	affect multiple partners in nonsymbiotic interactions. We hypothesize
+	that coevolution in symbiotic interactions is characterized by frequent
+	reciprocal changes between few partners, but coevolution in nonsymbiotic
+	networks might show rare bursts of changes in which many species
+	respond to evolutionary changes in a single species.},
+  doi = {10.1016/j.cub.2007.09.059},
+  institution = {Instituto de F�sica Gleb Wataghin, Universidade Estadual de Campinas
+	6165, Campinas-Sao Paulo, 13083-970, Brazil. prguima@ifi.unicamp.br},
+  keywords = {Animals; Ants; Biodiversity; Ecosystem; Evolution; Models, Biological;
+	Plant Physiology; Symbiosis},
+  owner = {fran},
+  pii = {S0960-9822(07)02063-5},
+  pmid = {17949981},
+  timestamp = {2008.09.18},
+  url = {http://dx.doi.org/10.1016/j.cub.2007.09.059}
+}
+
+@Article{Higgs_Derrida:1992,
+  author =  {P.G. Higgs and B. Derrida},
+  title =   {Genetic distance and species formation in evolving populations},
+  journal = {J Mol Evol},
+  year =    {1992},
+  volume =  {35},
+  pages =   {454-465},
+  pozn =    {neni}
+}
+
+@ARTICLE{Howe_1982,
+  author = {H.R. Howe and J. Smallwood},
+  title = {Ecology of seed dispersal},
+  journal = {Ann Rev. Ecol. Syst.},
+  year = {1982},
+  volume = {13},
+  pages = {201-228},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@BOOK{hubbell_book,
+  title = {The unified neutral theory of biodiversity and biogeography},
+  publisher = {Princeton University Press},
+  year = {2001},
+  author = {S.P. Hubbell},
+  address = {Princeton, NJ},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Hubbell2006,
+  author = {S.P. Hubbell},
+  title = {Neutral theory and the evolution of ecological equivalence},
+  journal = {Ecology},
+  year = {2006},
+  volume = {87},
+  pages = {1387--1398},
+  number = {6},
+  month = {Jun},
+  abstract = {Since the publication of the unified neutral theory in 2001, there
+	has been much discussion of the theory, pro and con. The hypothesis
+	of ecological equivalence is the fundamental yet controversial idea
+	behind neutral theory. Assuming trophically similar species are demographically
+	alike (symmetric) on a per capita basis is only an approximation,
+	but it is equivalent to asking: How many of the patterns of ecological
+	communities are the result of species similarities, rather than of
+	species differences? The strategy behind neutral theory is to see
+	how far one can get with the simplification of assuming ecological
+	equivalence before introducing more complexity. In another paper,
+	I review the empirical evidence that led me to hypothesize ecological
+	equivalence among many of the tree species in the species-rich tropical
+	forest on Barro Colorado Island (BCI). In this paper, I develop a
+	simple model for the evolution of ecological equivalence or niche
+	convergence, using as an example evolution of the suite of life history
+	traits characteristic of shade tolerant tropical tree species. Although
+	the model is simple, the conclusions from it seem likely to be robust.
+	I conclude that ecological equivalence for resource use are likely
+	to evolve easily and often, especially in species-rich communities
+	that are dispersal and recruitment limited. In the case of the BCI
+	forest, tree species are strongly dispersal- and recruitment-limited,
+	not only because of restricted seed dispersal, but also because of
+	low recruitment success due to heavy losses of the seedling stages
+	to predators and pathogens and other abiotic stresses such as drought.
+	These factors and the high species richness of the community strongly
+	reduce the potential for competitive exclusion of functionally equivalent
+	or nearly equivalent species.},
+  institution = {Department of Plant Biology, University of Georgia, Athens 30605,
+	USA. shubbell@plantbio.uga.edu},
+  keywords = {Biodiversity; Ecology; Evolution; Models, Biological; Seeds; Trees},
+  owner = {francisco},
+  pmid = {16869413},
+  timestamp = {2009.05.07}
+}
+
+@ARTICLE{Ingram_2009,
+  author = {T. Ingram and L.J. Harmon and J.B. Shurin},
+  title = {Niche evolution, trophic structure, and species turnover in model
+	food webs},
+  journal = {The American Naturalist},
+  year = {2009},
+  volume = {174},
+  pages = {56-57},
+  owner = {fran},
+  timestamp = {2011.10.11}
+}
+
+
+@ARTICLE{Loeuille2005,
+  author = {N. Loeuille and M. Loreau},
+  title = {Evolutionary emergence of size-structured food webs},
+  journal = {Proceedings of the National Academy of Sciences of the United States
+	of America},
+  year = {2005},
+  volume = {102},
+  pages = {5761--5766},
+  number = {16},
+  month = {Apr},
+  abstract = {Explaining the structure of terrestrial and aquatic food webs remains
+	one of the most important challenges of ecological theory. Most existing
+	models use emergent properties of food webs, such as diversity and
+	connectance as parameters, to determine other food-web descriptors.
+	Lower-level processes, in particular adaptation (whether by behavioral,
+	developmental, or evolutionary mechanisms), are usually not considered.
+	Here, we show that complex, realistic food webs may emerge by evolution
+	from a single ancestor based on very simple ecological and evolutionary
+	rules. In our model, adaptation acts on body size, whose impact on
+	the metabolism and interactions of organisms is well established.
+	Based on parameters defined at the organism scale, the model predicts
+	emergent properties at the food-web scale. Variations of two key
+	parameters (width of consumption niche and competition intensity)
+	allow very different food-web structures and functionings to emerge,
+	which are similar to those observed in some of the best-documented
+	food webs.},
+  doi = {10.1073/pnas.0408424102},
+  institution = {Laboratoire d'Ecologie, Unit� Mixte de Recherche 7625, Ecole Normale
+	Sup�rieure, 46 Rue d'Ulm, F-75230 Paris Cedex 5, France. nicolas.loeuille@normalesup.org},
+  keywords = {Adaptation, Biological; Animals; Body Size; Ecology; Evolution; Feeding
+	Behavior; Food Chain; Mathematics; Models, Biological},
+  owner = {francisco},
+  pii = {0408424102},
+  pmid = {15824324},
+  timestamp = {2009.05.06},
+  %url = {http://dx.doi.org/10.1073/pnas.0408424102}
+}
+
+
+@ARTICLE{Ingram_Nabhan_buchmann,
+  author = {M. Ingram and G.C. Nabhan and S.L. Buchmann},
+  title = {Impending pollination crisis threatens biodiversity and agriculture},
+  journal = {Tropinet},
+  year = {1996},
+  volume = {7},
+  pages = {1},
+  owner = {francisco},
+  timestamp = {2012.08.08}
+}
+
+@ARTICLE{ipython,
+  author = {F. P\'{e}rez and B.E. Granger},
+  title = {{IP}ython: a {S}ystem for {I}nteractive {S}cientific {C}omputing},
+  journal = {{C}omput. {S}ci. {E}ng.},
+  year = {2007},
+  volume = {9},
+  pages = {21-29},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Janzen_1981,
+  author = {D.H. Janzen},
+  title = {Patterns of Herbivory in a Tropical Deciduous Forest},
+  journal = {Biotropica},
+  year = {1981},
+  volume = {13},
+  pages = {271-282},
+  owner = {francisco},
+  timestamp = {2009.05.11}
+}
+
+@ARTICLE{Janzen_coevolution_1980,
+  author = {D.H. Janzen},
+  title = {When is it coevolution?},
+  journal = {Evolution},
+  year = {1980},
+  volume = {34},
+  pages = {611-612},
+  owner = {fran},
+  timestamp = {2011.10.10}
+}
+
+@ARTICLE{Janzen1969,
+  author = {D.H. Janzen and C.H. Muller},
+  title = {Coevolution},
+  journal = {Science},
+  year = {1969},
+  volume = {165},
+  pages = {415--416},
+  number = {891},
+  month = {Jul},
+  keywords = {Animals; Ecology; Environment; Evolution; Plants; Selection (Genetics);
+	Toxins, Biological},
+  owner = {francisco},
+  pmid = {5789440},
+  timestamp = {2009.03.25}
+}
+
+@ARTICLE{Jones_Ferriere_amnat_2009,
+  author = {E.I. Jones and R. Ferri\`{e}re and J.L. Bronstein},
+  title = {Eco-evolutionary dynamics of mutualists and exploiters},
+  journal = {Am Nat},
+  year = {2009},
+  volume = {174},
+  pages = {780-794},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{jordan_centrality_foodweb,
+  author = {F. Jord\'{a}n and Z. Benedekc and J. Podanic},
+  title = {Quantifying positional importance in food webs: A comparison of centrality
+	indices},
+  journal = {Ecological Modelling},
+  year = {2007},
+  volume = {205},
+  pages = {270-275},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+
+@ARTICLE{Jordano-2003,
+  author = {P. Jordano and J. Bascompte and J.M. Olesen},
+  title = {Invariant properties in coevolutionary networks of plant-animal interactions},
+  journal = {Ecol. Lett.},
+  year = {2003},
+  volume = {6},
+  pages = {69-81},
+  number = {1},
+  month = {Jan},
+  abstract = {Plant-animal mutualistic networks are interaction webs consisting
+	of two sets of entities, plant and animal species, whose evolutionary
+	dynamics are deeply influenced by the outcomes of the interactions,
+	yielding a diverse array of coevolutionary processes. These networks
+	are two-mode networks sharing many common properties with others
+	such as food webs, social, and abiotic networks. Here we describe
+	generalized patterns in the topology of 29 plant-pollinator and 24
+	plant-frugivore networks in natural communities. Scale-free properties
+	have been described for a number of biological, social, and abiotic
+	networks; in contrast, most of the plant-animal mutualistic networks
+	(65.6%) show species connectivity distributions (number of links
+	per species) with a power-law regime but decaying as a marked cut-off,
+	i.e. truncated power-law or broad-scale networks and few (22.2%)
+	show scale-invariance. We hypothesize that plant-animal mutualistic
+	networks follow a build-up process similar to complex abiotic nets,
+	based on the preferential attachment of species. However, constraints
+	in the addition of links such as morphological mismatching or phenological
+	uncoupling between mutualistic partners, restrict the number of interactions
+	established, causing deviations from scale-invariance. This reveals
+	generalized topological patterns characteristic of self-organized
+	complex systems. Relative to scale-invariant networks, such constraints
+	may confer higher robustness to the loss of keystone species that
+	are the backbone of these webs.},
+  issn = {1461-023X},
+  uri = {<Go to ISI>://000179805100012}
+}
+
+@ARTICLE{Jousselin_2003,
+  author = {E. Jousselin and J.-Y. Rasplus and F. Kjellberg},
+  title = {Convergence and coevolution in a mutualism: evidence from a molecular
+	phylogeny of ficus},
+  journal = {Evolution},
+  year = {2003},
+  volume = {57},
+  pages = {1255-1269},
+  owner = {francisco},
+  timestamp = {2012.11.22}
+}
+
+@BOOK{kimura,
+  title = {The neutral theory of molecular evolution},
+  publisher = {Cambridge University Press},
+  year = {1983},
+  author = {M. Kimura},
+  address = {Cambridge, UK},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Klausmeier_2001,
+  author = {C.A. Klausmeier},
+  title = {Habitat destruction and extinction in competitive and mutualistic
+	metacommunities},
+  journal = {Ecology Letters},
+  year = {2001},
+  volume = {4},
+  pages = {57--63},
+  owner = {francisco},
+  timestamp = {2009.05.08}
+}
+
+@ARTICLE{Klovdahl_1985,
+  author = {A.S. Klovdahl},
+  title = {Social networks and the spread of infectious diseases: The AIDS example},
+  journal = {Social Science \& Medicine},
+  year = {1985},
+  volume = {21},
+  pages = {1203-1216},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@ARTICLE{KokkoLopezSepulcre2007,
+  author = {H. Kokko and A. L\'opez-Sepulcre},
+  title = {The ecogenetic link between demography and evolution: can we bridge the gap between theory and data?},
+  journal = {Ecology Letters},
+  year = {2007},
+  volume = {10},
+  pages = {773-782},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+
+@ARTICLE{kondrashov_shpak_1998,
+  author = {A.S. Kondrashov and M. Shpak},
+  title = {On the origin of species by means of assortative mating},
+  journal = {Proc. R. Soc. Lond. B},
+  year = {1998},
+  volume = {265},
+  pages = {2273-2278},
+  owner = {francisco},
+  timestamp = {2012.09.25}
+}
+
+@ARTICLE{Krishna_2008,
+  author = {A. Krishna and P.R. Guimar{\~a}es and P. Jordano and J. Bascompte},
+  title = {A neutral-niche theory of nestedness in mutualistic networks},
+  journal = {Oikos},
+  year = {2008},
+  volume = {117},
+  pages = {1609-1618},
+  owner = {francisco},
+  timestamp = {2010.05.31}
+}
+
+@ARTICLE{Law2001,
+  author = {R. Law and J. L. Bronstein and R. Ferri\`{e}re},
+  title = {On mutualists and exploiters: plant-insect coevolution in pollinating
+	seed-parasite systems},
+  journal = {Journal of Theoretical Biology},
+  year = {2001},
+  volume = {212},
+  pages = {373-389},
+  number = {3},
+  month = {Oct},
+  abstract = {We investigate the coevolution of time of flowering and time of pollinator
+	emergence in an obligate association between a plant and an insect
+	that both pollinates and parasitizes flowers. Numerical analysis
+	shows that the system in general evolves towards a time of flowering
+	different from the time favoured by the abiotic environment. The
+	equilibrium towards which the system evolves is a local fitness maximum
+	(an ESS) with respect to mutational variation in flowering time but,
+	for the insect, it can be a local fitness minimum at which selection
+	on mutational variation in the time of insect emergence is disruptive.
+	A consequence of evolutionary convergence to a fitness minimum is
+	that pollinators having an earlier phenology can coexist with pollinators
+	having a later phenology. Since late emerging insects are more likely
+	to encounter and oviposit within previously pollinated flowers, their
+	effect on the plant is more exploitative, leading them to function
+	as cheaters within the system. Thus, in the long term, pollinators
+	and exploiters are likely to be found in stable coexistence in pollinating
+	seed-parasite systems.},
+  doi = {10.1006/jtbi.2001.2383},
+  institution = {Biology Department, York University, UK. rl1@york.ac.uk},
+  keywords = {Animals; Evolution; Host-Parasite Interactions; Insects; Models, Biological;
+	Plant Physiological Phenomena; Pollen; Reproduction; Seeds},
+  owner = {francisco},
+  pii = {S0022-5193(01)92383-5},
+  pmid = {11829358},
+  timestamp = {2009.01.22},
+  %url = {http://dx.doi.org/10.1006/jtbi.2001.2383}
+}
+
+@ARTICLE{Loeuille2002,
+  author = {N. Loeuille and M. Loreau and R. Ferrière},
+  title = {Consequences of plant-herbivore coevolution on the dynamics and functioning
+	of ecosystems},
+  journal = {Journal of Theoretical Biology},
+  year = {2002},
+  volume = {217},
+  pages = {369--381},
+  number = {3},
+  month = {Aug},
+  abstract = {The potential consequences of plant-herbivore coevolution for ecosystem
+	functioning are investigated using a simple nutrient-limited ecosystem
+	model in which plant and herbivore traits are subject to adaptive
+	dynamics. Although the ecological model is very simple and always
+	reaches a stable equilibrium in the absence of evolution, coevolution
+	can generate a great diversity of dynamical behaviors. The evolutionary
+	dynamics can lead to a stable equilibrium. If the evolution of plants
+	is fast enough, certain values of the trade-off parameters lead to
+	complex evolutionary cycles bounded by physiological constraints.
+	The dynamical behavior of the model is very different when the dynamics
+	of inorganic nutrient is ignored and plant competition is modeled
+	by a logistic growth function. This emphasizes the importance of
+	including explicit nutrient dynamics in studies of plant-herbivore
+	coevolution.},
+  institution = {Laboratoire d'Ecologie, UMR 7625, Ecole Normale Superieure, 46 rue
+	d'Ulm, F-75230 Paris Cedex 05, France. loeuille@biologie.ens.fr},
+  keywords = {Adaptation, Biological; Animal Nutritional Physiological Phenomena;
+	Animals; Ecosystem; Evolution; Food Chain; Models, Biological; Nutritive
+	Value; Plants; Quantitative Trait, Heritable},
+  owner = {francisco},
+  pii = {S0022519302930328},
+  pmid = {12270280},
+  timestamp = {2009.01.22}
+}
+
+@ARTICLE{Loeuille2008,
+  author = {N. Loeuille and M.A. Leibold},
+  title = {Ecological consequences of evolution in plant defenses in a metacommunity},
+  journal = {Theor Popul Biol},
+  year = {2008},
+  volume = {74},
+  pages = {34--45},
+  number = {1},
+  month = {Aug},
+  abstract = {Dispersal can affect the assembly of local communities in a metacommunity
+	as well as evolution of local populations in a metapopulation. These
+	two processes may also affect each other in ways that have not yet
+	been well studied and that may have novel effects on community structure.
+	Here, we illustrate the interaction of these two processes on community
+	structure with a model of adaptive evolutionary dynamics of plant
+	defenses in a metacommunity food web involving multiple patches along
+	a productivity gradient. We find an enhanced suite of adaptive plant
+	types in our metacommunity model than is predicted in the absence
+	of dispersal. We also find that this, and the movement of nutrients
+	among patches via dispersal, alters patterns of food web architecture,
+	trophic structure and diversity along the productivity gradient.
+	Overall, our model illustrates that evolutionary and metacommunity
+	dynamics may influence communities in complex interactive ways that
+	may not be predicted by models that ignore either of these types
+	of processes.},
+  doi = {10.1016/j.tpb.2008.04.004},
+  institution = {Section of Integrative Biology, University of Texas, Austin, TX 78712,
+	USA. nicolas.loeuille@normalesup.org},
+  keywords = {Adaptation, Biological; Ecology; Evolution; Food Chain; Models, Statistical;
+	Plants},
+  owner = {francisco},
+  pii = {S0040-5809(08)00051-8},
+  pmid = {18514246},
+  timestamp = {2009.05.06},
+  url = {http://dx.doi.org/10.1016/j.tpb.2008.04.004}
+}
+
+@ARTICLE{Loeuille2008a,
+  author = {Nicolas Loeuille and Mathew A Leibold},
+  title = {Evolution in metacommunities: on the relative importance of species
+	sorting and monopolization in structuring communities.},
+  journal = {The American Naturalist},
+  year = {2008},
+  volume = {171},
+  pages = {788--799},
+  number = {6},
+  month = {Jun},
+  abstract = {Abstract: Adaptive evolution within species and community assembly
+	involving multiple species are both affected by dispersal and spatiotemporal
+	environmental variation and may thus interact with each other. We
+	examined this interaction in a simple three-patch metacommunity and
+	found that these two processes produce very different associations
+	between species composition and local environment. In most conditions,
+	we find a pattern we call "species sorting," wherein local adaptation
+	by resident species cannot prevent invasions by other preadapted
+	species as environmental conditions change (strong association between
+	local environmental conditions and local community composition).
+	When dispersal rates are very low relative to the other two rates,
+	local adaptation by resident species predominates, leading to strong
+	priority effects that prevent successful colonization by other species
+	that would have been well adapted, a pattern we call "local monopolization."
+	When dispersal and evolutionary rates are both very high, we find
+	that an evolving species outcompetes other species in all patches,
+	a pattern we call "global monopolization." When environmental oscillations
+	are very frequent, local monopolization predominates. Our findings
+	indicate that there can be strong modification of community assembly
+	by local adaptive processes and that these depend strongly on the
+	relative rates of evolution, dispersal, and environmental change.},
+  doi = {10.1086/587745},
+  institution = {University of Texas, Section of Integrative Biology, Austin, Texas
+	78712, USA. nicolas.loeuille@normalesup.org},
+  keywords = {Animals; Biodiversity; Computer Simulation; Ecosystem; Environment;
+	Evolution; Models, Biological; Plant Roots; Plants},
+  owner = {francisco},
+  pmid = {18419341},
+  timestamp = {2009.05.06},
+  url = {http://dx.doi.org/10.1086/587745}
+}
+
+@ARTICLE{Loeuille2010,
+  author = {N. Loeuille},
+  title = {Influence of evolution on the stability of ecological communities},
+  journal = {Ecol. Lett.},
+  year = {2010},
+  volume = {13},
+  pages = {1536-1545},
+  owner = {fran},
+  timestamp = {2010.11.20}
+}
+
+@ARTICLE{Losos_2011,
+  author = {J.B. Losos},
+  title = {Convergence, adaptation, and constraint},
+  journal = {Evolution},
+  year = {2011},
+  volume = {65},
+  pages = {1827-1840},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Lynch_2007,
+  author = {M. Lynch},
+  title = {The frailty of adaptive hypotheses for the origins of organismal
+	complexity},
+  journal = {Proc Natl Acad Sci USA},
+  year = {2007},
+  volume = {104},
+  pages = {8597-8604},
+  abstract = {The vast majority of biologists engaged in evolutionary studies interpret
+	virtually every aspect of biodiversity in adaptive terms. This narrow
+	view of evolution has become untenable in light of recent observations
+	from genomic sequencing and population-genetic theory. Numerous aspects
+	of genomic architecture, gene structure, and developmental pathways
+	are difficult to explain without invoking the nonadaptive forces
+	of genetic drift and mutation. In addition, emergent biological features
+	such as complexity, modularity, and evolvability, all of which are
+	current targets of considerable speculation, may be nothing more
+	than indirect by-products of processes operating at lower levels
+	of organization. These issues are examined in the context of the
+	view that the origins of many aspects of biological diversity, from
+	gene-structural embellishments to novelties at the phenotypic level,
+	have roots in nonadaptive processes, with the population-genetic
+	environment imposing strong directionality on the paths that are
+	open to evolutionary exploitation.},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+
+@Article{          Lynch:2007,
+author    = {Lynch, M.},
+year       = 2007,
+title        = {The evolution of genetic networks by non-adaptive processes},
+journal    = {Nature Reviews Genetics},
+volume   = 8,
+pages     = {803-813},
+pozn        = {neni},
+kod          = {}
+}
+
+@Article{Maglianesi_2014,
+  author =  {M.A. Maglianesi and N. Bluthgen and K. B\"ohning-Gaese and M. Schleuning},
+  title =   {Morphological traits determine specialization and resource use in plant-hummingbird networks in the neotropics},
+  journal = {Ecology},
+  year =    {2014},
+  volume =  {95},
+  pages =   {3325-3334}
+}
+
+@ARTICLE{matplotlib,
+  author = {J.D. Hunter},
+  title = {Matplotlib: A 2D graphics environment},
+  journal = {Computing In Science \& Engineering},
+  year = {2007},
+  volume = {9},
+  pages = {90-95},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@Article{McGuire_2007,
+  author =  {J.A. McGuire and C.C. Witt and D.L. Altshuler and J.V. Remsen},
+  title =   {Phylogenetic Systematics and Biogeography of Hummingbirds: Bayesian and Maximum Likelihood Analyses of Partitioned Data and Selection of an Appropriate Partitioning Strategy},
+  journal = {Syst. Biol.},
+  year =    {2007},
+  volume =  {56},
+  pages =   {837-856}
+}
+
+@ARTICLE{melian_2012,
+  author = {C. J. Meli\'{a}n and D. Alonso and S. Allesina and R.S. Condit and
+	R.S. Etienne},
+  title = {Does sex speed up evolutionary rate and increase biodiversity?},
+  journal = {PloS Comput Biol},
+  year = {2012},
+  volume = {8},
+  pages = {e1002414},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Montoya2006,
+  author = {J.M. Montoya and S.L. Pimm and R.V. Solé},
+  title = {Ecological networks and their fragility.},
+  journal = {Nature},
+  year = {2006},
+  volume = {442},
+  pages = {259--264},
+  number = {7100},
+  month = {Jul},
+  abstract = {Darwin used the metaphor of a 'tangled bank' to describe the complex
+	interactions between species. Those interactions are varied: they
+	can be antagonistic ones involving predation, herbivory and parasitism,
+	or mutualistic ones, such as those involving the pollination of flowers
+	by insects. Moreover, the metaphor hints that the interactions may
+	be complex to the point of being impossible to understand. All interactions
+	can be visualized as ecological networks, in which species are linked
+	together, either directly or indirectly through intermediate species.
+	Ecological networks, although complex, have well defined patterns
+	that both illuminate the ecological mechanisms underlying them and
+	promise a better understanding of the relationship between complexity
+	and ecological stability.},
+  doi = {10.1038/nature04927},
+  institution = {School of Biological and Chemical Sciences, Queen Mary University
+	of London, London E1 4NS, UK.},
+  keywords = {Animals; Ecology; Ecosystem; Feeding Behavior; Food Chain; Host-Parasite
+	Interactions; Predatory Behavior},
+  owner = {francisco},
+  pii = {nature04927},
+  pmid = {16855581},
+  timestamp = {2009.03.17},
+  url = {http://dx.doi.org/10.1038/nature04927}
+}
+
+@ARTICLE{Montoya2007a,
+  author = {J.M. Montoya and G. Yvon-Durocher},
+  title = {Ecological networks: information theory meets Darwin's entangled
+	bank},
+  journal = {Curr Biol},
+  year = {2007},
+  volume = {17},
+  pages = {R128--R130},
+  number = {4},
+  month = {Feb},
+  abstract = {Is it possible to untangle the 'entangled bank'--Darwin's metaphor
+	for the complexity and connectedness of species in the natural world?
+	Studies on webs of species interactions suggest so, but a major question
+	remains unanswered: how specialized are different ecological networks?
+	By considering how strongly species interact with each other, information
+	theory may give the answer.},
+  doi = {10.1016/j.cub.2007.01.028},
+  institution = {School of Biological and Chemical Sciences, Queen Mary University
+	of London, London E1 4NS, UK. j.montoya@qmul.ac.uk},
+  keywords = {Adaptation, Biological; Ecosystem; Information Theory; Models, Theoretical;
+	Species Specificity; Symbiosis},
+  owner = {francisco},
+  pii = {S0960-9822(07)00835-4},
+  pmid = {17307045},
+  timestamp = {2009.03.17},
+  url = {http://dx.doi.org/10.1016/j.cub.2007.01.028}
+}
+
+@ARTICLE{MoritzSchneider1992,
+  author = {C. Moritz and C. J. Schneider},
+  title = {Evolutionary relationships within the {E}nsatina es-
+chscholtzii complex confirm the ring species interpretation},
+  journal = {Syst Biol},
+  year = {1992},
+  volume = {41},
+  pages = {273-291},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Nei1983,
+  author = {M. Nei and T. Maruyama and C-I. Wu},
+  title = {Models of evolution of reproductive isolation},
+  journal = {Genetics},
+  year = {1983},
+  volume = {103},
+  pages = {557-579},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@INPROCEEDINGS{networkX,
+  author = {Aric A. Hagberg and Daniel A. Schult and Pieter J. Swart},
+  title = {Exploring network structure, dynamics, and function using {NetworkX}},
+  booktitle = {Proceedings of the 7th Python in Science Conference (SciPy2008)},
+  year = {2008},
+  editor = {G\"{a}el Varoquaux, Travis Vaught, and Jarrod Millman},
+  pages = {11-15},
+  address = {Pasadena, CA USA},
+  month = {Aug},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{newman_2003,
+  author = {M.E.J. Newman},
+  title = {The structure and function of complex networks},
+  journal = {SIAM Rev.},
+  year = {2003},
+  volume = {45},
+  pages = {167},
+  owner = {francisco},
+  timestamp = {2012.09.11}
+}
+
+@ARTICLE{node_redundancy,
+  author = {M. Latapy and C. Magnien and N. Del Vecchio},
+  title = {Basic notions for the analysis of large two-mode networks},
+  journal = {Social Networks},
+  year = {2008},
+  volume = {30},
+  pages = {31-48},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+
+@ARTICLE{Nuismer2004,
+  author = {S.L. Nuismer and M. Doebeli},
+  title = {Genetic correlations and the coevolutionary dynamics of three-species
+	systems},
+  journal = {Evolution},
+  year = {2004},
+  volume = {58},
+  pages = {1165--1177},
+  number = {6},
+  month = {Jun},
+  abstract = {The majority of species interact with at least several others. We
+	develop simple genetic models of coevolution between three species
+	where interactions are mediated by quantitative traits. We assume
+	that one of the species has two quantitative traits, each of which
+	governs its interaction with one of the other two species. We use
+	this model to explore how genetic correlations between the two traits
+	in the multivariate species shape the evolutionary dynamics and outcomes
+	of three species interactions. Our results suggest that genetic correlations
+	are most important when at least one of the interactions is between
+	a predator and prey or parasite and host. In these cases, genetic
+	correlations between traits lead to a wide variety of novel coevolutionary
+	outcomes and dynamics. In particular, genetic correlations can affect
+	the existence and stability of coevolutionary equilibrium points,
+	and they can lead to recurrent or permanent maladaptation. When the
+	three species interact only as competitors or mutualists, however,
+	genetic correlations have no effect on the outcome of coevolution.
+	In all cases, our results reveal the surprising conclusion that both
+	positive and negative genetic correlations between traits have qualitatively
+	identical effects on coevolutionary dynamics.},
+  institution = {Department of Biological Sciences, University of Idaho, Moscow, Idaho
+	83844, USA. snuismer@uidaho.edu},
+  keywords = {Alleles; Analysis of Variance; Evolution; Models, Genetic; Quantitative
+	Trait, Heritable; Species Specificity; Symbiosis},
+  owner = {fran},
+  pmid = {15266967},
+  timestamp = {2008.09.15}
+}
+
+@ARTICLE{Nuismer2006,
+  author = {S.L. Nuismer and J.N. Thompson},
+  title = {Coevolutionary alternation in antagonistic interactions},
+  journal = {Evolution},
+  year = {2006},
+  volume = {60},
+  pages = {2207--2217},
+  number = {11},
+  month = {Nov},
+  abstract = {Coevolution between parasites and hosts or predators and prey often
+	involves multiple species with similar kinds of defenses and counter-defenses.
+	Classic examples include the interactions between phytophagous insects
+	and their host plants, thick-shelled invertebrates and their shell-crushing
+	predators, and ungulates and their predators. There are three major
+	hypotheses for the nonequilibrium coevolutionary dynamics of these
+	multispecific trophic interactions: escalation in traits, cycles
+	in traits leading to fluctuating polymorphisms, and coevolutionary
+	alternation. The conditions under which cycles and escalation are
+	likely to occur have been well developed theoretically. In contrast,
+	the conditions favoring coevolutionary alternation-evolutionary fluctuations
+	in predator or prey preference driven by evolutionary shifts in relative
+	levels of prey defense and vice versa-have yet to be identified.
+	Using a set of quantitative coevolutionary models, we demonstrate
+	that coevolutionary alternation can occur across a wide range of
+	biologically plausible conditions. The result is often repeated,
+	and potentially rapid, evolutionary shifts in patterns of specialization
+	within networks of interacting species.},
+  institution = {Department of Biological Sciences, University of Idaho, Moscow, Idaho
+	83844, USA. snuismer@uidaho.edu},
+  keywords = {Animals; Competitive Behavior; Evolution; Host-Parasite Interactions;
+	Models, Genetic; Predatory Behavior; Selection (Genetics)},
+  owner = {fran},
+  pmid = {17236414},
+  timestamp = {2008.09.15}
+}
+
+@ARTICLE{Nuismeretal2012,
+  author = {S. L. Nuismer and P. Jordano and J. Bascompte},
+  title = {Coevolution and the architecture of mutualistic networks},
+  journal = {Evolution},
+  year = {2012},
+  volume = {67},
+  pages = {338-354},
+  owner = {francisco},
+  timestamp = {2012.02.20}
+}
+
+@ARTICLE{Ohta_2002,
+  author = {T. Ohta},
+  title = {Near-neutrality in evolution of genes and gene regulation},
+  journal = {Proc Natl Acad Sci USA},
+  year = {2002},
+  volume = {99},
+  pages = {16134-16137},
+  owner = {francisco},
+  timestamp = {2012.10.10}
+}
+ 
+@ARTICLE{Okuyama-2008,
+  author = {T. Okuyama and J. N. Holland},
+  title = {Network structural properties mediate the stability of mutualistic
+	communities},
+  journal = {Ecol. Lett.},
+  year = {2008},
+  volume = {11},
+  pages = {208-216},
+  number = {3},
+  month = {Mar},
+  abstract = {Key advances are being made on the structures of predator-prey food
+	webs and competitive communities that enhance their stability, but
+	little attention has been given to such complexity-stability relationships
+	for mutualistic communities. We show, by way of theoretical analyses
+	with empirically informed parameters, that structural properties
+	can alter the stability of mutualistic communities characterized
+	by nonlinear functional responses among the interacting species.
+	Specifically, community resilience is enhanced by increasing community
+	size (species diversity) and the number of species interactions (connectivity),
+	and through strong, symmetric interaction strengths of highly nested
+	networks. As a result, mutualistic communities show largely positive
+	complexity-stability relationships, in opposition to the standard
+	paradox. Thus, contrary to the commonly-held belief that mutualism's
+	positive feedback destabilizes food webs, our results suggest that
+	interplay between the structure and function of ecological networks
+	in general, and consideration of mutualistic interactions in particular,
+	may be key to understanding complexity-stability relationships of
+	biological communities as a whole.},
+  issn = {1461-023X},
+  uri = {<Go to ISI>://000252807500002}
+}
+
+@ARTICLE{Olesen_Jordano_2002,
+  author = {J.M. Olesen and P. Jordano},
+  title = {Geographic patterns in plant-pollinator mutualistic networks},
+  journal = {Ecology},
+  year = {2002},
+  volume = {89},
+  pages = {2416-2424},
+  owner = {francisco},
+  timestamp = {2012.11.22}
+}
+
+
+@ARTICLE{Olesen2010,
+  author = {J.M. Olesen and J. Bascompte and Y.L. Dupont and H. Elberling and
+	C. Rasmussen and P. Jordano},
+  title = {Missing and forbidden links in mutualistic networks.},
+  journal = {Proc. R. Soc. Lond. B},
+  year = {2010},
+  month = {Sep},
+  abstract = {Ecological networks are complexes of interacting species, but not
+	all potential links among species are realized. Unobserved links
+	are either missing or forbidden. Missing links exist, but require
+	more sampling or alternative ways of detection to be verified. Forbidden
+	links remain unobservable, irrespective of sampling effort. They
+	are caused by linkage constraints. We studied one Arctic pollination
+	network and two Mediterranean seed-dispersal networks. In the first,
+	for example, we recorded flower-visit links for one full season,
+	arranged data in an interaction matrix and got a connectance C of
+	15 per cent. Interaction accumulation curves documented our sampling
+	of interactions through observation of visits to be robust. Then,
+	we included data on pollen from the body surface of flower visitors
+	as an additional link 'currency'. This resulted in 98 new links,
+	missing from the visitation data. Thus, the combined visit-pollen
+	matrix got an increased C of 20 per cent. For the three networks,
+	C ranged from 20 to 52 per cent, and thus the percentage of unobserved
+	links (100 - C) was 48 to 80 per cent; these were assumed forbidden
+	because of linkage constraints and not missing because of under-sampling.
+	Phenological uncoupling (i.e. non-overlapping phenophases between
+	interacting mutualists) is one kind of constraint, and it explained
+	22 to 28 per cent of all possible, but unobserved links. Increasing
+	phenophase overlap between species increased link probability, but
+	extensive overlaps were required to achieve a high probability. Other
+	kinds of constraint, such as size mismatch and accessibility limitations,
+	are briefly addressed.},
+  doi = {10.1098/rspb.2010.1371},
+  institution = {Department of Biological Sciences, Aarhus University, , Ny Munkegade
+	114, 8000 Aarhus C, Denmark.},
+  owner = {francisco},
+  pii = {rspb.2010.1371},
+  pmid = {20843845},
+  timestamp = {2010.10.11},
+  %url = {http://dx.doi.org/10.1098/rspb.2010.1371}
+}
+
+@ARTICLE{Olesen-2005,
+  author = {V. A. Olson and I. P. F. Owens},
+  title = {Interspecific variation in the use of carotenoid-based coloration
+	in birds: diet, life history and phylogeny},
+  journal = {Journal of Evolutionary Biology},
+  year = {2005},
+  volume = {18},
+  pages = {1534-1546},
+  number = {6},
+  month = {Nov},
+  abstract = {Birds show striking interspecific variation in their use of carotenoid-based
+	coloration. Theory predicts that the use of carotenoids for coloration
+	is closely associated with the availability of carotenoids in the
+	diet but, although this prediction has been supported in single-species
+	studies and those using small numbers of closely related species,
+	there have been no broad-scale quantitative tests of the link between
+	carotenoid coloration and diet. Here we test for such a link using
+	modern comparative methods, a database on 140 families of birds and
+	two alternative avian phylogenies. We show that carotenoid pigmentation
+	is more common in the bare parts (legs, bill and skin) than in plumage,
+	and that yellow coloration is more common than red. We also show
+	that there is no simple, general association between the availability
+	of carotenoids in the diet and the overall use of carotenoid-based
+	coloration. However, when we look at plumage coloration separately
+	from bare part coloration, we find there is a robust and significant
+	association between diet and plumage coloration, but not between
+	diet and bare part coloration. Similarly, when we look at yellow
+	and red plumage colours separately, we find that the association
+	between diet and coloration is typically stronger for red coloration
+	than it is for yellow coloration. Finally, when we build multivariate
+	models to explain variation in each type of carotenoid-based coloration
+	we find that a variety of life history and ecological factors are
+	associated with different aspects of coloration, with dietary carotenoids
+	only being a consistent significant factor in the case of variation
+	in plumage. All of these results remain qualitatively unchanged irrespective
+	of the phylogeny used in the analyses, although in some cases the
+	precise life history and ecological variables included in the multivariate
+	models do vary. Taken together, these results indicate that the predicted
+	link between carotenoid coloration and diet is idiosyncratic rather
+	than general, being strongest with respect to plumage colours and
+	weakest for bare part coloration. We therefore suggest that, although
+	the carotenoid-based bird plumage may a good model for diet-mediated
+	signalling, the use of carotenoids in bare part pigmentation may
+	have a very different functional basis and may be more strongly influenced
+	by genetic and physiological mechanisms, which currently remain relatively
+	understudied.},
+  issn = {1010-061X},
+  uri = {<Go to ISI>://000233146000017}
+}
+
+@ARTICLE{Olesen-2006,
+  author = {J. M. Olesen and J. Bascompte and Y. L. Dupont and P. Jordano},
+  title = {The smallest of all worlds: Pollination networks},
+  journal = {Journal of Theoretical Biology},
+  year = {2006},
+  volume = {240},
+  pages = {270-276},
+  number = {2},
+  month = {may},
+  abstract = {A pollination network may be either 2-mode, describing trophic and
+	reproductive interactions between communities of flowering plants
+	and pollinator species within a well-defined habitat, or 1-mode,
+	describing interactions between either plants or pollinators. In
+	a 1-mode pollinator network, two pollinator species are linked to
+	each other if they both visit the same plant species, and vice versa
+	for plants. Properties of 2-mode networks and their derived 1-mode
+	networks are highly correlated and so are properties of 1-mode pollinator
+	and 1-mode plant networks. Most network properties are scale-dependent,
+	i.e. they are dependent upon network size. Pollination networks have
+	the strongest small-world properties of any networks yet studied,
+	i.e. all species are close to each other (short average path length)
+	and species are highly clustered. Species in pollination networks
+	are much more densely linked than species in traditional food webs,
+	i.e. they have a higher density of links, a shorter distance between
+	species, and species are more clustered. (c) 2005 Elsevier Ltd. All
+	rights reserved.},
+  issn = {0022-5193},
+  uri = {<Go to ISI>://000237828200011}
+}
+
+@ARTICLE{Olesen2007,
+  author = {Jens M Olesen and Jordi Bascompte and Yoko L Dupont and Pedro Jordano},
+  title = {The modularity of pollination networks.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2007},
+  volume = {104},
+  pages = {19891--19896},
+  number = {50},
+  month = {Dec},
+  abstract = {In natural communities, species and their interactions are often organized
+	as nonrandom networks, showing distinct and repeated complex patterns.
+	A prevalent, but poorly explored pattern is ecological modularity,
+	with weakly interlinked subsets of species (modules), which, however,
+	internally consist of strongly connected species. The importance
+	of modularity has been discussed for a long time, but no consensus
+	on its prevalence in ecological networks has yet been reached. Progress
+	is hampered by inadequate methods and a lack of large datasets. We
+	analyzed 51 pollination networks including almost 10,000 species
+	and 20,000 links and tested for modularity by using a recently developed
+	simulated annealing algorithm. All networks with >150 plant and pollinator
+	species were modular, whereas networks with <50 species were never
+	modular. Both module number and size increased with species number.
+	Each module includes one or a few species groups with convergent
+	trait sets that may be considered as coevolutionary units. Species
+	played different roles with respect to modularity. However, only
+	15\% of all species were structurally important to their network.
+	They were either hubs (i.e., highly linked species within their own
+	module), connectors linking different modules, or both. If these
+	key species go extinct, modules and networks may break apart and
+	initiate cascades of extinction. Thus, species serving as hubs and
+	connectors should receive high conservation priorities.},
+  doi = {10.1073/pnas.0706375104},
+  institution = {Department of Biological Sciences, University of Aarhus, Ny Munkegade
+	Block 1540, DK-8000 Aarhus C, Denmark. jens.olesen@biology.au.dk},
+  keywords = {Animals; Ecosystem; Models, Biological; Pollination; Population Dynamics},
+  owner = {francisco},
+  pii = {0706375104},
+  pmid = {18056808},
+  timestamp = {2010.02.15},
+  url = {http://dx.doi.org/10.1073/pnas.0706375104}
+}
+
+@ARTICLE{Olesen-2007a,
+  author = {J. M. Olesen and J. Bascompte and Y. L. Dupont and P. Jordano},
+  title = {The modularity of pollination networks},
+  journal = {Proc. Natl. Acad. Sci. USA},
+  year = {2007},
+  volume = {104},
+  pages = {19891-19896},
+  number = {50},
+  month = {Dec},
+  abstract = {in natural communities, species and their interactions are often organized
+	as nonrandom networks, showing distinct and repeated complex patterns.
+	A prevalent, but poorly explored pattern is ecological modularity,
+	with weakly interlinked subsets of species (modules), which, however,
+	internally consist of strongly connected species. The importance
+	of modularity has been discussed for a long time, but no consensus
+	on its prevalence in ecological networks has yet been reached. Progress
+	is hampered by inadequate methods and a lack of large datasets. We
+	analyzed 51 pollination networks including almost 10,000 species
+	and 20,000 links and tested for modularity by using a recently developed
+	simulated annealing algorithm. All networks with >150 plant and pollinator
+	species were modular, whereas networks with <50 species were never
+	modular. Both module number and size increased with species number.
+	Each module includes one or a few species groups with convergent
+	trait sets that may be considered as coevolutionary units. Species
+	played different roles with respect to modularity. However, only
+	15% of all species were structurally important to their network.
+	They were either hubs (i.e., highly linked species within their own
+	module), connectors linking different modules, or both. If these
+	key species go extinct, modules and networks may break apart and
+	initiate cascades of extinction. Thus, species serving as hubs and
+	connectors should receive high conservation priorities.},
+  issn = {0027-8424},
+  uri = {<Go to ISI>://000251752200045}
+}
+
+@ARTICLE{Olesen-2007b,
+  author = {J. N. Olesen and Y. L. Dupont and B. K. Ehlers and D. M. Hansen},
+  title = {The openness of a flower and its number of flower-visitor species},
+  journal = {Taxon},
+  year = {2007},
+  volume = {56},
+  pages = {729-736},
+  number = {3},
+  month = {Aug},
+  abstract = {Using a sample of 1,403 flowering plant species, we tested the hypothesis
+	that flower openness and flower-visitor aeneralization level of a
+	plant species correlate positively. The #flower-visitor##generalization##level#
+	L. of a flo, vering plant species n, here defined as number of flower-visiting
+	animal species attracted to the flowers of n in a aiven study site,
+	varied enormously among plant species. Its frequency distribution
+	was extremely skewed. Within a study site, L also increased with
+	number of flower-visitor species A. In order to correct for this,
+	ve expressed L relatively, as the proportion of the total flower-visitor
+	fauna in a study site that visited a gyiv-en plant species (relative
+	generalization level, L/A). We listed the top-10 most generalized
+	species (both according to L and LIA) in the #world#, i.e., out of
+	our sample of 1,403 plant species. Flower openness is defined as
+	accessibilitv to the interior of the flower. We placed the blossom
+	classes of Facgri & van der Pijl along a aradient, albeit not very
+	well defined, of decreasing flower openness (dish-bowl, bell-funnel,
+	head-brush, tube. aullet. flag) and tested for any relationship to
+	their generalization level. The classes differed slightly but significantly
+	in their level of L/A. Tube, bell-funnel, and dish-bowl had the highest
+	generalization level and flaLy. uullet. and head-brush the lowest.
+	Thus, flower openness and generalization level were not correlated.
+	We discuss other factors influencing generalization level such as
+	accessibility to pollen and nectar, morphology and behavior of visitor,
+	and species diversity of the different functional types of visitors.},
+  issn = {0040-0262},
+  uri = {<Go to ISI>://000249247400011}
+}
+
+@ARTICLE{Olesen-2008,
+  author = {J. M. Olesen and J. Bascompte and H. Elberling and P. Jordano},
+  title = {Temporal dynamics in a pollination network},
+  journal = {Ecology},
+  year = {2008},
+  volume = {89},
+  pages = {1573-1582},
+  number = {6},
+  month = {Jun},
+  abstract = {Despite a strong current interest in ecological networks, the bulk
+	of studies are static descriptions of the structure of networks,
+	and very few analyze their temporal dynamics. Yet, understanding
+	network dynamics is important in order to relate network patterns
+	to ecological processes. We studied the day-to-day dynamics of an
+	arctic pollination interaction network over two consecutive seasons.
+	First, we found that new species entering the network tend to interact
+	with already well-connected species, although there are deviations
+	from this trend due, for example, to morphological mismatching between
+	plant and pollinator traits and nonoverlapping phenophases of plant
+	and pollinator species. Thus, temporal dynamics provides a mechanistic
+	explanation for previously reported network patterns such as the
+	heterogeneous distribution of number of interactions across species.
+	Second, we looked for the ecological properties most likely to be
+	mediating this dynamical process and found that both abundance and
+	phenophase length were important determinants of the number of links
+	per species.},
+  issn = {0012-9658},
+  uri = {<Go to ISI>://000256540300011}
+}
+
+@ARTICLE{Pellmyr_Thompson_1992,
+  author = {O. Pellmyr and J.N. Thompson},
+  title = {Multiple occurrences of mutualism in the yucca moth lineage},
+  journal = {Proc Natl Acad Sci USA},
+  year = {1992},
+  volume = {89},
+  pages = {2927-2929},
+  owner = {francisco},
+  timestamp = {2012.10.10}
+}
+
+@ARTICLE{Prakash_2004,
+  author = {S. Prakash and A.M. de Roos},
+  title = {Habitat destruction in mutualistic metacommunities},
+  journal = {Theor Popul Biol},
+  year = {2004},
+  volume = {65},
+  pages = {153--163},
+  owner = {francisco},
+  timestamp = {2009.05.08}
+}
+
+@Manual{R_CRAN,
+  title =        {R: A Language and Environment for Statistical Computing},
+  author =       {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  address =      {Vienna, Austria},
+  year =         {2013},
+  url =          {http://www.R-project.org/}
+}
+
+@Article{Rainey_Travisano:1998,
+  author =  {P.B. Rainey and M. Travisano},
+  title =   {Adaptive radiation in a heterogeneous environment},
+  journal = {Nature},
+  year =    {1998},
+  volume =  {394},
+  pages =   {69-72},
+  pozn =    {neni}
+}
+
+@Article{Rezende-2007a,
+  author =   {E. L. Rezende and P. Jordano and J. Bascompte},
+  title =    {Effects of phenotypic complementarity and phylogeny on the nested structure of mutualistic networks},
+  journal =  {Oikos},
+  year =     {2007},
+  volume =   {116},
+  number =   {11},
+  pages =    {1919-1929},
+  month =    {Nov},
+  abstract = {Recent studies have started to unravel the structure of mutualistic
+	networks, although few functional explanations underlying such structure
+	have been explored. We used computer simulations to test whether
+	complementarity between phenotypic traits of plants and animals can
+	explain the pervasive tendency of specialists to interact with proper
+	subsets of species that generalists interact with (nested interactions),
+	and how phylogeny affects such interaction patterns. Simultaneously,
+	we assessed whether complementarity and phylogenctic structure were
+	associated with patterns of interaction in a real mutualistic community.
+	Simulation results support that highly nested networks can emerge
+	from phenotypic complementarity, particularly when several traits
+	are involved. The hierarchical structure of phylogenetic relations
+	can also contribute to increased nestedness because traits determining
+	complementaricy are then inherited in a correlated fashion. Phylogenetic
+	effects on resulting generalization levels are often low, but can
+	be detected. Results from the empirical network support a relevant
+	role of complementarity and phylogenetic history on interaction patterns.
+	Our results demonstrate that these factors can contribute to nestedness,
+	which emphasize the necessity of considering evolutionary mechanisms
+	in studies of community structure.},
+  issn =     {0030-1299},
+  uri =      {<Go to ISI>://000251278700014}
+}
+
+@ARTICLE{rosindell_2009,
+  author = {J. Rosindell and S. J. Cornell},
+  title = {Species-area curves, neutral models, and long-distance dispersal},
+  journal = {Ecology},
+  year = {2009},
+  volume = {90},
+  pages = {1743-1750},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Rosindell_coalescence,
+  author = {James Rosindell and Yan Wong and Rampal S. Etienne},
+  title = {A coalescence approach to spatial neutral ecology},
+  journal = {Ecological Informatics},
+  year = {2008},
+  volume = {3},
+  pages = {259 - 271},
+  number = {3},
+  doi = {10.1016/j.ecoinf.2008.05.001},
+  issn = {1574-9541},
+  keywords = {Coalescence},
+  url = {http://www.sciencedirect.com/science/article/pii/S1574954108000265}
+}
+
+@ARTICLE{Rosindell_neutral_ageten,
+  author = {J. Rosindell and S.P. Hubbell and R.S. Etienne},
+  title = {The unified neutral theory of biodiversity and biogeography at age
+	ten},
+  journal = {Trends Ecol Evol},
+  year = {2011},
+  volume = {26},
+  pages = {340-348},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+@ARTICLE{Rosindell_protracted,
+  author = {Rosindell, J. and Cornell, S. J. and Hubbell, S. P. and Etienne,
+	R. S},
+  title = {Protracted speciation revitalizes the neutral theory of biodiversity},
+  journal = {Ecol Lett},
+  year = {2010},
+  volume = {13},
+  pages = {716-727},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+@Article{SantamariaRodriguez2007,
+  author =    {L. Santamar\'ia and M. A. Rodr\'{i}guez-Giron\'{e}s},
+  title =     {Linkage rules for plant-pollinator networks: trait complementarity or exploitation barriers?},
+  journal =   {PLoS Biol},
+  year =      {2007},
+  volume =    {5},
+  pages =     {e31},
+  owner =     {francisco},
+  timestamp = {2012.02.20}
+}
+
+
+@ARTICLE{         Schluter:2009,
+  author	= {Schluter, D.},
+  year		= 2009,
+  title		= {Evidence for ecological speciation and its alternative},
+  journal	= {Science},
+  volume	= 323,
+  pages		= {737-741},
+  pozn		= {neni},
+  kod		= {}
+}
+
+@ARTICLE{Seehausenetal_2014,
+  author = {O. Seehausen and R. K. Butlin and I. Keller and C. E. Wagner and J. W. Boughman and P. A. Hohenlohe and C. L. Peichel and G. P. Saetre and others},
+  title = {Genomics and the origin of species},
+  journal = {Nature Reviews Genetics},
+  year = {2014},
+  volume = {15},
+  pages = {176-192},
+  owner = {francisco},
+  timestamp = {2009.04.01}
+}
+
+@Article{SeqGen_R_package,
+  author =  {A. Rambaut and N.C. Grassly},
+  title =   {Seq-Gen: An Application for the Monte Carlo Simulation of DNA Sequence Evolution along Phylogenetic Trees},
+  journal = {Computer Applications In The Biosciences},
+  year =    {1997},
+  volume =  {13},
+  pages =   {235-238}
+}
+
+@ARTICLE{Serrano2003,
+  author = {M.A. Serrano and M. Boguña},
+  title = {Topology of the world trade web},
+  journal = {Phys Rev E Stat Nonlin Soft Matter Phys},
+  year = {2003},
+  volume = {68},
+  pages = {015101},
+  number = {1 Pt 2},
+  month = {Jul},
+  abstract = {Economy, and consequently trade, is a fundamental part of human social
+	organization which, until now, has not been studied within the network
+	modeling framework. Here we present the first, to the best of our
+	knowledge, empirical characterization of the world trade web, that
+	is, the network built upon the trade relationships between different
+	countries in the world. This network displays the typical properties
+	of complex networks, namely, scale-free degree distribution, the
+	small-world property, a high clustering coefficient, and, in addition,
+	degree-degree correlation between different vertices. All these properties
+	make the world trade web a complex network, which is far from being
+	well described through a classical random network description.},
+  institution = {Departament de Física Fonamental, Universitat de Barcelona, Av. Diagonal
+	647, 08028 Barcelona, Spain.},
+  owner = {francisco},
+  pmid = {12935184},
+  timestamp = {2009.03.17}
+}
+
+@ARTICLE{Servedio_2011,
+  author = {M.R. Servedio and G.S. {Van Doorn} M. Kopp and A.M. Frame and P.
+	Nosil},
+  title = {Magic traits in speciation: 'magic' but not rare?},
+  journal = {Trends Ecol Evol},
+  year = {2011},
+  volume = {26},
+  pages = {389-399},
+  owner = {francisco},
+  timestamp = {2012.10.09}
+}
+
+@ARTICLE{Smith1974,
+  author = {J. M. Smith},
+  title = {The theory of games and the evolution of animal conflicts},
+  journal = {Journal of Theoretical Biology},
+  year = {1974},
+  volume = {47},
+  pages = {209--221},
+  number = {1},
+  month = {Sep},
+  keywords = {Animals; Behavior, Animal; Conflict (Psychology); Evolution; Game
+	Theory; Hierarchy, Social; Models, Biological; Probability; Social
+	Dominance; Territoriality; Time Factors},
+  owner = {francisco},
+  pmid = {4459582},
+  timestamp = {2009.05.08}
+}
+
+@ARTICLE{Smith1979,
+  author = {J. M. Smith},
+  title = {Game theory and the evolution of behaviour},
+  journal = {Proceedings of the Royal Society B-Biological Sciences},
+  year = {1979},
+  volume = {205},
+  pages = {475--488},
+  number = {1161},
+  month = {Sep},
+  abstract = {How far can game theory account for the evolution of contest behaviour
+	in animals? The first qualitative prediction of the theory was that
+	symmetric contests in which escalation is expensive should lead to
+	mixed strategies. As yet it is hard to say how far this is borne
+	out, because of the difficulty of distinguishing a 'mixed evolutionarily
+	stable strategy' maintained by frequency-dependent selection from
+	a 'pure conditional strategy'; the distinction is discussed in relation
+	to several field studies. The second prediction was that if a contest
+	is asymmetric (e.g. in ownership) then the asymmetry will be used
+	as a conventional cue to settle it. This prediction has been well
+	supported by observation. A third important issue is whether or not
+	information about intentions is exchanged during contests. The significance
+	of 'assessment' strategies is discussed.},
+  keywords = {Aggression; Animals; Anura; Birds; Brachyura; Butterflies; Competitive
+	Behavior; Evolution; Female; Fishes; Game Theory; Humans; Iguanas;
+	Insects; Male; Sexual Behavior, Animal; Wasps},
+  owner = {francisco},
+  pmid = {42056},
+  timestamp = {2009.05.08}
+}
+
+
+@ARTICLE{Sole_convergence_selection_networks,
+  author = {R.V. Sol\'{e} and R. Ferrer-Cancho and J.M. Montoya and S. Valverde},
+  title = {Selection, tinkering, and emergence in complex networks},
+  journal = {Complexity},
+  year = {2002},
+  volume = {8},
+  pages = {20-33},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+@ARTICLE{Sole2001,
+  author = {R. V. Sole and J. M. Montoya},
+  title = {Complexity and fragility in ecological networks},
+  journal = {Proceedings of the Royal Society B-Biological Sciences},
+  year = {2001},
+  volume = {268},
+  pages = {2039--2045},
+  number = {1480},
+  month = {Oct},
+  abstract = {A detailed analysis of three species-rich ecosystem food webs has
+	shown that they display skewed distributions of connections. Such
+	graphs of interaction are, in fact, shared by a number of biological
+	and technological networks, which have been shown to display a very
+	high homeostasis against random removals of nodes. Here, we analyse
+	the responses of these ecological graphs to both random and selective
+	perturbations (directed against the most-connected species). Our
+	results suggest that ecological networks are very robust against
+	random removals but can be extremely fragile when selective attacks
+	are used. These observations have important consequences for biodiversity
+	dynamics and conservation issues, current estimations of extinction
+	rates and the relevance and definition of keystone species.},
+  doi = {10.1098/rspb.2001.1767},
+  institution = {Complex Systems Research Group, Universitat Politècnica de Catalunya
+	Campus Nord B4, 08034 Barcelona, Spain. sole@santafe.edu},
+  keywords = {Ecosystem; Food Chain; Models, Biological},
+  owner = {francisco},
+  pmid = {11571051},
+  timestamp = {2009.03.17},
+  url = {http://dx.doi.org/10.1098/rspb.2001.1767}
+}
+
+@ARTICLE{Sole2002,
+  author = {R.V. Sole and J.M. Montoya and D.H. Erwin},
+  title = {Recovery after mass extinction: evolutionary assembly in large-scale
+	biosphere dynamics},
+  journal = {Proceedings of the Royal Society B-Biological Sciences},
+  year = {2002},
+  volume = {357},
+  pages = {697--707},
+  number = {1421},
+  month = {May},
+  abstract = {Biotic recoveries following mass extinctions are characterized by
+	a process in which whole ecologies are reconstructed from low-diversity
+	systems, often characterized by opportunistic groups. The recovery
+	process provides an unexpected window to ecosystem dynamics. In many
+	aspects, recovery is very similar to ecological succession, but important
+	differences are also apparently linked to the innovative patterns
+	of niche construction observed in the fossil record. In this paper,
+	we analyse the similarities and differences between ecological succession
+	and evolutionary recovery to provide a preliminary ecological theory
+	of recoveries. A simple evolutionary model with three trophic levels
+	is presented, and its properties (closely resembling those observed
+	in the fossil record) are compared with characteristic patterns of
+	ecological response to disturbances in continuous models of three-level
+	ecosystems.},
+  doi = {10.1098/rstb.2001.0987},
+  institution = {Santa Fe Institute, 1399 Hyde Park Road, Santa Fe, NM 87501, USA.
+	sole@santafe.edu},
+  keywords = {Animals; Earth (Planet); Ecosystem; Evolution, Planetary; Food Chain;
+	Models, Biological},
+  owner = {francisco},
+  pmid = {12079530},
+  timestamp = {2009.03.17},
+  url = {http://dx.doi.org/10.1098/rstb.2001.0987}
+}
+
+@ARTICLE{Stang_2006,
+  author = {M. Stang and P.G.L. Klinkhamer and E. van der Meijden},
+  title = {Size constraints and flower abundance determine the number of interactions
+	in a plant-flower visitor web},
+  journal = {Oikos},
+  year = {2006},
+  volume = {112},
+  pages = {111-121},
+  owner = {fran},
+  timestamp = {2011.10.11}
+}
+
+@ARTICLE{Stang_2007,
+  author = {M. Stang and P.G.L. Klinkhamer and E. van der Meijden},
+  title = {Asymmetric specialization and extinction risk in plant-flower visitor
+	webs: a matter of morphology or abundance?},
+  journal = {Oecologia},
+  year = {2007},
+  volume = {151},
+  pages = {442-453},
+  owner = {francisco},
+  timestamp = {2012.03.02}
+}
+
+@ARTICLE{stang_2009_annbot,
+  author = {M. Stang and P.G.L. Klinkhamer and N.M. Waser and I. Stang and E.
+	van der Meijden},
+  title = {Size-specific interaction patterns and size matching in a plant-pollinator
+	interaction web},
+  journal = {Ann Bot},
+  year = {2009},
+  volume = {103},
+  pages = {1459-1469},
+  owner = {fran},
+  timestamp = {2011.10.11}
+}
+
+@ARTICLE{Stayton_2008,
+  author = {C. T. Stayton},
+  title = {Is convergence surprising? {A}n examination of the frequency of convergence in simulated datasets},
+  journal = {J. Theo. Biol.},
+  year = {2008},
+  volume = {252},
+  pages = {1-14},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+@ARTICLE{Stayton_2015,
+  author = {C. T. Stayton},
+  title = {The definition, recognition, and interpretation of convergent evolution, and two new measures for quantifying and assessing the significance of convergence},
+  journal = {Evolution},
+  year = {2015},
+  volume = {69},
+  pages = {2140-2153},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+
+@Article{Thibert_Gavrilets:2013,
+  author =  {X. Thibert-Plante and S. Gavrilets},
+  title =   {Evolution of mate choice and the so-called magic traits in ecological speciation},
+  journal = {Ecology letters},
+  year =    {2013},
+  volume =  {16},
+  pages =   {1004-1013},
+  pozn =    {neni}
+}
+
+@ARTICLE{Thompson_2009,
+  author = {J. N. Thompson},
+  title = {The coevolving web of life},
+  journal = {The American Naturalist},
+  year = {2009},
+  volume = {173},
+  pages = {125--140},
+  owner = {francisco},
+  timestamp = {2009.05.11}
+}
+
+@ARTICLE{Thompson-1999,
+  author = {J. N. Thompson},
+  title = {Specific hypotheses on the geographic mosaic of coevolution},
+  journal = {The American Naturalist},
+  year = {1999},
+  volume = {153},
+  pages = {S1-S14},
+  month = {may},
+  abstract = {Coevolution is one of the major processes organizing the earth's biodiversity.
+	The need to understand coevolution as an ongoing process has grown
+	as ecological concerns have risen over the dynamics of rapidly changing
+	biological communities, the conservation of genetic diversity, and
+	the population biology of diseases. The biggest current challenge
+	is to understand how coevolution operates across broad geographic
+	landscapes, linking local ecological processes with phylogeographic
+	patterns. The geographic mosaic theory of coevolution provides a
+	framework for asking how coevolution continually reshapes interactions
+	across different spatial and temporal scales. It produces specific
+	hypotheses on how geographically structured coevolution differs from
+	coevolution at the local scale. It also provides a framework for
+	understanding how local maladaptation can result from coevolution
+	and why coevolved interactions may rarely produce long lists of coevolved
+	traits that become fixed within species. Long-term field studies
+	of the same interaction across multiple communities and spatially
+	structured mathematical models are together beginning to show that
+	coevolution may be a more important ongoing process than had been
+	indicated by earlier empirical and theoretical studies lacking a
+	geographic perspective.},
+  annote = {Suppl. S},
+  issn = {0003-0147},
+  uri = {<Go to ISI>://000081029900001}
+}
+
+
+@ARTICLE{Thompson-2002,
+  author = {J. N. Thompson and B. M. Cunningham},
+  title = {Geographic structure and dynamics of coevolutionary selection},
+  journal = {Nature},
+  year = {2002},
+  volume = {417},
+  pages = {735-738},
+  number = {6890},
+  month = {Jun},
+  abstract = {Coevolution of species is one of the major processes organizing the
+	Earth's biodiversity. Recent coevolutionary theory has indicated
+	that the geographic structure of species has the potential to impose
+	powerful and continuing effects on coevolutionary dynamics, if that
+	structure creates selection mosaics and coevolutionary hotspots across
+	landscapes(1-7). Here we confirm that current coevolutionary selection
+	in interspecific interactions can be highly divergent across both
+	narrow and broad geographic scales, thereby fuelling continuing coevolution
+	of taxa. Study of a widespread plant-insect interaction across a
+	broad range of habitats for several years showed that an insect functioning
+	both as a pollinator and a floral parasite can be strongly mutualistic
+	in some habitats but commensal or antagonistic in neighbouring habitats.
+	The results for one of the habitats span seven years, demonstrating
+	that the local structure of coevolutionary selection can remain stable
+	across multiple generations. Conservation of the evolutionary processes
+	maintaining long-term biological diversity may require preservation
+	of the conditions that allow a long-term shifting geographic mosaic
+	of coevolutionary hotspots and coldspots.},
+  issn = {0028-0836},
+  uri = {<Go to ISI>://000176154700043}
+}
+
+@ARTICLE{Thompson-2006a,
+  author = {A. R. Thompson and R. M. Nisbet and R. J. Schmitt},
+  title = {Dynamics of mutualist populations that are demographically open},
+  journal = {Journal of Animal Ecology},
+  year = {2006},
+  volume = {75},
+  pages = {1239-1251},
+  number = {6},
+  month = {Nov},
+  abstract = {1. Few theoretical studies have examined the impact of immigration
+	and emigration on mutualist population dynamics, but a recent empirical
+	study (A.R. Thompson Oecologia, 143, 61-69) on mutualistic fish and
+	shrimp showed that immigration can prevent population collapse, and
+	that intraspecific competition for a mutualistic partner can curb
+	population expansion. To understand in a theoretical context the
+	implications of these results, and to assess their generality, we
+	present a two-species model that accounts explicitly for immigration
+	and emigration, as well as distinguishing the impacts of mutualism
+	on birth rates, death rates and habitat acquisition. 2. The model
+	confirms that immigration can stabilize mutualistic populations,
+	and predicts that high immigration, along with enhanced reproduction
+	and/or reduced mortality through mutualism, can cause population
+	sizes to increase until habitat availability curbs further expansion.
+	3. We explore in detail the effects of different forms of habitat
+	limitation on mutualistic populations. Habitat availability commonly
+	limits the density of both populations if mutualists acquire shelter
+	independently. If a mutualist depends on a partner for habitat, densities
+	of that mutualist are capped by the amount of space provided by that
+	partner. The density of the shelter-provider is limited by the environment.
+	4. If a mutualism solely augments reproduction, and most locally
+	produced individuals leave the focal patch, then the mutualism will
+	have a minimal effect on local dynamics. If the mutualism operates
+	by reducing rates of death or enhancing habitat availability, and
+	there is at least some immigration, then mutualism will affect local
+	dynamics. This finding may be particularly relevant in marine systems,
+	where there is high variability (among species and locations) in
+	the extent to which progeny disperse from natal locations. 5. Overall,
+	our results demonstrate that the consequences of immigration and
+	emigration for the dynamics of mutualists depend strongly on which
+	demographic rate is influenced by mutualism. 6. By relating our model
+	to a variety of terrestrial and aquatic systems, we provide a general
+	framework to guide future empirical studies of the dynamics of mutualistic
+	populations.},
+  issn = {0021-8790},
+  uri = {<Go to ISI>://000241158600002}
+}
+
+@ARTICLE{Thompson-2006b,
+  author = {J. N. Thompson},
+  title = {Mutualistic webs of species},
+  journal = {Science},
+  year = {2006},
+  volume = {312},
+  pages = {372-373},
+  number = {5772},
+  month = {Apr},
+  issn = {0036-8075},
+  uri = {<Go to ISI>://000236941800027}
+}
+
+@ARTICLE{True_2001,
+  author = {True, J. R. and Haag, E. S.},
+  title = {Developmental system drift and flexibility in evolutionary trajectories},
+  journal = {Evolution \& Development},
+  year = {2001},
+  volume = {3},
+  pages = {109-119},
+  owner = {francisco},
+  timestamp = {2012.10.07}
+}
+
+@ARTICLE{True_Haag_dev_drift_2001,
+  author = {J.R. True and E.S. Haag},
+  title = {Developmental system drift and flexibility in evolutionary trajectories},
+  journal = {Evolution \& Development},
+  year = {2001},
+  volume = {3},
+  pages = {109-119},
+  abstract = {The comparative analysis of homologous characters is a staple of evolutionary
+	developmental biology and often involves extrapolating from experimental
+	data in model organisms to infer developmental events in non-model
+	organisms. In order to determine the general importance of data obtained
+	in model organisms, it is critical to know how often and to what
+	degree similar phenotypes expressed in different taxa are formed
+	by divergent developmental processes. Both comparative studies of
+	distantly related species and genetic analysis of closely related
+	species indicate that many characters known to be homologous between
+	taxa have diverged in their morphogenetic or gene regulatory underpinnings.
+	This process, which we call “developmental system drift” (DSD), is
+	apparently ubiquitous and has significant implications for the flexibility
+	of developmental evolution of both conserved and evolving characters.
+	Current data on the population genetics and molecular mechanisms
+	of DSD illustrate how the details of developmental processes are
+	constantly changing within evolutionary lineages, indicating that
+	developmental systems may possess a great deal of plasticity in their
+	responses to natural selection.},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{Urban2008,
+  author = {M.C. Urban and M.A. Leibold and P. Amarasekare and L. De Meester
+	and R. Gomulkiewicz and M.E. Hochberg and C.A. Klausmeier and Nicolas
+	Loeuille and C. Mazancourt and J. Norberg and J.H. Pantel and S.Y.
+	Strauss and M. Vellend and M.J. Wade},
+  title = {The evolutionary ecology of metacommunities},
+  journal = {Trends Ecology and Evolution},
+  year = {2008},
+  volume = {23},
+  pages = {311--317},
+  number = {6},
+  month = {Jun},
+  abstract = {Research on the interactions between evolutionary and ecological dynamics
+	has largely focused on local spatial scales and on relatively simple
+	ecological communities. However, recent work demonstrates that dispersal
+	can drastically alter the interplay between ecological and evolutionary
+	dynamics, often in unexpected ways. We argue that a dispersal-centered
+	synthesis of metacommunity ecology and evolution is necessary to
+	make further progress in this important area of research. We demonstrate
+	that such an approach generates several novel outcomes and substantially
+	enhances understanding of both ecological and evolutionary phenomena
+	in three core research areas at the interface of ecology and evolution.},
+  doi = {10.1016/j.tree.2008.02.007},
+  institution = {National Center for Ecological Analysis and Synthesis, Santa Barbara,
+	CA 93101, USA. urban@nceas.ucsb.edu},
+  keywords = {Adaptation, Physiological; Animals; Demography; Ecosystem; Evolution;
+	Food Chain; Plants},
+  owner = {francisco},
+  pii = {S0169-5347(08)00128-6},
+  pmid = {18439707},
+  timestamp = {2009.05.04},
+  url = {http://dx.doi.org/10.1016/j.tree.2008.02.007}
+}
+
+@ARTICLE{van_doorn_weissing_2001,
+  author = {G.S. {van Doorn} and F.J. Weissing},
+  title = {Ecological versus sexual models of sympatric speciation: a synthesis},
+  journal = {Selection},
+  year = {2001},
+  volume = {2},
+  pages = {17-40},
+  owner = {francisco},
+  timestamp = {2012.10.10}
+}
+
+@ARTICLE{Vazquez-bluthgen2009,
+  author = {D.P. V\'{a}zquez and N. Bluthgen and L. Cagnolo and N.P. Chacoff},
+  title = {Uniting pattern and process in plant-animal mutualistic networks:
+	a review},
+  journal = {Ann. Bot-London},
+  year = {2009},
+  volume = {103},
+  pages = {1445-1457},
+  month = {Mar},
+  abstract = {Background Ecologists and evolutionary biologists are becoming increasingly
+	interested in networks as a framework to study plant-animal mutualisms
+	within their ecological context. Although such focus on networks
+	has brought about important insights into the structure of these
+	interactions, relatively little is still known about the mechanisms
+	behind these patterns. Scope The aim in this paper is to offer an
+	overview of the mechanisms influencing the structure of plant-animal
+	mutualistic networks. A brief summary is presented of the salient
+	network patterns, the potential mechanisms are discussed and the
+	studies that have evaluated them are reviewed. This review shows
+	that researchers of plant-animal mutualisms have made substantial
+	progress in the understanding of the processes behind the patterns
+	observed in mutualistic networks. At the same time, we are still
+	far from a thorough, integrative mechanistic understanding. We close
+	with specific suggestions for directions of future research, which
+	include developing methods to evaluate the relative importance of
+	mechanisms influencing network patterns and focusing research efforts
+	on selected representative study systems throughout the world.},
+  doi = {10.1093/aob/mcp057},
+  institution = {Instituto Argentino de Investigaciones de las Zonas Aridas, CONICET,
+	CC 507, 5500 Mendoza, Argentina.},
+  owner = {francisco},
+  pii = {mcp057},
+  pmid = {19304996},
+  timestamp = {2009.05.04},
+  url = {http://dx.doi.org/10.1093/aob/mcp057}
+}
+
+@ARTICLE{Bastolla2009,
+  author = {U. Bastolla and M.A. Fortuna and A. Pascual-Garc\'{i}a and A. Ferrera
+	and B. Luque and J. Bascompte},
+  title = {The architecture of mutualistic networks minimizes competition and
+	increases biodiversity.},
+  journal = {Nature},
+  year = {2009},
+  volume = {458},
+  pages = {1018--1020},
+  number = {7241},
+  month = {Apr},
+  abstract = {The main theories of biodiversity either neglect species interactions
+	or assume that species interact randomly with each other. However,
+	recent empirical work has revealed that ecological networks are highly
+	structured, and the lack of a theory that takes into account the
+	structure of interactions precludes further assessment of the implications
+	of such network patterns for biodiversity. Here we use a combination
+	of analytical and empirical approaches to quantify the influence
+	of network architecture on the number of coexisting species. As a
+	case study we consider mutualistic networks between plants and their
+	animal pollinators or seed dispersers. These networks have been found
+	to be highly nested, with the more specialist species interacting
+	only with proper subsets of the species that interact with the more
+	generalist. We show that nestedness reduces effective interspecific
+	competition and enhances the number of coexisting species. Furthermore,
+	we show that a nested network will naturally emerge if new species
+	are more likely to enter the community where they have minimal competitive
+	load. Nested networks seem to occur in many biological and social
+	contexts, suggesting that our results are relevant in a wide range
+	of fields.},
+  doi = {10.1038/nature07950},
+  institution = {Centro de Biolog�a Molecular, Universidad Aut�noma de Madrid - CSIC,
+	Madrid 28049, Spain.},
+  keywords = {Animals; Biodiversity; Competitive Behavior; Models, Biological; Plants;
+	Pollination; Seeds; Symbiosis},
+  owner = {francisco},
+  pii = {nature07950},
+  pmid = {19396144},
+  timestamp = {2010.02.16},
+  %url = {http://dx.doi.org/10.1038/nature07950}
+}
+
+@ARTICLE{melian2010_plos,
+  author = {C. J. Meli\'{a}n and D. Alonso and D.P. V\'{a}zquez and J. Regetz
+	and S. Allesina},
+  title = {Frequency-dependent selection predicts patterns of radiations and
+	biodiversity},
+  journal = {PLoS Comput Biol},
+  year = {2010},
+  volume = {6},
+  pages = {e1000892},
+  number = {8},
+  abstract = {Most empirical studies support a decline in speciation rates through
+	time, although evidence for constant speciation rates also exists.
+	Declining rates have been explained by invoking pre-existing niches,
+	whereas constant rates have been attributed to non-adaptive processes
+	such as sexual selection and mutation. Trends in speciation rate
+	and the processes underlying it remain unclear, representing a critical
+	information gap in understanding patterns of global diversity. Here
+	we show that the temporal trend in the speciation rate can also be
+	explained by frequency-dependent selection. We construct a frequency-dependent
+	and DNA sequence-based model of speciation. We compare our model
+	to empirical diversity patterns observed for cichlid fish and Darwin's
+	finches, two classic systems for which speciation rates and richness
+	data exist. Negative frequency-dependent selection predicts well
+	both the declining speciation rate found in cichlid fish and explains
+	their species richness. For groups like the Darwin's finches, in
+	which speciation rates are constant and diversity is lower, speciation
+	rate is better explained by a model without frequency-dependent selection.
+	Our analysis shows that differences in diversity may be driven by
+	incipient species abundance with frequency-dependent selection. Our
+	results demonstrate that genetic-distance-based speciation and frequency-dependent
+	selection are sufficient to explain the high diversity observed in
+	natural systems and, importantly, predict decay through time in speciation
+	rate in the absence of pre-existing niches.},
+  doi = {10.1371/journal.pcbi.1000892},
+  institution = {National Center for Ecological Analysis and Synthesis, University
+	of California, Santa Barbara, Santa Barbara, California, United States
+	of America. melian@nceas.ucsb.edu},
+  keywords = {Animals; Base Sequence, genetics; Biodiversity; Cichlids, genetics;
+	Finches, genetics; Genetic Speciation; Models, Genetic; Selection,
+	Genetic},
+  language = {eng},
+  markedentry = {[fran]},
+  medline-pst = {epublish},
+  owner = {fran},
+  pmid = {20865126},
+  timestamp = {2011.01.09},
+  %url = {http://dx.doi.org/10.1371/journal.pcbi.1000892}
+}
+
+@ARTICLE{Vellend2010,
+  author = {M. Vellend},
+  title = {Conceptual synthesis in community ecology},
+  journal = {The Quarterly Review of Biology},
+  year = {2010},
+  volume = {85},
+  pages = {183-206},
+  owner = {francisco},
+  timestamp = {2012.11.22}
+}
+
+@Article{        Wagner:2008,
+  author	= {Wagner, A.},
+  year		= 2008,
+  title		= {Neutralism and selectionism: a network-based reconciliation},
+  journal	= {Nature Reviews Genetics},
+  volume	= 9,
+  pages		= {965-974},
+  pozn		= {neni},
+  kod		= {}
+}
+
+@ARTICLE{Waser_1996,
+  author = {N.M. Waser and L. Chittka and M.V. Price and N.M. Williams and J.
+	Ollerton},
+  title = {Generalization in pollination systems, and why it matters},
+  journal = {Ecology},
+  year = {1996},
+  volume = {77},
+  pages = {1043-1060},
+  abstract = {One view of pollination systems is that they tend toward specialization.
+	This view is implicit in many discussions of angiosperm evolution
+	and plant—pollinator coevolution and in the long—standing concept
+	of pollination syndromes. But actual pollination systems often are
+	more generalized and dynamic than these traditions might suggest.
+	To illustrate the range of specialization and generalization in pollinators'
+	use of plants and vice versa, we draw on studies of two floras in
+	the United States, and of members of several plant families and solitary
+	bee genera. We also summarize a recent study of one local flora which
+	suggests that, although the colors of flowers are aggregated in phenotype
+	space, there is no strong association with pollinator types as pollination
+	syndromes would predict. That moderate to substantial generalization
+	often occurs is not surprising on theoretical grounds. Plant generalization
+	is predicted by a simple model as long as temporal and spatial variance
+	in pollinator quality is appreciable, different pollinator species
+	do not fluctuate in unison, and they are similar in their pollination
+	effectiveness. Pollinator generalization is predicted when floral
+	rewards are similar across plant species, travel is costly, constraints
+	of behavior and morphology are minor, and/or pollinator lifespan
+	is long relative to flowering of individual plant species. Recognizing
+	that pollination systems often are generalized has important implications.
+	In ecological predictions of plant reproductive success and population
+	dynamics it is useful to widen the focus beyond flower visitors within
+	the correct" pollination syndrome, and to recognize temporal and
+	spatial fluidity of interactions. Behavioral studies of pollinator
+	foraging choices and information—processing abilities will benefit
+	from understanding the selective advantages of generalization. In
+	studies of floral adaptation, microevolution, and plant speciation
+	one should recognize that selection and gene flow vary in time and
+	space and that the contribution of pollinators to reproductive isolation
+	of plant species may be overstated. In conservation biology, generalized
+	pollination systems imply resilience to linked extinctions, but also
+	the possibility for introduced generalists to displace natives with
+	a net loss of diversity.
+	
+	
+	
+	Read More: http://www.esajournals.org/doi/abs/10.2307/2265575},
+  owner = {francisco},
+  timestamp = {2012.09.10}
+}
+
+@ARTICLE{         Welch:2004,
+  author	= {Welch, J. J.},
+  year		= 2004,
+  title		= {Accumulating {D}obzhansky-{M}uller incompatibilities: {R}econciling theory and data},
+  journal	= {Evolution},
+  volume	= 58,
+  pages		= {1145-1156},
+  pozn		= {neni},
+  kod		= {}
+}
+
