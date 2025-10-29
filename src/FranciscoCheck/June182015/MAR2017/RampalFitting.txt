@@ -1,0 +1,21 @@
+Hi Carlos,
+
+The simplest way I see is to take the convergence/complementarity vs
+threshold plots. This removes the differences in tree sizes, does it
+not? Then we can do least squares model fitting, where we sum over the
+squared differences with each empirical tree (integrated over the
+threshold value from 0 to 1), i.e. the sum of 'squared' areas between
+the curves.
+More sophisticated is to use ABC, but again we need to have a measure of
+distance to the empirical tree, and again we need something like the sum
+of 'squared' areas between the curves.
+
+Cheers,
+
+Rampal
+
+On 21-Dec-16 09:33, Melian, Carlos wrote:
+> Hi Guys,
+>
+> We have to take a decision about how to join bootstrapping and uncertainty in the empirical tree. Please note
+> that each output from the model have a different number of plant and pollinator species and we have to account for that to compute the % of convergence and complementarity. Now we are going to have several empirical trees and several different size trees from the model. Any advise on how to combine these two kind of trees to produce the threshold --- %convergence plot?
