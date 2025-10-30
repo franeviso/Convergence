@@ -8,7 +8,7 @@ using Plots
 Moran model with ASSORTATIVE mating based on genetic similarity Q
 Q = 1 - h/n where h is Hamming distance
 
-Dispersal is implemented using a Kernel, directional disersal is possible
+Dispersal is implemented using a Kernel, directional dispersal is possible
 """
 mutable struct MoranPopulationAssortative
     L::Int                          # Grid size (L x L)
